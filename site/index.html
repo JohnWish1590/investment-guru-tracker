@@ -5,6 +5,18 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>投资大佬持仓追踪 · SEC 13F / STOCK Act / OGE 原始披露</title>
 <link rel="stylesheet" href="styles.css" />
+<script>
+  /* 在首帧前确定主题，避免闪白/闪黑 */
+  (function () {
+    try {
+      var pref = localStorage.getItem("igt-theme") || "auto";
+      var dark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+      var theme = pref === "auto" ? (dark ? "dark" : "light") : pref;
+      document.documentElement.setAttribute("data-theme", theme);
+      document.documentElement.setAttribute("data-theme-pref", pref);
+    } catch (e) {}
+  })();
+</script>
 </head>
 <body>
 <header class="top">
@@ -16,12 +28,33 @@
         <p class="sub">段永平 · 巴菲特 · 木头姐 · 佩洛西 · 特朗普 —— 每个数字都指回原始披露文件</p>
       </div>
     </div>
-    <div class="fresh">
-      <div class="fresh-row"><span class="dot"></span><span id="fresh-text">数据加载中…</span></div>
-      <div class="fresh-links">
-        <a id="link-sec" target="_blank" rel="noopener">SEC EDGAR ↗</a>
-        <a id="link-house" target="_blank" rel="noopener">House Clerk ↗</a>
-        <a id="link-oge" target="_blank" rel="noopener">OGE ↗</a>
+    <div class="top-right">
+      <div class="theme-switch" id="theme-switch" role="radiogroup" aria-label="主题">
+        <button type="button" data-theme-set="light" role="radio" aria-checked="false" title="浅色" aria-label="浅色">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round">
+            <circle cx="12" cy="12" r="4.1"/>
+            <path d="M12 2.6v2.4M12 19v2.4M4.4 4.4l1.7 1.7M17.9 17.9l1.7 1.7M2.6 12H5M19 12h2.4M4.4 19.6l1.7-1.7M17.9 6.1l1.7-1.7"/>
+          </svg>
+        </button>
+        <button type="button" data-theme-set="dark" role="radio" aria-checked="true" title="深色" aria-label="深色">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round">
+            <path d="M20.2 14.6A8.4 8.4 0 1 1 9.4 3.8a6.7 6.7 0 0 0 10.8 10.8z"/>
+          </svg>
+        </button>
+        <button type="button" data-theme-set="auto" role="radio" aria-checked="false" title="跟随系统" aria-label="跟随系统">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="2.7" y="4.4" width="18.6" height="12.4" rx="2"/>
+            <path d="M9.2 20.4h5.6M12 16.8v3.6"/>
+          </svg>
+        </button>
+      </div>
+      <div class="fresh">
+        <div class="fresh-row"><span class="dot"></span><span id="fresh-text">数据加载中…</span></div>
+        <div class="fresh-links">
+          <a id="link-sec" target="_blank" rel="noopener">SEC EDGAR ↗</a>
+          <a id="link-house" target="_blank" rel="noopener">House Clerk ↗</a>
+          <a id="link-oge" target="_blank" rel="noopener">OGE ↗</a>
+        </div>
       </div>
     </div>
   </div>

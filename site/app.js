@@ -95,17 +95,49 @@
     });
   });
 
+  /* ---------------------------------------------------------------- 主题 */
+  // 主题只有一个真源：<html data-theme>。CSS 变量负责页面配色，
+  // 图表则从这里读同名变量，因此切换主题不需要两套图表代码。
+  const THEME_KEYS = {
+    text: "--text",
+    muted: "--muted",
+    dim: "--dim",
+    line: "--line",
+    accent: "--accent",
+    up: "--up",
+    down: "--down",
+    grid: "--chart-grid",
+    other: "--chart-other",
+    ring: "--chart-ring",
+    tooltipBg: "--tooltip-bg",
+    tooltipText: "--tooltip-text",
+    segActive: "--seg-active-bg",
+  };
+
+  const THEME = { palette: [] };
+
+  function readTheme() {
+    const cs = getComputedStyle(document.documentElement);
+    for (const [k, varName] of Object.entries(THEME_KEYS)) {
+      THEME[k] = cs.getPropertyValue(varName).trim();
+    }
+    const pal = cs.getPropertyValue("--chart-palette").trim();
+    THEME.palette = pal.split(",").map((x) => x.trim()).filter(Boolean);
+  }
+  readTheme();
+
+  const currentPref = () => {
+    try {
+      return localStorage.getItem("igt-theme") || "auto";
+    } catch (e) {
+      return "auto";
+    }
+  };
+  const systemDark = () => window.matchMedia("(prefers-color-scheme: dark)").matches;
+  const resolveTheme = (pref) => (pref === "auto" ? (systemDark() ? "dark" : "light") : pref);
+
   /* ---------------------------------------------------------------- charts */
   const charts = {};
-  const THEME = {
-    text: "#c2ccd6",
-    muted: "#93a1b0",
-    dim: "#6b7a89",
-    line: "#2a333d",
-    accent: "#d8b26a",
-    up: "#2f9e6f",
-    down: "#c0483f",
-  };
   const baseOpt = (extra = {}) => ({
     backgroundColor: "transparent",
     textStyle: { fontFamily: "inherit", color: THEME.text },
@@ -120,10 +152,10 @@
     return c;
   };
   const tooltip = (extra = {}) => ({
-    backgroundColor: "rgba(20,26,33,.96)",
+    backgroundColor: THEME.tooltipBg,
     borderColor: THEME.line,
     borderWidth: 1,
-    textStyle: { color: "#e8edf2", fontSize: 12 },
+    textStyle: { color: THEME.tooltipText, fontSize: 12 },
     ...extra,
   });
   window.addEventListener("resize", () => Object.values(charts).forEach((c) => c && c.resize()));
@@ -294,11 +326,11 @@
       weight: h.weight,
       itemStyle: { color: undefined },
     }));
-    if (rest > 0) data.push({ name: "其他持仓", value: rest, weight: rest / q.total, itemStyle: { color: "#3a4653" } });
+    if (rest > 0) data.push({ name: "其他持仓", value: rest, weight: rest / q.total, itemStyle: { color: THEME.other } });
 
     c.setOption(
       baseOpt({
-        color: ["#d8b26a", "#5b9bd5", "#6fc3a8", "#c98bb9", "#e08a6b", "#8fa9c4", "#9fd06b", "#c4a3e0", "#e0c46b", "#7fb3c9", "#3a4653"],
+        color: [...THEME.palette, THEME.other],
         tooltip: tooltip({
           formatter: (p) =>
             `<b>${esc(p.name)}</b><br/>市值 ${usd(p.value)}<br/>占比 ${pct(p.data.weight)}`,
@@ -320,7 +352,7 @@
             radius: ["42%", "72%"],
             center: ["34%", "52%"],
             avoidLabelOverlap: true,
-            itemStyle: { borderColor: "#12171d", borderWidth: 2 },
+            itemStyle: { borderColor: THEME.ring, borderWidth: 2 },
             label: { show: false },
             emphasis: {
               label: {
@@ -328,7 +360,7 @@
                 formatter: (p) => `${pct(p.data.weight, 1)}`,
                 fontSize: 15,
                 fontWeight: 600,
-                color: "#e8edf2",
+                color: THEME.text,
                 position: "center",
               },
               itemStyle: { shadowBlur: 12, shadowColor: "rgba(0,0,0,.5)" },
@@ -375,7 +407,7 @@
           min: -CAP,
           max: CAP,
           axisLabel: { color: THEME.dim, formatter: (v) => (v * 100).toFixed(0) + "%" },
-          splitLine: { lineStyle: { color: "#212a34" } },
+          splitLine: { lineStyle: { color: THEME.grid } },
         },
         yAxis: {
           type: "category",
@@ -444,7 +476,7 @@
         yAxis: {
           type: "value",
           axisLabel: { color: THEME.dim, formatter: (v) => "$" + money(v) },
-          splitLine: { lineStyle: { color: "#212a34" } },
+          splitLine: { lineStyle: { color: THEME.grid } },
         },
         series: [
           {
@@ -493,7 +525,7 @@
           type: "value",
           minInterval: 1,
           axisLabel: { color: THEME.dim },
-          splitLine: { lineStyle: { color: "#212a34" } },
+          splitLine: { lineStyle: { color: THEME.grid } },
         },
         series: [
           {
@@ -693,7 +725,7 @@
         yAxis: {
           type: "value",
           axisLabel: { color: THEME.dim, formatter: (v) => "$" + money(v) },
-          splitLine: { lineStyle: { color: "#212a34" } },
+          splitLine: { lineStyle: { color: THEME.grid } },
         },
         series: [
           { name: "买入 / 行权", type: "bar", stack: "x", data: keys.map((k) => months[k].buy), itemStyle: { color: THEME.up }, barMaxWidth: 26 },
@@ -744,7 +776,7 @@
         xAxis: {
           type: "value",
           axisLabel: { color: THEME.dim, formatter: (v) => "$" + money(v) },
-          splitLine: { lineStyle: { color: "#212a34" } },
+          splitLine: { lineStyle: { color: THEME.grid } },
         },
         yAxis: {
           type: "category",
@@ -785,7 +817,7 @@
         xAxis: {
           type: "value",
           axisLabel: { color: THEME.dim, formatter: (v) => "$" + money(v) },
-          splitLine: { lineStyle: { color: "#212a34" } },
+          splitLine: { lineStyle: { color: THEME.grid } },
         },
         yAxis: {
           type: "category",
@@ -893,8 +925,8 @@
             })
             .join("");
           return `<tr>
-            <td><span class="tick">${esc(r.name)}</span>
-              <span class="klass">${esc(r.cusip)}</span></td>
+            <td><span class="tick">${esc(r.zh || r.name)}</span>
+              <span class="klass">${esc([r.ticker, r.cusip].filter(Boolean).join(" · "))}</span></td>
             <td class="num">${r.holders}</td>
             ${cells}
           </tr>`;
@@ -904,6 +936,55 @@
     sel.onchange = draw;
     draw();
   }
+
+
+  /* ------------------------------------------------------------ 主题切换 */
+  function paintThemeSwitch() {
+    const pref = currentPref();
+    $$("#theme-switch button").forEach((b) => {
+      const on = b.dataset.themeSet === pref;
+      b.classList.toggle("active", on);
+      b.setAttribute("aria-checked", on ? "true" : "false");
+    });
+  }
+
+  function applyTheme(pref) {
+    const theme = resolveTheme(pref);
+    document.documentElement.setAttribute("data-theme", theme);
+    document.documentElement.setAttribute("data-theme-pref", pref);
+    readTheme();          // 重新读 CSS 变量
+    paintThemeSwitch();
+    redrawAll();          // 图表用新配色重绘
+  }
+
+  function setThemePref(pref) {
+    try {
+      localStorage.setItem("igt-theme", pref);
+    } catch (e) {}
+    applyTheme(pref);
+  }
+
+  // 切换主题时重绘所有图表（数据不变，只换颜色）
+  function redrawAll() {
+    if (typeof renderInst === "function" && INST.length) renderInst();
+    if (typeof renderPol === "function" && POL.length) renderPol();
+    if (typeof renderCross === "function" && CROSS.length) renderCross();
+    if (typeof renderBriefs === "function") renderBriefs();
+  }
+
+  $$("#theme-switch button").forEach((b) =>
+    b.addEventListener("click", () => setThemePref(b.dataset.themeSet))
+  );
+
+  // 跟随系统时，系统主题变化要即时反映
+  const mq = window.matchMedia("(prefers-color-scheme: dark)");
+  const onSystemChange = () => {
+    if (currentPref() === "auto") applyTheme("auto");
+  };
+  if (mq.addEventListener) mq.addEventListener("change", onSystemChange);
+  else if (mq.addListener) mq.addListener(onSystemChange);
+
+  paintThemeSwitch();
 
   /* ================================================================== init */
   renderInstPick();

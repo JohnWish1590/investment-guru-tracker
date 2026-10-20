@@ -429,7 +429,13 @@ def build_cross(institutions: list[dict]) -> list[dict]:
             for h in q["holdings"]:
                 cur = by_cusip.setdefault(
                     h["cusip"],
-                    {"cusip": h["cusip"], "name": h["name"], "byInst": {}},
+                    {
+                        "cusip": h["cusip"],
+                        "name": h["name"],
+                        "zh": h.get("zh") or "",
+                        "ticker": h.get("ticker") or "",
+                        "byInst": {},
+                    },
                 )
                 cur["byInst"][inst["id"]] = {
                     "name": h["name"],
