@@ -154,3 +154,6 @@ PermissionError: [Errno 13] Permission denied: 'C:\\Users\\user\\Documents\\inve
 [2026-10-20 23:23:26] Pelosi: 18 PTRs / 70 trades, 3 annual reports / 186 holdings
 [2026-10-20 23:23:26] Trump: 21 Form 278-T (1117 trades), 2 annual 278e (8047 holdings)
 [2026-10-20 23:23:26] wrote politicians_raw.json
+[2026-10-20 23:27:20] Pelosi: 18 PTRs / 70 trades, 3 annual reports / 186 holdings
+[2026-10-20 23:27:20] Trump: 21 Form 278-T (1117 trades), 2 annual 278e (8047 holdings)
+[2026-10-20 23:27:20] wrote politicians_raw.json
