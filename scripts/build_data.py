@@ -19,6 +19,7 @@ Politicians (STOCK Act PTR / OGE 278-T / 278e)
 """
 from __future__ import annotations
 
+import hashlib
 import json
 import re
 from collections import defaultdict
@@ -503,10 +504,24 @@ def main() -> int:
     latest_filing = max(q["filingDate"] for i in institutions for q in i["quarters"])
     last_trade = max((t["iso"] for p in politicians for t in p["trades"] if t["iso"]), default="")
 
+    # builtAt must NOT change when nothing else did, otherwise every CI run creates
+    # a commit. It is therefore derived from a hash of the payload instead of now().
+    fingerprint = hashlib.sha256(
+        json.dumps(
+            {"i": institutions, "p": politicians, "c": cross},
+            ensure_ascii=False,
+            sort_keys=True,
+        ).encode("utf-8")
+    ).hexdigest()[:16]
+    built_at = (read_json(RAW.parent / "build_meta.json") or {}).get(fingerprint)
+    if not built_at:
+        built_at = datetime.now().strftime("%Y-%m-%d %H:%M")
+
     data = {
         "meta": {
             "generatedAt": raw13f.get("generatedAt"),
-            "builtAt": datetime.now().strftime("%Y-%m-%d %H:%M"),
+            "builtAt": built_at,
+            "fingerprint": fingerprint,
             "latestPeriod": latest_period,
             "latestFilingDate": latest_filing,
             "lastTradeDate": last_trade,
@@ -528,6 +543,7 @@ def main() -> int:
         "window.SITE_DATA=" + payload + ";\n", encoding="utf-8"
     )
     write_json(RAW.parent / "site_data.json", data)
+    write_json(RAW.parent / "build_meta.json", {fingerprint: built_at})
     print(
         f"site/data.js: {len(institutions)} institutions, {len(politicians)} politicians, "
         f"{len(cross)} cross-holdings periods, latest 13F {latest_period}"
