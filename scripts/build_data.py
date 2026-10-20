@@ -540,7 +540,7 @@ def main() -> int:
     # ship as a JS file so the page also works when opened from disk (file://)
     payload = json.dumps(data, ensure_ascii=False, separators=(",", ":"))
     (RAW.parent.parent / "site" / "data.js").write_text(
-        "window.SITE_DATA=" + payload + ";\n", encoding="utf-8"
+        "window.SITE_DATA=" + payload + ";\n", encoding="utf-8", newline=chr(10)
     )
     write_json(RAW.parent / "site_data.json", data)
     print(
