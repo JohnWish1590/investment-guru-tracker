@@ -237,7 +237,7 @@ def main() -> int:
     for p in PEOPLE:
         filings = fetch_pelosi(s) if p["chamber"] == "house" else fetch_trump(s)
         out["people"].append({**p, "filings": filings})
-    write_json(RAW / "politicians_raw.json", out)
+    write_json(RAW / "politicians_raw.json", out, sort_keys=True)
     log("wrote politicians_raw.json")
     return 0
 

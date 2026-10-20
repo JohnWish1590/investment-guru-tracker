@@ -64,10 +64,15 @@ def read_json(path: Path, default=None):
         return default
 
 
-def write_json(path: Path, obj) -> None:
+def write_json(path: Path, obj, *, sort_keys: bool = False) -> None:
+    """Write JSON atomically. `sort_keys` makes output byte-stable for CI diffs."""
     path.parent.mkdir(parents=True, exist_ok=True)
     tmp = path.with_suffix(path.suffix + ".tmp")
-    tmp.write_text(json.dumps(obj, ensure_ascii=False, indent=1), encoding="utf-8")
+    tmp.write_text(
+        json.dumps(obj, ensure_ascii=False, indent=1, sort_keys=sort_keys),
+        encoding="utf-8",
+        newline=chr(10),
+    )
     os.replace(tmp, path)
 
 

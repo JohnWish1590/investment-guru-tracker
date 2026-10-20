@@ -214,7 +214,15 @@ def main() -> int:
     store["zh_by_cusip"] = by_cusip
     store["ticker_by_cusip"] = {c: v["ticker"] for c, v in store["cusips"].items() if v.get("ticker")}
 
-    store["updated"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+    # Only bump the timestamp when the mapping actually changed, otherwise every
+    # CI run would commit a one-line diff.
+    payload = {k: v for k, v in store.items() if k != "updated"}
+    prev = read_json(NAMES) or {}
+    prev_payload = {k: v for k, v in prev.items() if k != "updated"}
+    if payload != prev_payload:
+        store["updated"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+    else:
+        store["updated"] = prev.get("updated") or time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
     write_json(NAMES, store)
     mapped = sum(1 for v in store["cusips"].values() if v.get("ticker"))
     print(f"cusips={len(filed)} tickers={mapped} zh={len(store['zh'])} usable={len(store['zh_by_cusip'])}")

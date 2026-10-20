@@ -145,3 +145,12 @@ PermissionError: [Errno 13] Permission denied: 'C:\\Users\\user\\Documents\\inve
 [2026-10-20 22:59:32] 沃伦·巴菲特: 44 13F filings, keeping 9 periods
 [2026-10-20 22:59:32] 凯瑟琳·伍德（木头姐）: 40 13F filings, keeping 9 periods
 [2026-10-20 22:59:32] wrote C:\Users\user\Documents\investment-guru-tracker\data\raw\13f_raw.json
+[2026-10-20 23:23:10] Pelosi: 18 PTRs / 70 trades, 3 annual reports / 186 holdings
+[2026-10-20 23:23:11] Trump: 21 Form 278-T (1117 trades), 2 annual 278e (8047 holdings)
+[2026-10-20 23:23:11] wrote politicians_raw.json
+[2026-10-20 23:23:23] Pelosi: 18 PTRs / 70 trades, 3 annual reports / 186 holdings
+[2026-10-20 23:23:23] Trump: 21 Form 278-T (1117 trades), 2 annual 278e (8047 holdings)
+[2026-10-20 23:23:24] wrote politicians_raw.json
+[2026-10-20 23:23:26] Pelosi: 18 PTRs / 70 trades, 3 annual reports / 186 holdings
+[2026-10-20 23:23:26] Trump: 21 Form 278-T (1117 trades), 2 annual 278e (8047 holdings)
+[2026-10-20 23:23:26] wrote politicians_raw.json
