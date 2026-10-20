@@ -1,0 +1,156 @@
+[
+ {
+  "owner": "SP",
+  "asset": "Bloom Energy Corporation Class A Common Stock",
+  "ticker": "BE",
+  "assetType": "ST",
+  "txType": "P",
+  "kind": "buy",
+  "date": "07/24/2026",
+  "notified": "07/24/2026",
+  "amountText": "$1,000,001 - $5,000,000",
+  "amountLow": 1000001,
+  "amountHigh": 5000000,
+  "shares": 10000,
+  "note": "F/S: New D: Purchased 10,000 shares.",
+  "page": 1,
+  "source": {
+   "docId": "20035143",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf",
+   "year": 2026,
+   "filedOn": "8/21/2026"
+  }
+ },
+ {
+  "owner": "SP",
+  "asset": "Bloom Energy Corporation Class A Common Stock",
+  "ticker": "BE",
+  "assetType": "OP",
+  "txType": "P",
+  "kind": "buy",
+  "date": "07/24/2026",
+  "notified": "07/24/2026",
+  "amountText": "$1,000,001 - $5,000,000",
+  "amountLow": 1000001,
+  "amountHigh": 5000000,
+  "shares": null,
+  "note": "F/S: New D: Purchased 100 call options",
+  "page": 1,
+  "source": {
+   "docId": "20035143",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf",
+   "year": 2026,
+   "filedOn": "8/21/2026"
+  }
+ },
+ {
+  "owner": "SP",
+  "asset": "Bloom Energy Corporation Class A Common Stock",
+  "ticker": "BE",
+  "assetType": "ST",
+  "txType": "P",
+  "kind": "buy",
+  "date": "07/28/2026",
+  "notified": "07/28/2026",
+  "amountText": "$500,001 - $1,000,000",
+  "amountLow": 500001,
+  "amountHigh": 1000000,
+  "shares": 5000,
+  "note": "F/S: New D: Purchased 5,000 shares.",
+  "page": 1,
+  "source": {
+   "docId": "20035143",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf",
+   "year": 2026,
+   "filedOn": "8/21/2026"
+  }
+ },
+ {
+  "owner": "SP",
+  "asset": "Bloom Energy Corporation Class A Common Stock",
+  "ticker": "BE",
+  "assetType": "OP",
+  "txType": "P",
+  "kind": "buy",
+  "date": "07/28/2026",
+  "notified": "07/28/2026",
+  "amountText": "$500,001 - $1,000,000",
+  "amountLow": 500001,
+  "amountHigh": 1000000,
+  "shares": null,
+  "note": "F/S: New D: Purchased 100 call options",
+  "page": 1,
+  "source": {
+   "docId": "20035143",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf",
+   "year": 2026,
+   "filedOn": "8/21/2026"
+  }
+ },
+ {
+  "owner": "SP",
+  "asset": "Intel Corporation - Common Stock",
+  "ticker": "INTC",
+  "assetType": "OP",
+  "txType": "P",
+  "kind": "buy",
+  "date": "07/24/2026",
+  "notified": "07/24/2026",
+  "amountText": "$250,001 - $500,000",
+  "amountLow": 250001,
+  "amountHigh": 500000,
+  "shares": null,
+  "note": "F/S: New D: Purchased 50 call options with",
+  "page": 1,
+  "source": {
+   "docId": "20035143",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf",
+   "year": 2026,
+   "filedOn": "8/21/2026"
+  }
+ },
+ {
+  "owner": "SP",
+  "asset": "Intel Corporation - Common Stock",
+  "ticker": "INTC",
+  "assetType": "ST",
+  "txType": "P",
+  "kind": "buy",
+  "date": "07/24/2026",
+  "notified": "07/24/2026",
+  "amountText": "$500,001 - $1,000,000",
+  "amountLow": 500001,
+  "amountHigh": 1000000,
+  "shares": 10000,
+  "note": "F/S: New D: Purchased 10,000 shares.",
+  "page": 1,
+  "source": {
+   "docId": "20035143",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf",
+   "year": 2026,
+   "filedOn": "8/21/2026"
+  }
+ },
+ {
+  "owner": "SP",
+  "asset": "REOF XXV, LLC",
+  "ticker": null,
+  "assetType": "AB",
+  "txType": "P",
+  "kind": "buy",
+  "date": "07/27/2026",
+  "notified": "07/27/2026",
+  "amountText": "$500,001 - $1,000,000",
+  "amountLow": 500001,
+  "amountHigh": 1000000,
+  "shares": null,
+  "note": "F/S: New D: Additional investment in LLC",
+  "page": 2,
+  "source": {
+   "docId": "20035143",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf",
+   "year": 2026,
+   "filedOn": "8/21/2026"
+  }
+ }
+]

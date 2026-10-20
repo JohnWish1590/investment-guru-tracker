@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>投资大佬持仓追踪 · SEC 13F / STOCK Act / OGE 原始披露</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<header class="top">
+  <div class="wrap top-inner">
+    <div class="brand">
+      <div class="mark">13F</div>
+      <div>
+        <h1>投资大佬持仓追踪</h1>
+        <p class="sub">段永平 · 巴菲特 · 木头姐 · 佩洛西 · 特朗普 —— 每个数字都指回原始披露文件</p>
+      </div>
+    </div>
+    <div class="fresh">
+      <div class="fresh-row"><span class="dot"></span><span id="fresh-text">数据加载中…</span></div>
+      <div class="fresh-links">
+        <a id="link-sec" target="_blank" rel="noopener">SEC EDGAR ↗</a>
+        <a id="link-house" target="_blank" rel="noopener">House Clerk ↗</a>
+        <a id="link-oge" target="_blank" rel="noopener">OGE ↗</a>
+      </div>
+    </div>
+  </div>
+  <nav class="tabs wrap" id="tabs">
+    <button class="tab active" data-tab="inst">机构持仓 <small>13F</small></button>
+    <button class="tab" data-tab="pol">政客交易 <small>STOCK Act / OGE</small></button>
+    <button class="tab" data-tab="brief">本期变化摘要 <small>最新 vs 上期</small></button>
+    <button class="tab" data-tab="cross">共同持仓 <small>横向对比</small></button>
+    <button class="tab" data-tab="about">数据说明 <small>方法与出处</small></button>
+  </nav>
+</header>
+
+<main class="wrap">
+
+  <!-- ===================== 机构持仓 ===================== -->
+  <section id="panel-inst" class="panel active">
+    <div class="pick-row" id="inst-pick"></div>
+
+    <div class="inst-head">
+      <div>
+        <h2 id="inst-name">—</h2>
+        <p class="muted" id="inst-role">—</p>
+        <p class="note" id="inst-note"></p>
+      </div>
+      <div class="q-pick">
+        <label for="q-select">报告季度</label>
+        <select id="q-select"></select>
+        <div class="q-meta" id="q-meta"></div>
+      </div>
+    </div>
+
+    <div class="brief" id="inst-brief"></div>
+
+    <div class="kpis" id="kpis"></div>
+
+    <div class="grid-2">
+      <div class="card">
+        <div class="card-head">
+          <h3>Top 10 持仓分布</h3>
+          <span class="hint">按 13F 申报市值 · 占比 = 市值 / 全部申报市值</span>
+        </div>
+        <div id="pie" class="chart chart-tall"></div>
+      </div>
+      <div class="card">
+        <div class="card-head">
+          <h3>本季调仓幅度</h3>
+          <span class="hint">股数变化率（剔除价格波动）</span>
+        </div>
+        <div id="moves" class="chart chart-tall"></div>
+      </div>
+    </div>
+
+    <div class="grid-2">
+      <div class="card">
+        <div class="card-head">
+          <h3>申报总市值趋势</h3>
+          <span class="hint">最近 9 个季度</span>
+        </div>
+        <div id="trend" class="chart"></div>
+      </div>
+      <div class="card">
+        <div class="card-head">
+          <h3>仓位动作汇总</h3>
+          <span class="hint" id="action-hint"></span>
+        </div>
+        <div id="actions" class="chart"></div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-head">
+        <h3>持仓明细</h3>
+        <div class="head-tools">
+          <span class="hint" id="table-hint"></span>
+          <label class="switch"><input type="checkbox" id="show-all" /> <span>显示全部持仓</span></label>
+        </div>
+      </div>
+      <div class="table-scroll">
+        <table class="data" id="holdings-table">
+          <thead>
+            <tr>
+              <th class="num">#</th>
+              <th>证券</th>
+              <th class="r">持股数</th>
+              <th class="r">市值 (USD)</th>
+              <th class="r">占比</th>
+              <th class="r">股数变化</th>
+              <th class="r">占比变化</th>
+              <th>动作</th>
+              <th>出处（SEC 原始文件）</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="grid-2">
+      <div class="card">
+        <div class="card-head"><h3>加仓 / 新建</h3></div>
+        <ul class="movers" id="movers-up"></ul>
+      </div>
+      <div class="card">
+        <div class="card-head"><h3>减仓 / 清仓</h3></div>
+        <ul class="movers" id="movers-down"></ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== 政客交易 ===================== -->
+  <section id="panel-pol" class="panel">
+    <div class="pick-row" id="pol-pick"></div>
+
+    <div class="inst-head">
+      <div>
+        <h2 id="pol-name">—</h2>
+        <p class="muted" id="pol-role">—</p>
+        <p class="note" id="pol-note"></p>
+      </div>
+      <div class="q-pick">
+        <label for="pol-range">时间范围</label>
+        <select id="pol-range">
+          <option value="12">最近 12 个月</option>
+          <option value="24">最近 24 个月</option>
+          <option value="0" selected>全部披露</option>
+        </select>
+        <div class="q-meta" id="pol-meta"></div>
+      </div>
+    </div>
+
+    <div class="brief" id="pol-brief"></div>
+
+    <div class="kpis" id="pol-kpis"></div>
+
+    <div class="grid-2">
+      <div class="card">
+        <div class="card-head">
+          <h3>按月买卖申报金额</h3>
+          <span class="hint">按下限金额累加（披露仅给区间）</span>
+        </div>
+        <div id="pol-bars" class="chart chart-tall"></div>
+      </div>
+      <div class="card">
+        <div class="card-head">
+          <h3>交易最活跃标的</h3>
+          <span class="hint">按申报金额下限汇总</span>
+        </div>
+        <div id="pol-top" class="chart chart-tall"></div>
+      </div>
+    </div>
+
+    <div class="card" id="snapshot-card">
+      <div class="card-head">
+        <h3>年度报告持仓快照（Top 10）</h3>
+        <span class="hint" id="snapshot-hint"></span>
+      </div>
+      <div class="grid-2 inner">
+        <div id="pol-snap-chart" class="chart chart-tall"></div>
+        <div class="table-scroll">
+          <table class="data compact" id="snap-table">
+            <thead>
+              <tr><th class="num">#</th><th>资产</th><th class="r">申报价值区间</th><th class="r">占组合</th><th>出处</th></tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-head">
+        <h3>逐笔交易明细</h3>
+        <div class="head-tools">
+          <span class="hint" id="trades-hint"></span>
+          <select id="trade-filter">
+            <option value="all">全部方向</option>
+            <option value="buy">仅买入 / 行权</option>
+            <option value="sell">仅卖出</option>
+          </select>
+        </div>
+      </div>
+      <div class="table-scroll tall">
+        <table class="data" id="trades-table">
+          <thead>
+            <tr>
+              <th>交易日期</th>
+              <th>标的</th>
+              <th>类型</th>
+              <th>方向</th>
+              <th class="r">申报金额区间</th>
+              <th>申报日</th>
+              <th>出处（原始 PDF）</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== 本期变化摘要 ===================== -->
+  <section id="panel-brief" class="panel">
+    <div class="inst-head">
+      <div>
+        <h2>本期变化摘要</h2>
+        <p class="muted">每个人 / 机构「最新一期披露」与「上一个申报期」的对比，全部由规则模板从已核算的数字生成。</p>
+        <p class="note">机构按季末 13F 持仓表逐项比较（股数变化剔除价格影响）；政客只有交易流水、没有持仓快照，因此摘要内容是「最新一份披露买了/卖了什么 + 累计方向」，不是持仓变化。</p>
+      </div>
+      <div class="q-pick">
+        <span class="hint">更新时间</span>
+        <div class="q-meta" id="brief-meta"></div>
+      </div>
+    </div>
+    <div id="brief-list" class="brief-list"></div>
+  </section>
+
+  <!-- ===================== 共同持仓 ===================== -->
+  <section id="panel-cross" class="panel">
+    <div class="inst-head">
+      <div>
+        <h2>同一季度、同一标的：谁在买、谁在卖</h2>
+        <p class="muted">按 CUSIP 对齐三家机构的 13F 持仓，只列出至少两家同时持有的标的。</p>
+        <p class="note">持股数来自各家 13F information table；占比为各机构自身申报市值口径，跨机构不可直接相加。</p>
+      </div>
+      <div class="q-pick">
+        <label for="cross-q">报告季度</label>
+        <select id="cross-q"></select>
+        <div class="q-meta" id="cross-meta"></div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-head">
+        <h3>重叠持仓</h3>
+        <span class="hint" id="cross-hint"></span>
+      </div>
+      <div class="table-scroll tall">
+        <table class="data" id="cross-table">
+          <thead></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== 数据说明 ===================== -->
+  <section id="panel-about" class="panel">
+    <div class="grid-2">
+      <div class="card prose">
+        <h3>每个数字的出处</h3>
+        <p>机构持仓的每一行都来自 SEC EDGAR 的 <b>13F-HR information table</b>（XML）。表格「出处」列给出 accession number、申报日与直达链接；季度标题旁给出该季度的 filing index 与 primary document。</p>
+        <p>政客交易的每一行来自众议院书记处（House Clerk）的 <b>PTR PDF</b> 或美国政府伦理署（OGE）的 <b>Form 278-T PDF</b>，「出处」列直达该 PDF；年度报告（Form O / 278e）用于持仓快照。</p>
+        <h3>口径与已知限制</h3>
+        <ul>
+          <li><b>13F 只覆盖美国上市证券的多头/期权</b>，不含现金、债券、海外持股、空头与部分衍生品，因此「申报市值」≠ 全部资产。</li>
+          <li><b>伯克希尔的同一 CUSIP 会出现多行</b>（不同子公司分别申报）。本站按 CUSIP + put/call 合并后再比较，否则环比会出现假信号。</li>
+          <li><b>市值变化 = 价格 × 股数</b>。判断真实加减仓请看「股数变化」，市值变化里含股价涨跌。</li>
+          <li><b>13F 有最长 45 天滞后</b>；季末持仓在季后 45 天内申报，季度末之后可能已经变化。</li>
+          <li><b>政客只披露区间金额</b>（如 $1,000,001–$5,000,000），且没有实时持仓快照；金额一律按原文区间展示，不做点估计。</li>
+          <li>13F-HR/A 通常是「部分更正」，本站按「基础表 + 更正表逐条覆盖」合并，并在季度信息里标注修订记录。</li>
+        </ul>
+      </div>
+      <div class="card prose">
+        <h3>数据源</h3>
+        <ul class="srcs" id="about-srcs"></ul>
+        <h3>自动更新</h3>
+        <p>本页由本地脚本每日检查一次官方披露：SEC 13F 新 filing、House Clerk 新增 PTR/年报、OGE 新增 278-T。发现更新后重新抓取并重建数据，页面顶部「数据新鲜度」会同步变化。</p>
+        <pre id="build-info"></pre>
+        <h3>抓取脚本</h3>
+        <pre>scripts/fetch_13f.py          SEC 13F-HR → data/raw/13f_raw.json
+scripts/fetch_politicians.py  House Clerk + OGE → data/raw/politicians_raw.json
+scripts/build_data.py         计算指标 → site/data.js
+scripts/daily_check.py        每日检测 + 增量重建</pre>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="wrap foot">
+  <p>所有数据取自美国政府公开披露文件（SEC EDGAR / U.S. House Clerk / U.S. OGE）。本站为研究用途，不构成投资建议。</p>
+</footer>
+
+<script src="vendor/echarts.min.js"></script>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

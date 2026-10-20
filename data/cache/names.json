@@ -1,0 +1,2000 @@
+{
+ "cusips": {
+  "037833100": {
+   "ticker": "AAPL",
+   "en": "APPLE INC"
+  },
+  "084670702": {
+   "ticker": "BRK.B",
+   "en": "BERKSHIRE HATHAWAY INC-CL B"
+  },
+  "02079K107": {
+   "ticker": "GOOG",
+   "en": "ALPHABET INC-CL C"
+  },
+  "01609W102": {
+   "ticker": "BABA",
+   "en": "ALIBABA GROUP HOLDING-SP ADR"
+  },
+  "674599105": {
+   "ticker": "OXY",
+   "en": "OCCIDENTAL PETROLEUM CORP"
+  },
+  "254687106": {
+   "ticker": "DIS",
+   "en": "WALT DISNEY CO/THE"
+  },
+  "60770K107": {
+   "ticker": "MRNA",
+   "en": "MODERNA INC"
+  },
+  "722304102": {
+   "ticker": "PDD",
+   "en": "PDD HOLDINGS INC"
+  },
+  "060505104": {
+   "ticker": "BAC",
+   "en": "BANK OF AMERICA CORP"
+  },
+  "594918104": {
+   "ticker": "MSFT",
+   "en": "MICROSOFT CORP"
+  },
+  "67066G104": {
+   "ticker": "NVDA",
+   "en": "NVIDIA CORP"
+  },
+  "874039100": {
+   "ticker": "TSM",
+   "en": "TAIWAN SEMICONDUCTOR-SP ADR"
+  },
+  "N07059210": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "21873S108": {
+   "ticker": "CRWV",
+   "en": "COREWEAVE INC-CL A"
+  },
+  "G25457105": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "88023B103": {
+   "ticker": "TEM",
+   "en": "TEMPUS AI INC-CL A"
+  },
+  "88160R101": {
+   "ticker": "TSLA",
+   "en": "TESLA INC"
+  },
+  "91324P102": {
+   "ticker": "UNH",
+   "en": "UNITEDHEALTH GROUP INC"
+  },
+  "172573107": {
+   "ticker": "CRCL",
+   "en": "CIRCLE INTERNET GROUP INC"
+  },
+  "69608A108": {
+   "ticker": "PLTR",
+   "en": "PALANTIR TECHNOLOGIES INC-A"
+  },
+  "871607107": {
+   "ticker": "SNPS",
+   "en": "SYNOPSYS INC"
+  },
+  "22788C105": {
+   "ticker": "CRWD",
+   "en": "CROWDSTRIKE HOLDINGS INC - A"
+  },
+  "833445109": {
+   "ticker": "SNOW",
+   "en": "SNOWFLAKE INC"
+  },
+  "457642205": {
+   "ticker": "INOD",
+   "en": "INNODATA INC"
+  },
+  "025816109": {
+   "ticker": "AXP",
+   "en": "AMERICAN EXPRESS CO"
+  },
+  "191216100": {
+   "ticker": "KO",
+   "en": "COCA-COLA CO/THE"
+  },
+  "166764100": {
+   "ticker": "CVX",
+   "en": "CHEVRON CORP"
+  },
+  "500754106": {
+   "ticker": "KHC",
+   "en": "KRAFT HEINZ CO/THE"
+  },
+  "615369105": {
+   "ticker": "MCO",
+   "en": "MOODY'S CORP"
+  },
+  "H1467J104": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "23918K108": {
+   "ticker": "DVA",
+   "en": "DAVITA INC"
+  },
+  "172967424": {
+   "ticker": "C",
+   "en": "CITIGROUP INC"
+  },
+  "501044101": {
+   "ticker": "KR",
+   "en": "KROGER CO"
+  },
+  "92343E102": {
+   "ticker": "VRSN",
+   "en": "VERISIGN INC"
+  },
+  "92826C839": {
+   "ticker": "V",
+   "en": "VISA INC-CLASS A SHARES"
+  },
+  "023135106": {
+   "ticker": "AMZN",
+   "en": "AMAZON.COM INC"
+  },
+  "57636Q104": {
+   "ticker": "MA",
+   "en": "MASTERCARD INC - A"
+  },
+  "531229789": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "G6683N103": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "14040H105": {
+   "ticker": "COF",
+   "en": "CAPITAL ONE FINANCIAL CORP"
+  },
+  "G0403H108": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "02005N100": {
+   "ticker": "ALLY",
+   "en": "ALLY FINANCIAL INC"
+  },
+  "16119P108": {
+   "ticker": "CHTR",
+   "en": "CHARTER COMMUNICATIONS INC-A"
+  },
+  "872590104": {
+   "ticker": "TMUS",
+   "en": "T-MOBILE US INC"
+  },
+  "531229813": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "531229854": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "546347105": {
+   "ticker": "LPX",
+   "en": "LOUISIANA-PACIFIC CORP"
+  },
+  "531229722": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "339750101": {
+   "ticker": "FND",
+   "en": "FLOOR & DECOR HOLDINGS INC-A"
+  },
+  "82968B103": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "90384S303": {
+   "ticker": "ULTA",
+   "en": "ULTA BEAUTY INC"
+  },
+  "531229748": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "422806208": {
+   "ticker": "HEI.A",
+   "en": "HEICO CORP-CLASS A"
+  },
+  "62944T105": {
+   "ticker": "NVR",
+   "en": "NVR INC"
+  },
+  "25243Q205": {
+   "ticker": "DEO",
+   "en": "DIAGEO PLC-SPONSORED ADR"
+  },
+  "G9001E102": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "47233W109": {
+   "ticker": "JEF",
+   "en": "JEFFERIES FINANCIAL GROUP IN"
+  },
+  "922908363": {
+   "ticker": "VOO",
+   "en": "VANGUARD S&P 500 ETF"
+  },
+  "78462F103": {
+   "ticker": "SPY",
+   "en": "SS SPDR S&P 500 ETF TRUST-US"
+  },
+  "526057302": {
+   "ticker": "LEN.B",
+   "en": "LENNAR CORP - B SHS"
+  },
+  "G9001E128": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "047726302": {
+   "ticker": "BATRK",
+   "en": "ATLANTA BRAVES HOLDINGS IN-C"
+  },
+  "829933100": {
+   "ticker": "SIRI",
+   "en": "SIRIUS XM HOLDINGS INC"
+  },
+  "25754A201": {
+   "ticker": "DPZ",
+   "en": "DOMINO'S PIZZA INC"
+  },
+  "73278L105": {
+   "ticker": "POOL",
+   "en": "POOL CORP"
+  },
+  "21036P108": {
+   "ticker": "STZ",
+   "en": "CONSTELLATION BRANDS INC-A"
+  },
+  "670346105": {
+   "ticker": "NUE",
+   "en": "NUCOR CORP"
+  },
+  "526057104": {
+   "ticker": "LEN",
+   "en": "LENNAR CORP-A"
+  },
+  "23331A109": {
+   "ticker": "DHI",
+   "en": "DR HORTON INC"
+  },
+  "512816109": {
+   "ticker": "LAMR",
+   "en": "LAMAR ADVERTISING CO-A"
+  },
+  "G0176J109": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "02079K305": {
+   "ticker": "GOOGL",
+   "en": "ALPHABET INC-CL A"
+  },
+  "530909308": {
+   "ticker": "LLYVK",
+   "en": "LIBERTY LIVE HOLDINGS-C"
+  },
+  "530909100": {
+   "ticker": "LLYVA",
+   "en": "LIBERTY LIVE HOLDINGS-A"
+  },
+  "650111107": {
+   "ticker": "NYT",
+   "en": "NEW YORK TIMES CO-A"
+  },
+  "531229755": {
+   "ticker": "FWONK",
+   "en": "LIBERTY MEDIA CORP-C"
+  },
+  "247361702": {
+   "ticker": "DAL",
+   "en": "DELTA AIR LINES INC"
+  },
+  "55616P104": {
+   "ticker": "M",
+   "en": "MACY'S INC"
+  },
+  "19260Q107": {
+   "ticker": "COIN",
+   "en": "COINBASE GLOBAL INC -CLASS A"
+  },
+  "77543R102": {
+   "ticker": "ROKU",
+   "en": "ROKU INC"
+  },
+  "852234103": {
+   "ticker": "XYZ",
+   "en": "BLOCK INC"
+  },
+  "771049103": {
+   "ticker": "RBLX",
+   "en": "ROBLOX CORP -CLASS A"
+  },
+  "770700102": {
+   "ticker": "HOOD",
+   "en": "ROBINHOOD MARKETS INC - A"
+  },
+  "H17182108": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "90364P105": {
+   "ticker": "PATH",
+   "en": "UIPATH INC - CLASS A"
+  },
+  "82509L107": {
+   "ticker": "SHOP",
+   "en": "SHOPIFY INC - CLASS A"
+  },
+  "90184D100": {
+   "ticker": "TWST",
+   "en": "TWIST BIOSCIENCE CORP"
+  },
+  "45826J105": {
+   "ticker": "NTLA",
+   "en": "INTELLIA THERAPEUTICS INC"
+  },
+  "69553P100": {
+   "ticker": "PD",
+   "en": "PAGERDUTY INC"
+  },
+  "880770102": {
+   "ticker": "TER",
+   "en": "TERADYNE INC"
+  },
+  "26142V105": {
+   "ticker": "DKNG",
+   "en": "DRAFTKINGS INC-CL A"
+  },
+  "30303M102": {
+   "ticker": "META",
+   "en": "META PLATFORMS INC-CLASS A"
+  },
+  "75629V104": {
+   "ticker": "RXRX",
+   "en": "RECURSION PHARMACEUTICALS-A"
+  },
+  "040919102": {
+   "ticker": "ARKB",
+   "en": "ARK 21SHARES BITCOIN ETF"
+  },
+  "72352L106": {
+   "ticker": "PINS",
+   "en": "PINTEREST INC- CLASS A"
+  },
+  "91332U101": {
+   "ticker": "U",
+   "en": "UNITY SOFTWARE INC"
+  },
+  "88025U109": {
+   "ticker": "TXG",
+   "en": "10X GENOMICS INC-CLASS A"
+  },
+  "07373V105": {
+   "ticker": "BEAM",
+   "en": "BEAM THERAPEUTICS INC"
+  },
+  "88339J105": {
+   "ticker": "TTD",
+   "en": "TRADE DESK INC/THE -CLASS A"
+  },
+  "98980L101": {
+   "ticker": "ZM",
+   "en": "ZOOM COMMUNICATIONS INC"
+  },
+  "92337F107": {
+   "ticker": "VCYT",
+   "en": "VERACYTE INC"
+  },
+  "83406F102": {
+   "ticker": "SOFI",
+   "en": "SOFI TECHNOLOGIES INC"
+  },
+  "50077B207": {
+   "ticker": "KTOS",
+   "en": "KRATOS DEFENSE & SECURITY"
+  },
+  "03945R102": {
+   "ticker": "ACHR",
+   "en": "ARCHER AVIATION INC-A"
+  },
+  "14167L103": {
+   "ticker": "CDNA",
+   "en": "CAREDX INC"
+  },
+  "87918A105": {
+   "ticker": "TDOC",
+   "en": "TELADOC HEALTH INC"
+  },
+  "46269C102": {
+   "ticker": "IRDM",
+   "en": "IRIDIUM COMMUNICATIONS INC"
+  },
+  "462222100": {
+   "ticker": "IONS",
+   "en": "IONIS PHARMACEUTICALS INC"
+  },
+  "896239100": {
+   "ticker": "TRMB",
+   "en": "TRIMBLE INC"
+  },
+  "008073108": {
+   "ticker": "AVAV",
+   "en": "AEROVIRONMENT INC"
+  },
+  "888787108": {
+   "ticker": "TOST",
+   "en": "TOAST INC-CLASS A"
+  },
+  "67080M103": {
+   "ticker": "NRIX",
+   "en": "NURIX THERAPEUTICS INC"
+  },
+  "03969T109": {
+   "ticker": "ARCT",
+   "en": "ARCTURUS THERAPEUTICS HOLDIN"
+  },
+  "80810D103": {
+   "ticker": "SDGR",
+   "en": "SCHRODINGER INC"
+  },
+  "69404D108": {
+   "ticker": "PACB",
+   "en": "PACIFIC BIOSCIENCES OF CALIF"
+  },
+  "632307104": {
+   "ticker": "NTRA",
+   "en": "NATERA INC"
+  },
+  "L8681T102": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "58733R102": {
+   "ticker": "MELI",
+   "en": "MERCADOLIBRE INC"
+  },
+  "00650F109": {
+   "ticker": "ADPT",
+   "en": "ADAPTIVE BIOTECHNOLOGIES"
+  },
+  "007903107": {
+   "ticker": "AMD",
+   "en": "ADVANCED MICRO DEVICES"
+  },
+  "92532F100": {
+   "ticker": "VRTX",
+   "en": "VERTEX PHARMACEUTICALS INC"
+  },
+  "157085101": {
+   "ticker": "CERS",
+   "en": "CERUS CORP"
+  },
+  "G3934V109": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "244199105": {
+   "ticker": "DE",
+   "en": "DEERE & CO"
+  },
+  "18915M107": {
+   "ticker": "NET",
+   "en": "CLOUDFLARE INC - CLASS A"
+  },
+  "74168J101": {
+   "ticker": "PRME",
+   "en": "PRIME MEDICINE INC"
+  },
+  "922475108": {
+   "ticker": "VEEV",
+   "en": "VEEVA SYSTEMS INC-CLASS A"
+  },
+  "773122106": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "461202103": {
+   "ticker": "INTU",
+   "en": "INTUIT INC"
+  },
+  "747525103": {
+   "ticker": "QCOM",
+   "en": "QUALCOMM INC"
+  },
+  "45337C102": {
+   "ticker": "INCY",
+   "en": "INCYTE CORP"
+  },
+  "65345M108": {
+   "ticker": "NXDR",
+   "en": "NEXTDOOR HOLDINGS INC"
+  },
+  "031162100": {
+   "ticker": "AMGN",
+   "en": "AMGEN INC"
+  },
+  "34385P108": {
+   "ticker": "LAB",
+   "en": "STANDARD BIOTOOLS INC"
+  },
+  "092667104": {
+   "ticker": "SRTA",
+   "en": "STRATA CRITICAL MEDICAL INC"
+  },
+  "65443P102": {
+   "ticker": "MASS",
+   "en": "908 DEVICES INC"
+  },
+  "00437E102": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "48581R205": {
+   "ticker": "KSPI",
+   "en": "JSC KASPI.KZ ADR"
+  },
+  "M5216V106": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "00091E109": {
+   "ticker": "ABSI",
+   "en": "ABSCI CORP"
+  },
+  "75886F107": {
+   "ticker": "REGN",
+   "en": "REGENERON PHARMACEUTICALS"
+  },
+  "03662Q105": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M3760D101": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "G65163100": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "502431109": {
+   "ticker": "LHX",
+   "en": "L3HARRIS TECHNOLOGIES INC"
+  },
+  "81141R100": {
+   "ticker": "SE",
+   "en": "SEA LTD-ADR"
+  },
+  "46120E602": {
+   "ticker": "ISRG",
+   "en": "INTUITIVE SURGICAL INC"
+  },
+  "30063P105": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "92539P101": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "74624M102": {
+   "ticker": null,
+   "en": null,
+   "rejected": true
+  },
+  "879360105": {
+   "ticker": "TDY",
+   "en": "TELEDYNE TECHNOLOGIES INC"
+  },
+  "40131M109": {
+   "ticker": "GH",
+   "en": "GUARDANT HEALTH INC"
+  },
+  "74765K105": {
+   "ticker": "QSI",
+   "en": "QUANTUM-SI INC"
+  },
+  "20451W101": {
+   "ticker": "CMPS",
+   "en": "COMPASS PATHWAYS PLC"
+  },
+  "539830109": {
+   "ticker": "LMT",
+   "en": "LOCKHEED MARTIN CORP"
+  },
+  "05368X102": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "13321L108": {
+   "ticker": "CCJ",
+   "en": "CAMECO CORP"
+  },
+  "23804L103": {
+   "ticker": "DDOG",
+   "en": "DATADOG INC - CLASS A"
+  },
+  "090043100": {
+   "ticker": "BILL",
+   "en": "BILL HOLDINGS INC"
+  },
+  "559222401": {
+   "ticker": "MGA",
+   "en": "MAGNA INTERNATIONAL INC"
+  },
+  "45866F104": {
+   "ticker": "ICE",
+   "en": "INTERCONTINENTAL EXCHANGE IN"
+  },
+  "75734B100": {
+   "ticker": "RDDT",
+   "en": "REDDIT INC-CL A"
+  },
+  "88554D205": {
+   "ticker": "DDD",
+   "en": "3D SYSTEMS CORP"
+  },
+  "124155102": {
+   "ticker": "BFLY",
+   "en": "BUTTERFLY NETWORK INC"
+  },
+  "760273102": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "70450Y103": {
+   "ticker": "PYPL",
+   "en": "PAYPAL HOLDINGS INC"
+  },
+  "149123101": {
+   "ticker": "CAT",
+   "en": "CATERPILLAR INC"
+  },
+  "57667T100": {
+   "ticker": "MTLS",
+   "en": "MATERIALISE NV-ADR"
+  },
+  "37611X100": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "98954M200": {
+   "ticker": "Z",
+   "en": "ZILLOW GROUP INC - C"
+  },
+  "57064N102": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "71535D106": {
+   "ticker": "PSNL",
+   "en": "PERSONALIS INC"
+  },
+  "00214Q500": {
+   "ticker": "PRNT",
+   "en": "THE 3D PRINTING ETF"
+  },
+  "92921W300": {
+   "ticker": "VUZI",
+   "en": "VUZIX CORP"
+  },
+  "H2906T109": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "781154109": {
+   "ticker": "RBRK",
+   "en": "RUBRIK INC-A"
+  },
+  "M85548101": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "40434L105": {
+   "ticker": "HPQ",
+   "en": "HP INC"
+  },
+  "74349Y100": {
+   "ticker": "EETH",
+   "en": "PROSHARES ETHER ETF-USD INC"
+  },
+  "021369103": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "052769106": {
+   "ticker": "ADSK",
+   "en": "AUTODESK INC"
+  },
+  "69370C100": {
+   "ticker": "PTC",
+   "en": "PTC INC"
+  },
+  "743713109": {
+   "ticker": "PRLB",
+   "en": "PROTO LABS INC"
+  },
+  "63008G203": {
+   "ticker": "NNDM",
+   "en": "NANO DIMENSION LTD - ADR"
+  },
+  "M97628107": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "438516106": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "422806109": {
+   "ticker": "HEI",
+   "en": "HEICO CORP"
+  },
+  "311642102": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M20791105": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "24906P109": {
+   "ticker": "XRAY",
+   "en": "DENTSPLY SIRONA INC"
+  },
+  "98423F109": {
+   "ticker": "XMTR",
+   "en": "XOMETRY INC-A"
+  },
+  "M7516K103": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M98068105": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M7S64L123": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M7S64H106": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M8216R109": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "881624209": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M87915274": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M4R82T106": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M96088105": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M25133105": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M7518J104": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M2682V108": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M2197Q107": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "72815L107": {
+   "ticker": "PLTK",
+   "en": "PLAYTIKA HOLDING CORP"
+  },
+  "G7T16G103": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M81873107": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M5425M103": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M22465104": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M84137104": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M6191J100": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M6158M104": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "25058X303": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M15342104": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "62857X101": {
+   "ticker": "MYNAY",
+   "en": "MYNARIC AG NA O.N."
+  },
+  "M5299H123": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "60741F104": {
+   "ticker": "MBLY",
+   "en": "MOBILEYE GLOBAL INC-A"
+  },
+  "615394202": {
+   "ticker": "MOG.A",
+   "en": "MOOG INC-CLASS A"
+  },
+  "M8744T106": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M25722105": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "369604301": {
+   "ticker": "GE",
+   "en": "GENERAL ELECTRIC"
+  },
+  "M7S750159": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M51474118": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "559166103": {
+   "ticker": "MGIC",
+   "en": "MAGIC SOFTWARE ENTERPRISES"
+  },
+  "M70700105": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "483007704": {
+   "ticker": "KALU",
+   "en": "KAISER ALUMINUM CORP"
+  },
+  "911312106": {
+   "ticker": "UPS",
+   "en": "UNITED PARCEL SERVICE-CL B"
+  },
+  "031100100": {
+   "ticker": "AME",
+   "en": "AMETEK INC"
+  },
+  "653656108": {
+   "ticker": "NICE",
+   "en": "NICE LTD - SPON ADR"
+  },
+  "M78673114": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "016255101": {
+   "ticker": "ALGN",
+   "en": "ALIGN TECHNOLOGY INC"
+  },
+  "533900106": {
+   "ticker": "LECO",
+   "en": "LINCOLN ELECTRIC HOLDINGS"
+  },
+  "451051106": {
+   "ticker": "IBTA",
+   "en": "IBOTTA INC-CL A"
+  },
+  "02072L334": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "389638107": {
+   "ticker": "ETHE",
+   "en": "GRAYSCALE ETHEREUM STAKING E"
+  },
+  "81726A100": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "92259N203": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "00214Q302": {
+   "ticker": "ARKG",
+   "en": "ARK GENOMIC REVOLUTION ETF"
+  },
+  "144285103": {
+   "ticker": "CRS",
+   "en": "CARPENTER TECHNOLOGY"
+  },
+  "277461406": {
+   "ticker": "KODK",
+   "en": "EASTMAN KODAK CO"
+  },
+  "88579Y101": {
+   "ticker": "MMM",
+   "en": "3M CO"
+  },
+  "26614N102": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "01741R102": {
+   "ticker": "ATI",
+   "en": "ATI INC"
+  },
+  "05368V106": {
+   "ticker": "AVNT",
+   "en": "AVIENT CORP"
+  },
+  "277432100": {
+   "ticker": "EMN",
+   "en": "EASTMAN CHEMICAL CO"
+  },
+  "428291108": {
+   "ticker": "HXL",
+   "en": "HEXCEL CORP"
+  },
+  "489170100": {
+   "ticker": "KMT",
+   "en": "KENNAMETAL INC"
+  },
+  "466313103": {
+   "ticker": "JBL",
+   "en": "JABIL INC"
+  },
+  "98421M106": {
+   "ticker": "XRX",
+   "en": "XEROX HOLDINGS CORP"
+  },
+  "464287614": {
+   "ticker": "IWF",
+   "en": "ISHARES RUSSELL 1000 GROWTH"
+  },
+  "81762P102": {
+   "ticker": "NOW",
+   "en": "SERVICENOW INC"
+  },
+  "00724F101": {
+   "ticker": "ADBE",
+   "en": "ADOBE INC"
+  },
+  "464287622": {
+   "ticker": "IWB",
+   "en": "ISHARES RUSSELL 1000 ETF"
+  },
+  "922908736": {
+   "ticker": "VUG",
+   "en": "VANGUARD MRNGSTAR GR ETF-SUI"
+  },
+  "90138F102": {
+   "ticker": "TWLO",
+   "en": "TWILIO INC - A"
+  },
+  "37637K108": {
+   "ticker": "GTLB",
+   "en": "GITLAB INC-CL A"
+  },
+  "051774107": {
+   "ticker": "AUR",
+   "en": "AURORA INNOVATION INC"
+  },
+  "02156V109": {
+   "ticker": "OKLO",
+   "en": "OKLO INC"
+  },
+  "57064N201": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M68830112": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M9607U115": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "00214Q104": {
+   "ticker": "ARKK",
+   "en": "ARK INNOVATION ETF"
+  },
+  "78643B500": {
+   "ticker": "ALAR",
+   "en": "ALARUM TECHNOLOGIES LTD-ADR"
+  },
+  "81726A209": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "46438R105": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "576690101": {
+   "ticker": "MTRN",
+   "en": "MATERION CORP"
+  },
+  "452327109": {
+   "ticker": "ILMN",
+   "en": "ILLUMINA INC"
+  },
+  "05605H100": {
+   "ticker": "BWXT",
+   "en": "BWX TECHNOLOGIES INC"
+  },
+  "J35759125": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "87151X101": {
+   "ticker": "SYM",
+   "en": "SYMBOTIC INC"
+  },
+  "M81818102": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "10501L106": {
+   "ticker": "BWAY",
+   "en": "BRAINSWAY LTD-ADR"
+  },
+  "79466L302": {
+   "ticker": "CRM",
+   "en": "SALESFORCE INC"
+  },
+  "36118L106": {
+   "ticker": "FUTU",
+   "en": "FUTU HOLDINGS LTD-ADR"
+  },
+  "056752108": {
+   "ticker": "BIDU",
+   "en": "BAIDU INC - SPON ADR"
+  },
+  "009066101": {
+   "ticker": "ABNB",
+   "en": "AIRBNB INC-CLASS A"
+  },
+  "46125A100": {
+   "ticker": "LUNR",
+   "en": "INTUITIVE MACHINES INC"
+  },
+  "Q90630114": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M1500S107": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M8740S227": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M61452112": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M81865111": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M0854Q105": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "33833X101": {
+   "ticker": "FPLSF",
+   "en": "5N PLUS INC"
+  },
+  "389637109": {
+   "ticker": "GBTC",
+   "en": "GRAYSCALE BITCOIN TRUST ETF"
+  },
+  "389930207": {
+   "ticker": "BTC",
+   "en": "GRAYSCALE BITCOIN MINI ETF"
+  },
+  "773121108": {
+   "ticker": "RKLB",
+   "en": "ROCKET LAB CORP"
+  },
+  "25809K105": {
+   "ticker": "DASH",
+   "en": "DOORDASH INC - A"
+  },
+  "G32089107": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M82363124": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M6240T109": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "142152107": {
+   "ticker": "CAI",
+   "en": "CARIS LIFE SCIENCES INC"
+  },
+  "09175A206": {
+   "ticker": "BMNR",
+   "en": "BITMINE IMMERSION TECHNOLOGI"
+  },
+  "G13311116": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "G16910120": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "81663L200": {
+   "ticker": "WGS",
+   "en": "GENEDX HOLDINGS CORP"
+  },
+  "316841105": {
+   "ticker": "FIG",
+   "en": "FIGMA INC-CL A"
+  },
+  "732908108": {
+   "ticker": "PONY",
+   "en": "PONY AI INC"
+  },
+  "88428H101": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "G5279N105": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "88428J107": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "N0731H103": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "500081104": {
+   "ticker": "KDK",
+   "en": "KODIAK AI INC"
+  },
+  "M8T80P204": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "950915108": {
+   "ticker": "WRD",
+   "en": "WERIDE INC-ADR"
+  },
+  "64110L106": {
+   "ticker": "NFLX",
+   "en": "NETFLIX INC"
+  },
+  "04650F101": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "432705309": {
+   "ticker": "CNTN",
+   "en": "CANTON STRATEGIC HOLDINGS IN"
+  },
+  "74743L100": {
+   "ticker": "Q",
+   "en": "QNITY ELECTRONICS INC"
+  },
+  "11135F101": {
+   "ticker": "AVGO",
+   "en": "BROADCOM INC"
+  },
+  "532457108": {
+   "ticker": "LLY",
+   "en": "ELI LILLY & CO"
+  },
+  "09075V102": {
+   "ticker": "BNTX",
+   "en": "BIONTECH SE-ADR"
+  },
+  "370920100": {
+   "ticker": "GENB",
+   "en": "GENERATE BIOMEDICINES INC"
+  },
+  "70450C101": {
+   "ticker": "PAYP",
+   "en": "PAYPAY CORP"
+  },
+  "M0740A108": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "697435105": {
+   "ticker": "PANW",
+   "en": "PALO ALTO NETWORKS INC"
+  },
+  "92259N302": {
+   "ticker": "VELO",
+   "en": "VELO3D INC"
+  },
+  "M4130Y106": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "38964R203": {
+   "ticker": "ETH",
+   "en": "GRAYSCALE ETHEREUM STAKING M"
+  },
+  "024061103": {
+   "ticker": "DCH",
+   "en": "DAUCH CORPORATION"
+  },
+  "84615Q103": {
+   "ticker": "SPCX",
+   "en": "SPACE EXPLORATION TECHN-CL A"
+  },
+  "15675D103": {
+   "ticker": "CBRS",
+   "en": "CEREBRAS SYSTEMS INC - A"
+  },
+  "98386P102": {
+   "ticker": "XE",
+   "en": "X-ENERGY INC"
+  },
+  "010911105": {
+   "ticker": "ALMR",
+   "en": "ALAMAR BIOSCIENCES INC"
+  },
+  "438516205": {
+   "ticker": "HON",
+   "en": "HONEYWELL INTERNATIONAL INC"
+  },
+  "43849R105": {
+   "ticker": "HONA",
+   "en": "HONEYWELL AEROSPACE INC"
+  },
+  "G22845104": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "78464A870": {
+   "ticker": "XBI",
+   "en": "SS SPDR S&P BIOTECH ETF"
+  },
+  "464287515": {
+   "ticker": "IGV",
+   "en": "ISHARES EXPANDED TECH-SOFTWA"
+  },
+  "78464A771": {
+   "ticker": null,
+   "en": null,
+   "rejected": true
+  },
+  "78464A581": {
+   "ticker": "XHE",
+   "en": "SS SPDR S&P HC EQUIP ETF"
+  },
+  "78464A631": {
+   "ticker": "XAR",
+   "en": "SS SPDR S&P AEROSPACE DEF"
+  },
+  "316092873": {
+   "ticker": "FCOM",
+   "en": "FIDELITY MSCI COMM SERV INDX"
+  },
+  "464288794": {
+   "ticker": "IAI",
+   "en": "ISHARES U.S. BROKER-DEALERS"
+  }
+ },
+ "zh": {
+  "AAPL": "苹果",
+  "ABNB": "爱彼迎",
+  "ADSK": "欧特克",
+  "ALGN": "艾利科技",
+  "ALLY": "联合汽车金融",
+  "AMD": "超威半导体",
+  "AME": "阿美特克",
+  "AMGN": "安进",
+  "AMZN": "亚马逊",
+  "ARKB": "比特币ETF-ARK",
+  "ARKG": "生物基因革新主动ETF-ARK",
+  "ARKK": "创新主动ETF-ARK",
+  "ATI": "阿勒格尼技术",
+  "AVAV": "AeroVironment公司",
+  "AVGO": "博通",
+  "AXP": "美国运通",
+  "BABA": "阿里巴巴",
+  "BAC": "美国银行",
+  "BIDU": "百度",
+  "BRK": "伯克希尔B",
+  "BTC": "比特币迷你ETF-Grayscale",
+  "C": "花旗集团",
+  "CAT": "卡特彼勒",
+  "CCJ": "卡梅科",
+  "CHTR": "特许通讯",
+  "COF": "第一资本信贷",
+  "CRCL": "Circle互联网集团",
+  "CRM": "赛富时",
+  "CRS": "卡朋特科技",
+  "CVX": "雪佛龙",
+  "DAL": "达美航空",
+  "DDD": "3D系统",
+  "DE": "迪尔股份",
+  "DEO": "帝亚吉欧",
+  "DHI": "霍顿房屋",
+  "DIS": "迪士尼",
+  "DPZ": "达美乐比萨",
+  "DVA": "德维特",
+  "EMN": "伊士曼化工",
+  "ETH": "质押以太坊迷你ETF-Grayscale",
+  "ETHE": "质押以太坊ETF-Grayscale",
+  "FUTU": "富途控股",
+  "GBTC": "灰度比特币ETF",
+  "GOOG": "谷歌-C",
+  "GOOGL": "谷歌-A",
+  "HEI": "海科航空",
+  "HON": "霍尼韦尔",
+  "HPQ": "惠普",
+  "HXL": "赫氏",
+  "IAI": "美国证券经纪交易商ETF-iShares",
+  "ICE": "洲际交易所",
+  "IGV": "北美科技软件ETF-iShares",
+  "ILMN": "因美纳",
+  "INCY": "因塞特",
+  "INTU": "财捷",
+  "IRDM": "铱星通讯",
+  "ISRG": "直觉外科公司",
+  "IWB": "罗素1000 ETF-iShares",
+  "IWF": "罗素1000成长ETF-iShares",
+  "JBL": "捷普科技",
+  "JEF": "杰富瑞",
+  "KALU": "凯撒铝业",
+  "KHC": "卡夫亨氏",
+  "KMT": "肯纳金属",
+  "KO": "可口可乐",
+  "KODK": "柯达",
+  "KR": "克罗格",
+  "KTOS": "克瑞拓斯安全防卫",
+  "LAMR": "拉马尔户外广告",
+  "LECO": "林肯电气",
+  "LEN": "莱纳建筑公司",
+  "LHX": "L3哈里斯技术公司",
+  "LLY": "礼来",
+  "LMT": "洛克希德马丁",
+  "LPX": "路易斯安那太平洋",
+  "LUNR": "直觉机器公司",
+  "M": "梅西百货",
+  "MA": "万事达",
+  "MCO": "穆迪",
+  "MELI": "美客多",
+  "MGA": "曼格纳国际",
+  "MOG": "穆格A",
+  "MRNA": "莫德纳",
+  "MSFT": "微软",
+  "NET": "科赋锐",
+  "NFLX": "奈飞",
+  "NOW": "现在服务公司",
+  "NUE": "纽柯钢铁",
+  "NVDA": "英伟达",
+  "NYT": "纽约时报",
+  "OXY": "西方石油",
+  "PANW": "派拓网络",
+  "PDD": "拼多多",
+  "PINS": "缤趣",
+  "PONY": "小马智行",
+  "PRNT": "3D打印ETF-ARK",
+  "QCOM": "高通",
+  "RBLX": "罗布乐思",
+  "RDDT": "红迪网",
+  "REGN": "再生元制药公司",
+  "SE": "冬海集团",
+  "SIRI": "天狼星XM",
+  "SNPS": "新思科技",
+  "SPY": "标普500指数ETF-SPDR",
+  "STZ": "星座品牌-A",
+  "TER": "泰瑞达",
+  "TRMB": "天宝导航公司",
+  "TSLA": "特斯拉",
+  "TSM": "台积电",
+  "TTD": "萃弈",
+  "ULTA": "犹他美容",
+  "UNH": "联合健康",
+  "UPS": "联合包裹",
+  "VOO": "标普500 ETF-Vanguard",
+  "VRSN": "威瑞信",
+  "VRTX": "福泰制药",
+  "VUG": "成长股ETF-Vanguard",
+  "WRD": "文远知行",
+  "XAR": "标普航天与国防ETF-SPDR",
+  "XBI": "标普生物科技ETF-SPDR",
+  "XHE": "标普医疗设备ETF-SPDR",
+  "XRAY": "登士柏",
+  "XRX": "施乐",
+  "ZM": "Zoom通讯"
+ },
+ "updated": "2026-10-20T13:45:08Z",
+ "zh_by_cusip": {
+  "037833100": "苹果",
+  "02079K107": "谷歌-C",
+  "01609W102": "阿里巴巴",
+  "674599105": "西方石油",
+  "254687106": "迪士尼",
+  "60770K107": "莫德纳",
+  "722304102": "拼多多",
+  "060505104": "美国银行",
+  "594918104": "微软",
+  "67066G104": "英伟达",
+  "874039100": "台积电",
+  "88160R101": "特斯拉",
+  "91324P102": "联合健康",
+  "172573107": "Circle互联网集团",
+  "871607107": "新思科技",
+  "025816109": "美国运通",
+  "191216100": "可口可乐",
+  "166764100": "雪佛龙",
+  "500754106": "卡夫亨氏",
+  "615369105": "穆迪",
+  "23918K108": "德维特",
+  "172967424": "花旗集团",
+  "501044101": "克罗格",
+  "92343E102": "威瑞信",
+  "023135106": "亚马逊",
+  "57636Q104": "万事达",
+  "14040H105": "第一资本信贷",
+  "02005N100": "联合汽车金融",
+  "16119P108": "特许通讯",
+  "546347105": "路易斯安那太平洋",
+  "90384S303": "犹他美容",
+  "25243Q205": "帝亚吉欧",
+  "47233W109": "杰富瑞",
+  "922908363": "标普500 ETF-Vanguard",
+  "78462F103": "标普500指数ETF-SPDR",
+  "829933100": "天狼星XM",
+  "25754A201": "达美乐比萨",
+  "21036P108": "星座品牌-A",
+  "670346105": "纽柯钢铁",
+  "526057104": "莱纳建筑公司",
+  "23331A109": "霍顿房屋",
+  "512816109": "拉马尔户外广告",
+  "02079K305": "谷歌-A",
+  "650111107": "纽约时报",
+  "247361702": "达美航空",
+  "55616P104": "梅西百货",
+  "771049103": "罗布乐思",
+  "880770102": "泰瑞达",
+  "040919102": "比特币ETF-ARK",
+  "72352L106": "缤趣",
+  "88339J105": "萃弈",
+  "98980L101": "Zoom通讯",
+  "50077B207": "克瑞拓斯安全防卫",
+  "46269C102": "铱星通讯",
+  "896239100": "天宝导航公司",
+  "008073108": "AeroVironment公司",
+  "58733R102": "美客多",
+  "007903107": "超威半导体",
+  "92532F100": "福泰制药",
+  "244199105": "迪尔股份",
+  "18915M107": "科赋锐",
+  "461202103": "财捷",
+  "747525103": "高通",
+  "45337C102": "因塞特",
+  "031162100": "安进",
+  "75886F107": "再生元制药公司",
+  "502431109": "L3哈里斯技术公司",
+  "81141R100": "冬海集团",
+  "46120E602": "直觉外科公司",
+  "539830109": "洛克希德马丁",
+  "13321L108": "卡梅科",
+  "559222401": "曼格纳国际",
+  "45866F104": "洲际交易所",
+  "75734B100": "红迪网",
+  "88554D205": "3D系统",
+  "149123101": "卡特彼勒",
+  "00214Q500": "3D打印ETF-ARK",
+  "40434L105": "惠普",
+  "052769106": "欧特克",
+  "422806109": "海科航空",
+  "24906P109": "登士柏",
+  "483007704": "凯撒铝业",
+  "911312106": "联合包裹",
+  "031100100": "阿美特克",
+  "016255101": "艾利科技",
+  "533900106": "林肯电气",
+  "389638107": "质押以太坊ETF-Grayscale",
+  "00214Q302": "生物基因革新主动ETF-ARK",
+  "144285103": "卡朋特科技",
+  "277461406": "柯达",
+  "01741R102": "阿勒格尼技术",
+  "277432100": "伊士曼化工",
+  "428291108": "赫氏",
+  "489170100": "肯纳金属",
+  "466313103": "捷普科技",
+  "98421M106": "施乐",
+  "464287614": "罗素1000成长ETF-iShares",
+  "81762P102": "现在服务公司",
+  "464287622": "罗素1000 ETF-iShares",
+  "922908736": "成长股ETF-Vanguard",
+  "00214Q104": "创新主动ETF-ARK",
+  "452327109": "因美纳",
+  "79466L302": "赛富时",
+  "36118L106": "富途控股",
+  "056752108": "百度",
+  "009066101": "爱彼迎",
+  "46125A100": "直觉机器公司",
+  "389637109": "灰度比特币ETF",
+  "389930207": "比特币迷你ETF-Grayscale",
+  "732908108": "小马智行",
+  "950915108": "文远知行",
+  "64110L106": "奈飞",
+  "11135F101": "博通",
+  "532457108": "礼来",
+  "697435105": "派拓网络",
+  "38964R203": "质押以太坊迷你ETF-Grayscale",
+  "438516205": "霍尼韦尔",
+  "78464A870": "标普生物科技ETF-SPDR",
+  "464287515": "北美科技软件ETF-iShares",
+  "78464A581": "标普医疗设备ETF-SPDR",
+  "78464A631": "标普航天与国防ETF-SPDR",
+  "464288794": "美国证券经纪交易商ETF-iShares",
+  "_comment": "手查补充的中文名，按 CUSIP 键。只收录有通行中文译名的公司；没有通行译名的小盘股不强行翻译，站点会保留 13F 原文英文名。",
+  "H1467J104": "丘博保险",
+  "084670702": "伯克希尔·哈撒韦",
+  "92826C839": "维萨",
+  "G0403H108": "怡安",
+  "73278L105": "普尔",
+  "84615Q103": "太空探索技术（SpaceX）",
+  "N07059210": "阿斯麦",
+  "09075V102": "百欧恩泰",
+  "30063P105": "精密科学",
+  "G0176J109": "安朗杰",
+  "773121108": "火箭实验室",
+  "773122106": "火箭实验室",
+  "J35759125": "小松",
+  "438516106": "霍尼韦尔",
+  "526057302": "莱纳建筑",
+  "82968B103": "天狼星XM",
+  "422806208": "海科航空",
+  "311642102": "法如科技",
+  "047726302": "亚特兰大勇士控股",
+  "531229755": "自由媒体（FWONK）",
+  "531229722": "自由媒体（LLYVK）",
+  "531229748": "自由媒体（LLYVA）",
+  "531229789": "自由媒体（FWONA）",
+  "531229813": "自由媒体（FWONB）",
+  "531229854": "自由媒体（FWONK-C）",
+  "530909308": "自由媒体 Live（C）",
+  "530909100": "自由媒体 Live（A）",
+  "19260Q107": "Coinbase",
+  "872590104": "T-Mobile US",
+  "21873S108": "CoreWeave",
+  "88023B103": "Tempus AI",
+  "98386P102": "X-Energy",
+  "15675D103": "Cerebras",
+  "02156V109": "Oklo",
+  "316841105": "Figma",
+  "90364P105": "UiPath",
+  "37637K108": "GitLab",
+  "25809K105": "DoorDash",
+  "91332U101": "Unity 软件",
+  "69553P100": "PagerDuty",
+  "40131M109": "Guardant Health",
+  "81663L200": "GeneDx",
+  "09175A206": "BitMine",
+  "339750101": "Floor & Decor",
+  "G6683N103": "Nu Holdings（Nubank）",
+  "77543R102": "Roku",
+  "03945R102": "Archer Aviation",
+  "G25457105": "Credo 科技",
+  "142152107": "Caris 生命科学",
+  "48581R205": "Kaspi.kz",
+  "051774107": "Aurora Innovation",
+  "04650F101": "Atai Beckley",
+  "00437E102": "Accolade",
+  "05368X102": "AvidXchange",
+  "05605H100": "BWX 技术",
+  "57064N102": "Markforged",
+  "57064N201": "Markforged",
+  "37611X100": "Ginkgo Bioworks",
+  "10501L106": "Brainsway",
+  "M7518J104": "Oddity Tech",
+  "M7S64L123": "Pagaya",
+  "M4130Y106": "Enlivex",
+  "92921W300": "Vuzix",
+  "81726A209": "Senti Biosciences",
+  "81726A100": "Senti Biosciences",
+  "22788C105": "CrowdStrike",
+  "021369103": "Altair 工程",
+  "03662Q105": "ANSYS",
+  "G13311116": "Brera Holdings",
+  "G16910120": "Bullish",
+  "88428H101": "3iQ 以太坊质押 ETF",
+  "88428J107": "3iQ Solana 质押 ETF"
+ },
+ "ticker_by_cusip": {
+  "037833100": "AAPL",
+  "084670702": "BRK.B",
+  "02079K107": "GOOG",
+  "01609W102": "BABA",
+  "674599105": "OXY",
+  "254687106": "DIS",
+  "60770K107": "MRNA",
+  "722304102": "PDD",
+  "060505104": "BAC",
+  "594918104": "MSFT",
+  "67066G104": "NVDA",
+  "874039100": "TSM",
+  "21873S108": "CRWV",
+  "88023B103": "TEM",
+  "88160R101": "TSLA",
+  "91324P102": "UNH",
+  "172573107": "CRCL",
+  "69608A108": "PLTR",
+  "871607107": "SNPS",
+  "22788C105": "CRWD",
+  "833445109": "SNOW",
+  "457642205": "INOD",
+  "025816109": "AXP",
+  "191216100": "KO",
+  "166764100": "CVX",
+  "500754106": "KHC",
+  "615369105": "MCO",
+  "23918K108": "DVA",
+  "172967424": "C",
+  "501044101": "KR",
+  "92343E102": "VRSN",
+  "92826C839": "V",
+  "023135106": "AMZN",
+  "57636Q104": "MA",
+  "14040H105": "COF",
+  "02005N100": "ALLY",
+  "16119P108": "CHTR",
+  "872590104": "TMUS",
+  "546347105": "LPX",
+  "339750101": "FND",
+  "90384S303": "ULTA",
+  "422806208": "HEI.A",
+  "62944T105": "NVR",
+  "25243Q205": "DEO",
+  "47233W109": "JEF",
+  "922908363": "VOO",
+  "78462F103": "SPY",
+  "526057302": "LEN.B",
+  "047726302": "BATRK",
+  "829933100": "SIRI",
+  "25754A201": "DPZ",
+  "73278L105": "POOL",
+  "21036P108": "STZ",
+  "670346105": "NUE",
+  "526057104": "LEN",
+  "23331A109": "DHI",
+  "512816109": "LAMR",
+  "02079K305": "GOOGL",
+  "530909308": "LLYVK",
+  "530909100": "LLYVA",
+  "650111107": "NYT",
+  "531229755": "FWONK",
+  "247361702": "DAL",
+  "55616P104": "M",
+  "19260Q107": "COIN",
+  "77543R102": "ROKU",
+  "852234103": "XYZ",
+  "771049103": "RBLX",
+  "770700102": "HOOD",
+  "90364P105": "PATH",
+  "82509L107": "SHOP",
+  "90184D100": "TWST",
+  "45826J105": "NTLA",
+  "69553P100": "PD",
+  "880770102": "TER",
+  "26142V105": "DKNG",
+  "30303M102": "META",
+  "75629V104": "RXRX",
+  "040919102": "ARKB",
+  "72352L106": "PINS",
+  "91332U101": "U",
+  "88025U109": "TXG",
+  "07373V105": "BEAM",
+  "88339J105": "TTD",
+  "98980L101": "ZM",
+  "92337F107": "VCYT",
+  "83406F102": "SOFI",
+  "50077B207": "KTOS",
+  "03945R102": "ACHR",
+  "14167L103": "CDNA",
+  "87918A105": "TDOC",
+  "46269C102": "IRDM",
+  "462222100": "IONS",
+  "896239100": "TRMB",
+  "008073108": "AVAV",
+  "888787108": "TOST",
+  "67080M103": "NRIX",
+  "03969T109": "ARCT",
+  "80810D103": "SDGR",
+  "69404D108": "PACB",
+  "632307104": "NTRA",
+  "58733R102": "MELI",
+  "00650F109": "ADPT",
+  "007903107": "AMD",
+  "92532F100": "VRTX",
+  "157085101": "CERS",
+  "244199105": "DE",
+  "18915M107": "NET",
+  "74168J101": "PRME",
+  "922475108": "VEEV",
+  "461202103": "INTU",
+  "747525103": "QCOM",
+  "45337C102": "INCY",
+  "65345M108": "NXDR",
+  "031162100": "AMGN",
+  "34385P108": "LAB",
+  "092667104": "SRTA",
+  "65443P102": "MASS",
+  "48581R205": "KSPI",
+  "00091E109": "ABSI",
+  "75886F107": "REGN",
+  "502431109": "LHX",
+  "81141R100": "SE",
+  "46120E602": "ISRG",
+  "879360105": "TDY",
+  "40131M109": "GH",
+  "74765K105": "QSI",
+  "20451W101": "CMPS",
+  "539830109": "LMT",
+  "13321L108": "CCJ",
+  "23804L103": "DDOG",
+  "090043100": "BILL",
+  "559222401": "MGA",
+  "45866F104": "ICE",
+  "75734B100": "RDDT",
+  "88554D205": "DDD",
+  "124155102": "BFLY",
+  "70450Y103": "PYPL",
+  "149123101": "CAT",
+  "57667T100": "MTLS",
+  "98954M200": "Z",
+  "71535D106": "PSNL",
+  "00214Q500": "PRNT",
+  "92921W300": "VUZI",
+  "781154109": "RBRK",
+  "40434L105": "HPQ",
+  "74349Y100": "EETH",
+  "052769106": "ADSK",
+  "69370C100": "PTC",
+  "743713109": "PRLB",
+  "63008G203": "NNDM",
+  "422806109": "HEI",
+  "24906P109": "XRAY",
+  "98423F109": "XMTR",
+  "72815L107": "PLTK",
+  "62857X101": "MYNAY",
+  "60741F104": "MBLY",
+  "615394202": "MOG.A",
+  "369604301": "GE",
+  "559166103": "MGIC",
+  "483007704": "KALU",
+  "911312106": "UPS",
+  "031100100": "AME",
+  "653656108": "NICE",
+  "016255101": "ALGN",
+  "533900106": "LECO",
+  "451051106": "IBTA",
+  "389638107": "ETHE",
+  "00214Q302": "ARKG",
+  "144285103": "CRS",
+  "277461406": "KODK",
+  "88579Y101": "MMM",
+  "01741R102": "ATI",
+  "05368V106": "AVNT",
+  "277432100": "EMN",
+  "428291108": "HXL",
+  "489170100": "KMT",
+  "466313103": "JBL",
+  "98421M106": "XRX",
+  "464287614": "IWF",
+  "81762P102": "NOW",
+  "00724F101": "ADBE",
+  "464287622": "IWB",
+  "922908736": "VUG",
+  "90138F102": "TWLO",
+  "37637K108": "GTLB",
+  "051774107": "AUR",
+  "02156V109": "OKLO",
+  "00214Q104": "ARKK",
+  "78643B500": "ALAR",
+  "576690101": "MTRN",
+  "452327109": "ILMN",
+  "05605H100": "BWXT",
+  "87151X101": "SYM",
+  "10501L106": "BWAY",
+  "79466L302": "CRM",
+  "36118L106": "FUTU",
+  "056752108": "BIDU",
+  "009066101": "ABNB",
+  "46125A100": "LUNR",
+  "33833X101": "FPLSF",
+  "389637109": "GBTC",
+  "389930207": "BTC",
+  "773121108": "RKLB",
+  "25809K105": "DASH",
+  "142152107": "CAI",
+  "09175A206": "BMNR",
+  "81663L200": "WGS",
+  "316841105": "FIG",
+  "732908108": "PONY",
+  "500081104": "KDK",
+  "950915108": "WRD",
+  "64110L106": "NFLX",
+  "432705309": "CNTN",
+  "74743L100": "Q",
+  "11135F101": "AVGO",
+  "532457108": "LLY",
+  "09075V102": "BNTX",
+  "370920100": "GENB",
+  "70450C101": "PAYP",
+  "697435105": "PANW",
+  "92259N302": "VELO",
+  "38964R203": "ETH",
+  "024061103": "DCH",
+  "84615Q103": "SPCX",
+  "15675D103": "CBRS",
+  "98386P102": "XE",
+  "010911105": "ALMR",
+  "438516205": "HON",
+  "43849R105": "HONA",
+  "78464A870": "XBI",
+  "464287515": "IGV",
+  "78464A581": "XHE",
+  "78464A631": "XAR",
+  "316092873": "FCOM",
+  "464288794": "IAI"
+ }
+}

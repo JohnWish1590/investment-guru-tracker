@@ -1,0 +1,24 @@
+[
+ {
+  "owner": "SP",
+  "asset": "Apple Inc. - Common Stock",
+  "ticker": "AAPL",
+  "assetType": "ST",
+  "txType": "S (partial)",
+  "kind": "sell",
+  "date": "10/22/2025",
+  "notified": "10/22/2025",
+  "amountText": "$100,001 - $250,000",
+  "amountLow": 100001,
+  "amountHigh": 250000,
+  "shares": null,
+  "note": "F/S: New D: Contribution of 382 shares",
+  "page": 1,
+  "source": {
+   "docId": "20033337",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20033337.pdf",
+   "year": 2025,
+   "filedOn": "10/24/2025"
+  }
+ }
+]

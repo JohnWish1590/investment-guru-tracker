@@ -1,0 +1,46 @@
+[
+ {
+  "owner": "SP",
+  "asset": "Broadcom Inc. - Common Stock",
+  "ticker": "AVGO",
+  "assetType": "ST",
+  "txType": "P",
+  "kind": "buy",
+  "date": "06/20/2025",
+  "notified": "06/20/2025",
+  "amountText": "$1,000,001 - $5,000,000",
+  "amountLow": 1000001,
+  "amountHigh": 5000000,
+  "shares": null,
+  "note": "F/S: New D: Exercised 200 call options of 6/20/25.",
+  "page": 1,
+  "source": {
+   "docId": "20030630",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030630.pdf",
+   "year": 2025,
+   "filedOn": "7/9/2025"
+  }
+ },
+ {
+  "owner": "SP",
+  "asset": "Matthews International Mutual Fund",
+  "ticker": null,
+  "assetType": "OT",
+  "txType": "S",
+  "kind": "sell",
+  "date": "06/20/2025",
+  "notified": "06/20/2025",
+  "amountText": "$15,001 - $50,000",
+  "amountLow": 15001,
+  "amountHigh": 50000,
+  "shares": null,
+  "note": "F/S: New L: US D: Sale of 2,822 units. C: Loss of $28,948 on sale.",
+  "page": 1,
+  "source": {
+   "docId": "20030630",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20030630.pdf",
+   "year": 2025,
+   "filedOn": "7/9/2025"
+  }
+ }
+]

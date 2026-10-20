@@ -1,0 +1,101 @@
+[
+ {
+  "row": null,
+  "description": "AMERICAN MUN PWR OH ELECT UTIL 5'4 DUE 02/15/34",
+  "kind": "buy",
+  "date": "10/15/2025",
+  "over30days": false,
+  "amountText": "$500.001 • $1,000,000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 2
+ },
+ {
+  "row": null,
+  "description": "PAGE CNTY IA JAIL 2024 B B/E 4.00 % Duo Jun 1 2026",
+  "kind": "buy",
+  "date": "10/15/2025",
+  "over30days": false,
+  "amountText": "$50 001 -$100,000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 2
+ },
+ {
+  "row": null,
+  "description": "ST CHARLES CNTY MO PUB WTR SPLY DIST 2 RFDG CTF PARTN SER C REV B/E.PTC 5.00 % Duo Doe 1, 2026",
+  "kind": "buy",
+  "date": "10/10/2025",
+  "over30days": false,
+  "amountText": "$250.001 -$500.000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 2
+ },
+ {
+  "row": null,
+  "description": "CLA; l�MLTl'sCH CMNTY BLDG CORFi 1 S.T MTG REV B/E CR ENH 5.00 % Duo Jul 15, 2026",
+  "kind": "buy",
+  "date": "10/3/2025",
+  "over30days": false,
+  "amountText": "$250,001 -$500,000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 2
+ },
+ {
+  "row": null,
+  "description": "MIAMI DADE CNTY FL HSG FIN AUTH MLTIFAM REV FAIRFIELD RUNNING B/E 3.55 % Due Jan 1, 2027",
+  "kind": "buy",
+  "date": "10/3/2025",
+  "over30days": false,
+  "amountText": "$50,001 -$100.000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 2
+ },
+ {
+  "row": null,
+  "description": "BLACK BELT ENERGY GAS DIST AL GAS PREPAY REV PJ 5 SER A 1 B/E 4.00 % Due Oct 1, 2049",
+  "kind": "buy",
+  "date": "10/2/2025",
+  "over30days": false,
+  "amountText": "$15.001 -$50.000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 2
+ },
+ {
+  "row": null,
+  "description": "CLEVELAND OH CTF PARTN RFDG CLEVELAND STAD PJ REV B/E 5.00 % Due Nov 15, 2026",
+  "kind": "buy",
+  "date": "10/2/2025",
+  "over30days": false,
+  "amountText": "$500.001 -$1.000.000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 2
+ },
+ {
+  "row": null,
+  "description": "KNOXVILLE CNTY TN HLTH EDL&HSG FAC BRO MLTIFAM HSG REV COLLTZD PJ B/E 3.95 % Due Dec 1, 2027",
+  "kind": "buy",
+  "date": "10/2/2025",
+  "over30days": false,
+  "amountText": "$50,001 • $100.000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 2
+ },
+ {
+  "row": null,
+  "description": "WILLISTON BASIN SCH DIST 007 ND BLDG 2024 B/E CR ENH 5.00 % Due Aug 1, 2026",
+  "kind": "buy",
+  "date": "10/2/2025",
+  "over30days": false,
+  "amountText": "$250 001 -$500 000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 2
+ }
+]

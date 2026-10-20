@@ -1,0 +1,35 @@
+[
+ {
+  "row": null,
+  "description": "GRAYSON CNTY TEX JR 5% GO LTX DUE0 2/15138",
+  "kind": "buy",
+  "date": "9/3/2025",
+  "over30days": false,
+  "amountText": "$1,000,001 -$5,000,000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 2
+ },
+ {
+  "row": null,
+  "description": "MISSOURI JT MUN ELE5 % PWR UTIL DUE 12/01/28",
+  "kind": "buy",
+  "date": "9/3/2025",
+  "over30days": false,
+  "amountText": "s1.ooo.001-S5.ooo.ooo",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 2
+ },
+ {
+  "row": null,
+  "description": "ILLINOIS ST 5% GO UTX DUE 09/01/40",
+  "kind": "buy",
+  "date": "8/29/2025",
+  "over30days": true,
+  "amountText": "$1,000,001 • $5,000,000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 2
+ }
+]

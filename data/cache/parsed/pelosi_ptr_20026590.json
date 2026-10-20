@@ -1,0 +1,200 @@
+[
+ {
+  "owner": "SP",
+  "asset": "Alphabet Inc. - Class A Common Stock",
+  "ticker": "GOOGL",
+  "assetType": "OP",
+  "txType": "P",
+  "kind": "buy",
+  "date": "01/14/2025",
+  "notified": "01/14/2025",
+  "amountText": "$250,001 - $500,000",
+  "amountLow": 250001,
+  "amountHigh": 500000,
+  "shares": null,
+  "note": "F/S: New D: Purchased 50 call options with",
+  "page": 1,
+  "source": {
+   "docId": "20026590",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026590.pdf",
+   "year": 2025,
+   "filedOn": "1/17/2025"
+  }
+ },
+ {
+  "owner": "SP",
+  "asset": "Amazon.com, Inc. - Common Stock",
+  "ticker": "AMZN",
+  "assetType": "OP",
+  "txType": "P",
+  "kind": "buy",
+  "date": "01/14/2025",
+  "notified": "01/14/2025",
+  "amountText": "$250,001 - $500,000",
+  "amountLow": 250001,
+  "amountHigh": 500000,
+  "shares": null,
+  "note": "F/S: New D: Purchased 50 call options with",
+  "page": 1,
+  "source": {
+   "docId": "20026590",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026590.pdf",
+   "year": 2025,
+   "filedOn": "1/17/2025"
+  }
+ },
+ {
+  "owner": "SP",
+  "asset": "Apple Inc. - Common Stock",
+  "ticker": "AAPL",
+  "assetType": "ST",
+  "txType": "S (partial)",
+  "kind": "sell",
+  "date": "12/31/2024",
+  "notified": "12/31/2024",
+  "amountText": "$5,000,001 - $25,000,000",
+  "amountLow": 5000001,
+  "amountHigh": 25000000,
+  "shares": 31600,
+  "note": "F/S: New D: Sold 31,600 shares.",
+  "page": 1,
+  "source": {
+   "docId": "20026590",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026590.pdf",
+   "year": 2025,
+   "filedOn": "1/17/2025"
+  }
+ },
+ {
+  "owner": "SP",
+  "asset": "NVIDIA Corporation - Common Stock",
+  "ticker": "NVDA",
+  "assetType": "ST",
+  "txType": "S (partial)",
+  "kind": "sell",
+  "date": "12/31/2024",
+  "notified": "12/31/2024",
+  "amountText": "$1,000,001 - $5,000,000",
+  "amountLow": 1000001,
+  "amountHigh": 5000000,
+  "shares": 10000,
+  "note": "F/S: New D: Sold 10,000 shares.",
+  "page": 1,
+  "source": {
+   "docId": "20026590",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026590.pdf",
+   "year": 2025,
+   "filedOn": "1/17/2025"
+  }
+ },
+ {
+  "owner": "SP",
+  "asset": "NVIDIA Corporation - Common Stock",
+  "ticker": "NVDA",
+  "assetType": "ST",
+  "txType": "P",
+  "kind": "buy",
+  "date": "12/20/2024",
+  "notified": "12/20/2024",
+  "amountText": "$500,001 - $1,000,000",
+  "amountLow": 500001,
+  "amountHigh": 1000000,
+  "shares": null,
+  "note": "F/S: New D: Exercised 500 call options of 12/20/24.",
+  "page": 1,
+  "source": {
+   "docId": "20026590",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026590.pdf",
+   "year": 2025,
+   "filedOn": "1/17/2025"
+  }
+ },
+ {
+  "owner": "SP",
+  "asset": "NVIDIA Corporation - Common Stock",
+  "ticker": "NVDA",
+  "assetType": "OP",
+  "txType": "P",
+  "kind": "buy",
+  "date": "01/14/2025",
+  "notified": "01/14/2025",
+  "amountText": "$250,001 - $500,000",
+  "amountLow": 250001,
+  "amountHigh": 500000,
+  "shares": null,
+  "note": "F/S: New D: Purchased 50 call options with",
+  "page": 1,
+  "source": {
+   "docId": "20026590",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026590.pdf",
+   "year": 2025,
+   "filedOn": "1/17/2025"
+  }
+ },
+ {
+  "owner": "SP",
+  "asset": "Palo Alto Networks, Inc.",
+  "ticker": "PANW",
+  "assetType": "ST",
+  "txType": "P",
+  "kind": "buy",
+  "date": "12/20/2024",
+  "notified": "12/20/2024",
+  "amountText": "$1,000,001 - $5,000,000",
+  "amountLow": 1000001,
+  "amountHigh": 5000000,
+  "shares": null,
+  "note": "F/S: New D: Exercised 140 call options expiration date of 12/20/24.",
+  "page": 2,
+  "source": {
+   "docId": "20026590",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026590.pdf",
+   "year": 2025,
+   "filedOn": "1/17/2025"
+  }
+ },
+ {
+  "owner": "SP",
+  "asset": "Tempus AI, Inc. - Class A Common Stock",
+  "ticker": "TEM",
+  "assetType": "OP",
+  "txType": "P",
+  "kind": "buy",
+  "date": "01/14/2025",
+  "notified": "01/14/2025",
+  "amountText": "$50,001 - $100,000",
+  "amountLow": 50001,
+  "amountHigh": 100000,
+  "shares": null,
+  "note": "F/S: New D: Purchased 50 call options with",
+  "page": 2,
+  "source": {
+   "docId": "20026590",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026590.pdf",
+   "year": 2025,
+   "filedOn": "1/17/2025"
+  }
+ },
+ {
+  "owner": "SP",
+  "asset": "Vistra Corp. Common Stock",
+  "ticker": "VST",
+  "assetType": "OP",
+  "txType": "P",
+  "kind": "buy",
+  "date": "01/14/2025",
+  "notified": "01/14/2025",
+  "amountText": "$500,001 - $1,000,000",
+  "amountLow": 500001,
+  "amountHigh": 1000000,
+  "shares": null,
+  "note": "F/S: New D: Purchased 50 call options with",
+  "page": 2,
+  "source": {
+   "docId": "20026590",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20026590.pdf",
+   "year": 2025,
+   "filedOn": "1/17/2025"
+  }
+ }
+]

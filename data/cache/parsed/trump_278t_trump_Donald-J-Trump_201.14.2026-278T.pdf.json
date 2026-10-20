@@ -1,0 +1,222 @@
+[
+ {
+  "row": null,
+  "description": "MUN WT RV BE/R/ 2,7 061543 OTO 111413 CALLABLE VARATE PUTBND CALLABLE@ 100 120725 VARATE PUTBND",
+  "kind": "sell",
+  "date": "11/17/2025",
+  "over30days": false,
+  "amountText": "$250,001 • $500 000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 2
+ },
+ {
+  "row": null,
+  "description": "IN MLTI FAC SCH BLDG AD VAL PPTY 1ST RF□G REV B/E ST INTRCPT 5.00 % Duo Jul 10. 2026",
+  "kind": "buy",
+  "date": "12/9/2025",
+  "over30days": false,
+  "amountText": "$50 001- $100.000",
+  "amountLow": 50001,
+  "amountHigh": 100000,
+  "page": 2
+ },
+ {
+  "row": null,
+  "description": "FL RFDG BLDG BETTER CMNTYS PG SERA 8/E 5.00 % Duo Jul 1, 2026",
+  "kind": "buy",
+  "date": "12/3/2025",
+  "over30days": false,
+  "amountText": "$100,001 -$250,000",
+  "amountLow": 100001,
+  "amountHigh": 250000,
+  "page": 3
+ },
+ {
+  "row": null,
+  "description": "TX COMB TAX REV CTF OBLIG SER A DB 8/E 5.00% Duo Fob 15, 2027",
+  "kind": "buy",
+  "date": "12/2/2025",
+  "over30days": false,
+  "amountText": "$100 001 -$250,000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 3
+ },
+ {
+  "row": null,
+  "description": "RURAL SCH BLDG & SITE 8/E 8/0 OSBLF 01Dilll98.762 3.25% Duo Mov 1, 2027",
+  "kind": "buy",
+  "date": "12/2/2025",
+  "over30days": false,
+  "amountText": "$100,001 -$250.000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 3
+ },
+ {
+  "row": null,
+  "description": "ST HLTH CARE FACS AUTH VA MASON MED CTR REV BIE 5.00 % Duo Auo 15, 2026",
+  "kind": "buy",
+  "date": "12/1/2025",
+  "over30days": false,
+  "amountText": "$250,001 -$500,000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 4
+ },
+ {
+  "row": 72,
+  "description": "TOPEKA KS REV2021 A2 B/E CRENH4.00 % Duo Jul 1. 2027",
+  "kind": "buy",
+  "date": "12/1/2025",
+  "over30days": false,
+  "amountText": "$500,001 -$1,000,000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 4
+ },
+ {
+  "row": null,
+  "description": "BLDG CORP 1ST MTG 2025 REV B/E B/Q ST INTRCPT 5.00 % Duo Jul 15, 2027",
+  "kind": "buy",
+  "date": "12/1/2025",
+  "over30days": false,
+  "amountText": "$100,001 -$250.000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 4
+ },
+ {
+  "row": null,
+  "description": "2024A B/E 5.00 % Duo Fob 15, 2026",
+  "kind": "buy",
+  "date": "12/16/2025",
+  "over30days": false,
+  "amountText": "$250,001 -$500,000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 4
+ },
+ {
+  "row": null,
+  "description": "SCH BLOG CORP 1ST MTG REV B 8/E ST INTRCPT 5.00 % Ouo Jan 15 2028",
+  "kind": "buy",
+  "date": "12/11/2025",
+  "over30days": false,
+  "amountText": "$1,000,001 -$5000,000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 5
+ },
+ {
+  "row": null,
+  "description": "Auth Rev Revolvlnr Ln Fd Bds 2026 5.000% 06/01/46 B/e Dtd 01/06/26 Clb SVndh:Mr Yid 4.130 To Par",
+  "kind": "buy",
+  "date": "12/4/2025",
+  "over30days": false,
+  "amountText": "$500 001- $1,000 000",
+  "amountLow": 500001,
+  "amountHigh": 1000000,
+  "page": 5
+ },
+ {
+  "row": null,
+  "description": "Kv Revs Gen Rcots Bds 202S A S.000% 09/01/C 8/e Dtd 0S/07/2.S Clb Sollclted Order Vld 3.883 To Par",
+  "kind": "buy",
+  "date": "12/1/2025",
+  "over30days": false,
+  "amountText": "$250.001 -$500,000",
+  "amountLow": 250001,
+  "amountHigh": 500000,
+  "page": 5
+ },
+ {
+  "row": null,
+  "description": "Edi Faes Auth Rev Fixed Rate Bds Thom.llls Jcfferwn S.250,C. 11/01/41 B/tt Dtd ll/13/24 Clb Solldtcd O�r Yid 3.962 To Par",
+  "kind": "buy",
+  "date": "12/1/2025",
+  "over30days": false,
+  "amountText": "$250,001 -$500.000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 5
+ },
+ {
+  "row": null,
+  "description": "Sol ObllJ< Bds Pub S:.fotv Mun lmpt Prol 2025 5.000% 07/0 1/49 B/o Dtd 11/04/25 Clb Sollclted Ort!or Yid 4,202 To Par",
+  "kind": "buy",
+  "date": "12/1/2025",
+  "over30days": false,
+  "amountText": "$250,001 -$500,000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 6
+ },
+ {
+  "row": null,
+  "description": "HO 5% CUE 06/01/40",
+  "kind": "buy",
+  "date": "12/17/2025",
+  "over30days": false,
+  "amountText": "$1,000,001 -$5,000,000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 6
+ },
+ {
+  "row": null,
+  "description": "INC SENIOR UNSECURED NOTES DUE09 /15/20'/'J 06,625% MS 15 DISCRETIONARY ORDER YIELD 6.825 % TO MATURllY YIELD 6.841 \"TO PAR CAl.l CAUABLE 06/15mAT 100.000",
+  "kind": "buy",
+  "date": "12/16/2025",
+  "over30days": false,
+  "amountText": "$250,001 -$500,000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 6
+ },
+ {
+  "row": null,
+  "description": "SR DEB5-REG SENIOR NOTES DUE 09/01/20'30 06.625\" MS 01 DISCRETIONARY ORDER YIELD 4.650 \"TO PAR CAU YIELD 4.832 \"TO MATURITY CAUABLE 03/01/'30 AT 100.000",
+  "kind": "buy",
+  "date": "12/16/2025",
+  "over30days": false,
+  "amountText": "$250 001 -$500,000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 7
+ },
+ {
+  "row": null,
+  "description": "SECURED NOTES REG 5 DUE 01/lS/202904 .750%JJ 15 DISCRETIONARY ORDER IF THIS CONFIRMATION IS IN CONNECTION WITH A SALE PURSU!WTTO REG. S",
+  "kind": "buy",
+  "date": "12/16/2025",
+  "over30days": false,
+  "amountText": "$250,001 -$500,000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 7
+ },
+ {
+  "row": null,
+  "description": "HOLDINGS UC REGS DUE 03/15/20'30 05.875\" MS 15 DISCRETIONARY ORDER IF THIS CONFIRMATION IS IN CONNECTION WITH A SALE PURSUANT TO REG. S",
+  "kind": "buy",
+  "date": "12/12/202",
+  "over30days": false,
+  "amountText": "$250,001 • $500,000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 7
+ },
+ {
+  "row": null,
+  "description": "REGS DUE 06/01/2030 09.250%JO 01 DISCRETIONARY ORDER IF THIS CONFIRMATION IS IN CONNECTION WITH A SALE PURSUANT TO REG. 5",
+  "kind": "sell",
+  "date": "12/19/2025",
+  "over30days": false,
+  "amountText": "s1.ooo,001 -ss,000,000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 7
+ }
+]

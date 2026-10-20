@@ -1,0 +1,46 @@
+[
+ {
+  "owner": "SP",
+  "asset": "Apple Inc.",
+  "ticker": "AAPL",
+  "assetType": "ST",
+  "txType": "P",
+  "kind": "buy",
+  "date": "06/15/2023",
+  "notified": "06/15/2023",
+  "amountText": "$250,001 - $500,000",
+  "amountLow": 250001,
+  "amountHigh": 500000,
+  "shares": null,
+  "note": "F/S: New D: Exercised 50 call options purchased 6/16/23.",
+  "page": 1,
+  "source": {
+   "docId": "20023192",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023192.pdf",
+   "year": 2023,
+   "filedOn": "6/22/2023"
+  }
+ },
+ {
+  "owner": "SP",
+  "asset": "Microsoft Corporation",
+  "ticker": "MSFT",
+  "assetType": "ST",
+  "txType": "P",
+  "kind": "buy",
+  "date": "06/15/2023",
+  "notified": "06/15/2023",
+  "amountText": "$500,001 - $1,000,000",
+  "amountLow": 500001,
+  "amountHigh": 1000000,
+  "shares": null,
+  "note": "F/S: New D: Exercised 50 call options purchased of 6/16/23.",
+  "page": 1,
+  "source": {
+   "docId": "20023192",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023192.pdf",
+   "year": 2023,
+   "filedOn": "6/22/2023"
+  }
+ }
+]

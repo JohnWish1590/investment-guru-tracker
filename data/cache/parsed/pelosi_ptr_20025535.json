@@ -1,0 +1,46 @@
+[
+ {
+  "owner": "SP",
+  "asset": "Microsoft Corporation - Common Stock",
+  "ticker": "MSFT",
+  "assetType": "ST",
+  "txType": "S (partial)",
+  "kind": "sell",
+  "date": "07/26/2024",
+  "notified": "07/26/2024",
+  "amountText": "$1,000,001 - $5,000,000",
+  "amountLow": 1000001,
+  "amountHigh": 5000000,
+  "shares": 5000,
+  "note": "F/S: New D: Sold 5,000 shares.",
+  "page": 1,
+  "source": {
+   "docId": "20025535",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025535.pdf",
+   "year": 2024,
+   "filedOn": "7/30/2024"
+  }
+ },
+ {
+  "owner": "SP",
+  "asset": "NVIDIA Corporation - Common Stock",
+  "ticker": "NVDA",
+  "assetType": "ST",
+  "txType": "P",
+  "kind": "buy",
+  "date": "07/26/2024",
+  "notified": "07/26/2024",
+  "amountText": "$1,000,001 - $5,000,000",
+  "amountLow": 1000001,
+  "amountHigh": 5000000,
+  "shares": 10000,
+  "note": "F/S: New D: Purchased 10,000 shares.",
+  "page": 1,
+  "source": {
+   "docId": "20025535",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025535.pdf",
+   "year": 2024,
+   "filedOn": "7/30/2024"
+  }
+ }
+]

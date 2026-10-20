@@ -1,0 +1,46 @@
+[
+ {
+  "owner": "SP",
+  "asset": "Intel Corporation - Common Stock",
+  "ticker": "INTC",
+  "assetType": "OP",
+  "txType": "P",
+  "kind": "buy",
+  "date": "05/29/2026",
+  "notified": "05/29/2026",
+  "amountText": "$1,000,001 - $5,000,000",
+  "amountLow": 1000001,
+  "amountHigh": 5000000,
+  "shares": null,
+  "note": "F/S: New D: Purchased 200 call options",
+  "page": 1,
+  "source": {
+   "docId": "20034836",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034836.pdf",
+   "year": 2026,
+   "filedOn": "6/23/2026"
+  }
+ },
+ {
+  "owner": "SP",
+  "asset": "Uber Technologies, Inc. Common Stock",
+  "ticker": "UBER",
+  "assetType": "OP",
+  "txType": "P",
+  "kind": "buy",
+  "date": "05/29/2026",
+  "notified": "05/29/2026",
+  "amountText": "$500,001 - $1,000,000",
+  "amountLow": 500001,
+  "amountHigh": 1000000,
+  "shares": null,
+  "note": "F/S: New D: Purchased 200 call options",
+  "page": 1,
+  "source": {
+   "docId": "20034836",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034836.pdf",
+   "year": 2026,
+   "filedOn": "6/23/2026"
+  }
+ }
+]

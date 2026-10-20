@@ -1,0 +1,24 @@
+[
+ {
+  "owner": "SP",
+  "asset": "Forge Investments, LLC",
+  "ticker": null,
+  "assetType": "AB",
+  "txType": "P",
+  "kind": "buy",
+  "date": "03/04/2024",
+  "notified": "03/04/2024",
+  "amountText": "$1,000,001 - $5,000,000",
+  "amountLow": 1000001,
+  "amountHigh": 5000000,
+  "shares": null,
+  "note": "F/S: New D: Investment in fund that owns software company based on AI technology.",
+  "page": 1,
+  "source": {
+   "docId": "20024625",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024625.pdf",
+   "year": 2024,
+   "filedOn": "3/21/2024"
+  }
+ }
+]

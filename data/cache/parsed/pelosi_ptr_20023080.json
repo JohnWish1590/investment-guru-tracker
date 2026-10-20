@@ -1,0 +1,24 @@
+[
+ {
+  "owner": "SP",
+  "asset": "Apple Inc.",
+  "ticker": "AAPL",
+  "assetType": "ST",
+  "txType": "S (partial)",
+  "kind": "sell",
+  "date": "05/08/2023",
+  "notified": "05/08/2023",
+  "amountText": "$500,001 - $1,000,000",
+  "amountLow": 500001,
+  "amountHigh": 1000000,
+  "shares": null,
+  "note": "F/S: New D: Contribution of 2,900 shares",
+  "page": 1,
+  "source": {
+   "docId": "20023080",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20023080.pdf",
+   "year": 2023,
+   "filedOn": "6/6/2023"
+  }
+ }
+]

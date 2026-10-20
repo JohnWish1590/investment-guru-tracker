@@ -1,0 +1,94 @@
+name: 更新披露数据并发布
+
+on:
+  # 每天 UTC 00:10 = 北京时间 08:10，与本地计划任务同一时刻
+  schedule:
+    - cron: "10 0 * * *"
+  workflow_dispatch:
+    inputs:
+      full:
+        description: "强制重新下载全部 13F 表"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pdfplumber
+
+      - name: 抓取 SEC 13F（增量）
+        run: python scripts/fetch_13f.py ${{ inputs.full && '--full' || '' }}
+
+      - name: 抓取政客披露（House Clerk / OGE）
+        run: python scripts/fetch_politicians.py
+
+      - name: 更新证券中文名
+        run: python scripts/fetch_names.py
+
+      - name: 构建网页数据
+        run: python scripts/build_data.py
+
+      - name: 检查是否有变化
+        id: diff
+        run: |
+          if git diff --quiet -- site/data.js data/raw/13f_raw.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "本次无数据变化"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "检测到数据变化"
+          fi
+
+      - name: 提交数据更新
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data.js data/raw/13f_raw.json data/cache/names.json data/zh_overrides.json
+          git commit -m "chore(data): 自动更新披露数据 $(date -u +%Y-%m-%d)"
+          git push
+
+      # ---- 发布到 GitHub Pages ----
+      - uses: actions/configure-pages@v5
+
+      - name: 准备站点目录
+        run: |
+          mkdir -p _site
+          cp -r site/. _site/
+          cp README.md _site/ 2>/dev/null || true
+          du -sh _site
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

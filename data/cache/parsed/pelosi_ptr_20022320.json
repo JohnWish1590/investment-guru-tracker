@@ -1,0 +1,24 @@
+[
+ {
+  "owner": "SP",
+  "asset": "Roblox Corporation Class A",
+  "ticker": "RBLX",
+  "assetType": "OP",
+  "txType": "S",
+  "kind": "sell",
+  "date": "01/20/2023",
+  "notified": "01/20/2023",
+  "amountText": "$1.00",
+  "amountLow": null,
+  "amountHigh": null,
+  "shares": null,
+  "note": "F/S: New D: 100 call options purchased with no value. C: 100 call options purchased 12/20/21 no value for a total loss of $303,001.",
+  "page": 1,
+  "source": {
+   "docId": "20022320",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022320.pdf",
+   "year": 2023,
+   "filedOn": "1/25/2023"
+  }
+ }
+]

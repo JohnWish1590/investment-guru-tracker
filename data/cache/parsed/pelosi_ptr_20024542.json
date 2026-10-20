@@ -1,0 +1,46 @@
+[
+ {
+  "owner": "SP",
+  "asset": "Palo Alto Networks, Inc.",
+  "ticker": "PANW",
+  "assetType": "OP",
+  "txType": "P",
+  "kind": "buy",
+  "date": "02/12/2024",
+  "notified": "02/12/2024",
+  "amountText": "$500,001 - $1,000,000",
+  "amountLow": 500001,
+  "amountHigh": 1000000,
+  "shares": null,
+  "note": "F/S: New D: Purchased 50 call options",
+  "page": 1,
+  "source": {
+   "docId": "20024542",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024542.pdf",
+   "year": 2024,
+   "filedOn": "2/23/2024"
+  }
+ },
+ {
+  "owner": "SP",
+  "asset": "Palo Alto Networks, Inc.",
+  "ticker": "PANW",
+  "assetType": "OP",
+  "txType": "P",
+  "kind": "buy",
+  "date": "02/21/2024",
+  "notified": "02/21/2024",
+  "amountText": "$100,001 - $250,000",
+  "amountLow": 100001,
+  "amountHigh": 250000,
+  "shares": null,
+  "note": "F/S: New D: Purchased 20 call options",
+  "page": 1,
+  "source": {
+   "docId": "20024542",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20024542.pdf",
+   "year": 2024,
+   "filedOn": "2/23/2024"
+  }
+ }
+]

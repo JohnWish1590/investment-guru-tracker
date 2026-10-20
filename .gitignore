@@ -1,0 +1,18 @@
+# 原始披露 PDF 体积大（约 140MB），不进仓库；Actions 会按需重新下载
+data/raw/*.pdf
+# 13F 解析缓存与索引文件每天重建很快，不进仓库
+data/cache/table_*.json
+data/cache/submissions_*.json
+data/cache/house_index_*.json
+data/cache/oge_trump.json
+data/cache/bad_pdfs.txt
+
+# 政客 PDF 的解析结果要保留（重新解析很慢，见 scripts/parsed_cache.py）
+!data/cache/parsed/
+
+# data/site_data.json 与 site/data.js 内容重复，只保留后者（页面直接加载）
+data/site_data.json
+logs/task.log
+__pycache__/
+*.pyc
+.DS_Store

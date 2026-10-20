@@ -1,0 +1,958 @@
+{
+ "AAPL": {
+  "zh": "苹果",
+  "en": "Apple Inc."
+ },
+ "ABNB": {
+  "zh": "爱彼迎",
+  "en": "Airbnb, Inc."
+ },
+ "ABSI": {
+  "zh": "Absci Corporation",
+  "en": "Absci Corporation"
+ },
+ "ACHR": {
+  "zh": "Archer Aviation Inc.",
+  "en": "Archer Aviation Inc."
+ },
+ "ADBE": {
+  "zh": "Adobe Inc.",
+  "en": "Adobe Inc."
+ },
+ "ADPT": {
+  "zh": "Adaptive Biotechnologies Corporation",
+  "en": "Adaptive Biotechnologies Corporation"
+ },
+ "ADSK": {
+  "zh": "欧特克",
+  "en": "Autodesk, Inc."
+ },
+ "ALAR": {
+  "zh": "Alarum Technologies Ltd",
+  "en": "Alarum Technologies Ltd"
+ },
+ "ALGN": {
+  "zh": "艾利科技",
+  "en": "Align Technology, Inc."
+ },
+ "ALLY": {
+  "zh": "联合汽车金融",
+  "en": "Ally Financial Inc."
+ },
+ "ALMR": {
+  "zh": "Alamar Biosciences, Inc.",
+  "en": "Alamar Biosciences, Inc."
+ },
+ "AMD": {
+  "zh": "超威半导体",
+  "en": "Advanced Micro Devices, Inc."
+ },
+ "AME": {
+  "zh": "阿美特克",
+  "en": "Ametek, Inc."
+ },
+ "AMGN": {
+  "zh": "安进",
+  "en": "Amgen Inc."
+ },
+ "AMZN": {
+  "zh": "亚马逊",
+  "en": "Amazon.Com, Inc."
+ },
+ "ARCT": {
+  "zh": "Arcturus Therapeutics Holdings Inc.",
+  "en": "Arcturus Therapeutics Holdings Inc."
+ },
+ "ARKB": {
+  "zh": "比特币ETF-ARK",
+  "en": "Ark 21Shares Bitcoin Etf Shs Ben Int"
+ },
+ "ARKG": {
+  "zh": "生物基因革新主动ETF-ARK",
+  "en": "Ark Etf Trust Genomic Revolution Etf"
+ },
+ "ARKK": {
+  "zh": "创新主动ETF-ARK",
+  "en": "Ark Innovation Etf"
+ },
+ "ATI": {
+  "zh": "阿勒格尼技术",
+  "en": "Ati Inc."
+ },
+ "AUR": {
+  "zh": "Aurora Innovation, Inc.",
+  "en": "Aurora Innovation, Inc."
+ },
+ "AVAV": {
+  "zh": "AeroVironment公司",
+  "en": "Aerovironment, Inc."
+ },
+ "AVDX": {
+  "zh": "Avidxchange Hldgs Inc",
+  "en": "Avidxchange Hldgs Inc"
+ },
+ "AVGO": {
+  "zh": "博通",
+  "en": "Broadcom Inc."
+ },
+ "AVNT": {
+  "zh": "Avient Corporation",
+  "en": "Avient Corporation"
+ },
+ "AXP": {
+  "zh": "美国运通",
+  "en": "American Express Company"
+ },
+ "BABA": {
+  "zh": "阿里巴巴",
+  "en": "Alibaba Group Holding Ltd"
+ },
+ "BAC": {
+  "zh": "美国银行",
+  "en": "Bank Of America Corporation"
+ },
+ "BATRK": {
+  "zh": "Atlanta Braves Holdings, Inc. - Series C",
+  "en": "Atlanta Braves Holdings, Inc. - Series C"
+ },
+ "BEAM": {
+  "zh": "Beam Therapeutics Inc.",
+  "en": "Beam Therapeutics Inc."
+ },
+ "BFLY": {
+  "zh": "Butterfly Network, Inc.",
+  "en": "Butterfly Network, Inc."
+ },
+ "BIDU": {
+  "zh": "百度",
+  "en": "Baidu Inc"
+ },
+ "BILL": {
+  "zh": "Bill Holdings, Inc.",
+  "en": "Bill Holdings, Inc."
+ },
+ "BMNR": {
+  "zh": "Bitmine Immersion Technologies, Inc.",
+  "en": "Bitmine Immersion Technologies, Inc."
+ },
+ "BNTX": {
+  "zh": "Biontech Se",
+  "en": "Biontech Se"
+ },
+ "BTC": {
+  "zh": "比特币迷你ETF-Grayscale",
+  "en": "Grayscale Bitcoin Mini Trust Etf"
+ },
+ "BWAY": {
+  "zh": "Brainsway Ltd",
+  "en": "Brainsway Ltd"
+ },
+ "BWXT": {
+  "zh": "Bwx Technologies, Inc.",
+  "en": "Bwx Technologies, Inc."
+ },
+ "C": {
+  "zh": "花旗集团",
+  "en": "Citigroup, Inc."
+ },
+ "CAI": {
+  "zh": "Caris Life Sciences, Inc.",
+  "en": "Caris Life Sciences, Inc."
+ },
+ "CAT": {
+  "zh": "卡特彼勒",
+  "en": "Caterpillar, Inc."
+ },
+ "CBRS": {
+  "zh": "Cerebras",
+  "en": "Cerebras Systems Inc."
+ },
+ "CCJ": {
+  "zh": "卡梅科",
+  "en": "Cameco Corporation"
+ },
+ "CDNA": {
+  "zh": "Caredx, Inc.",
+  "en": "Caredx, Inc."
+ },
+ "CERS": {
+  "zh": "Cerus Corporation",
+  "en": "Cerus Corporation"
+ },
+ "CHTR": {
+  "zh": "特许通讯",
+  "en": "Charter Communications, Inc."
+ },
+ "CMPS": {
+  "zh": "Compass Pathways Plc",
+  "en": "Compass Pathways Plc"
+ },
+ "CNTN": {
+  "zh": "Canton Strategic Holdings, Inc.",
+  "en": "Canton Strategic Holdings, Inc."
+ },
+ "COF": {
+  "zh": "第一资本信贷",
+  "en": "Capital One Financial Corporation"
+ },
+ "COIN": {
+  "zh": "Coinbase",
+  "en": "Coinbase Global, Inc."
+ },
+ "CRCL": {
+  "zh": "Circle互联网集团",
+  "en": "Circle Internet Group, Inc."
+ },
+ "CRM": {
+  "zh": "赛富时",
+  "en": "Salesforce, Inc."
+ },
+ "CRS": {
+  "zh": "卡朋特科技",
+  "en": "Carpenter Technology Corporation"
+ },
+ "CRWD": {
+  "zh": "CrowdStrike",
+  "en": "Crowdstrike Holdings, Inc."
+ },
+ "CRWV": {
+  "zh": "CoreWeave",
+  "en": "Coreweave, Inc."
+ },
+ "CVX": {
+  "zh": "雪佛龙",
+  "en": "Chevron Corporation"
+ },
+ "DAL": {
+  "zh": "达美航空",
+  "en": "Delta Air Lines, Inc."
+ },
+ "DASH": {
+  "zh": "Doordash, Inc.",
+  "en": "Doordash, Inc."
+ },
+ "DCH": {
+  "zh": "Dauch Corporation",
+  "en": "Dauch Corporation"
+ },
+ "DDD": {
+  "zh": "3D系统",
+  "en": "3D Systems Corporation"
+ },
+ "DDOG": {
+  "zh": "Datadog, Inc.",
+  "en": "Datadog, Inc."
+ },
+ "DE": {
+  "zh": "迪尔股份",
+  "en": "Deere & Company"
+ },
+ "DEO": {
+  "zh": "帝亚吉欧",
+  "en": "Diageo Plc"
+ },
+ "DHI": {
+  "zh": "霍顿房屋",
+  "en": "D.R. Horton, Inc."
+ },
+ "DIS": {
+  "zh": "迪士尼",
+  "en": "Walt Disney Company (The)"
+ },
+ "DKNG": {
+  "zh": "Draftkings Inc.",
+  "en": "Draftkings Inc."
+ },
+ "DPZ": {
+  "zh": "达美乐比萨",
+  "en": "Domino'S Pizza Inc"
+ },
+ "DVA": {
+  "zh": "德维特",
+  "en": "Davita Inc."
+ },
+ "EETH": {
+  "zh": "Proshares Ether Etf",
+  "en": "Proshares Ether Etf"
+ },
+ "EMN": {
+  "zh": "伊士曼化工",
+  "en": "Eastman Chemical Company"
+ },
+ "ETH": {
+  "zh": "质押以太坊迷你ETF-Grayscale",
+  "en": "Grayscale Ethereum Staking Mini Etf"
+ },
+ "ETHE": {
+  "zh": "质押以太坊ETF-Grayscale",
+  "en": "Grayscale Ethereum Staking Etf"
+ },
+ "EXK": {
+  "zh": "Endeavour Silver Corporation",
+  "en": "Endeavour Silver Corporation"
+ },
+ "FARO": {
+  "zh": "法如科技",
+  "en": "Faro Technologies Inc"
+ },
+ "FCOM": {
+  "zh": "Fidelity Covington Trust Msci Communication Services Index Etf",
+  "en": "Fidelity Covington Trust Msci Communication Services Index Etf"
+ },
+ "FIG": {
+  "zh": "Figma, Inc.",
+  "en": "Figma, Inc."
+ },
+ "FND": {
+  "zh": "Floor & Decor Holdings, Inc.",
+  "en": "Floor & Decor Holdings, Inc."
+ },
+ "FPLSF": {
+  "zh": "5N Plus Inc",
+  "en": "5N Plus Inc"
+ },
+ "FUTU": {
+  "zh": "富途控股",
+  "en": "Futu Holdings Limited"
+ },
+ "FWONK": {
+  "zh": "Liberty Media Corporation - Series C",
+  "en": "Liberty Media Corporation - Series C"
+ },
+ "GBTC": {
+  "zh": "灰度比特币ETF",
+  "en": "Grayscale Bitcoin Trust Etf"
+ },
+ "GE": {
+  "zh": "GE航天航空",
+  "en": "Ge Aerospace"
+ },
+ "GENB": {
+  "zh": "Generate Biomedicines, Inc.",
+  "en": "Generate Biomedicines, Inc."
+ },
+ "GH": {
+  "zh": "Guardant Health, Inc.",
+  "en": "Guardant Health, Inc."
+ },
+ "GOOG": {
+  "zh": "谷歌-C",
+  "en": "Alphabet Inc."
+ },
+ "GOOGL": {
+  "zh": "谷歌-A",
+  "en": "Alphabet Inc."
+ },
+ "GTLB": {
+  "zh": "Gitlab Inc.",
+  "en": "Gitlab Inc."
+ },
+ "HEI": {
+  "zh": "海科航空",
+  "en": "Heico Corporation"
+ },
+ "HON": {
+  "zh": "霍尼韦尔",
+  "en": "Honeywell International Inc."
+ },
+ "HONA": {
+  "zh": "Honeywell Aerospace Inc.",
+  "en": "Honeywell Aerospace Inc."
+ },
+ "HOOD": {
+  "zh": "Robinhood Markets, Inc.",
+  "en": "Robinhood Markets, Inc."
+ },
+ "HPQ": {
+  "zh": "惠普",
+  "en": "Hp Inc."
+ },
+ "HXL": {
+  "zh": "赫氏",
+  "en": "Hexcel Corporation"
+ },
+ "IAI": {
+  "zh": "美国证券经纪交易商ETF-iShares",
+  "en": "Ishares Trust Us Brkr-Dealers & Sec Exch"
+ },
+ "IBTA": {
+  "zh": "Ibotta, Inc.",
+  "en": "Ibotta, Inc."
+ },
+ "ICE": {
+  "zh": "洲际交易所",
+  "en": "Intercontinental Exchange Inc."
+ },
+ "IGV": {
+  "zh": "北美科技软件ETF-iShares",
+  "en": "Ishares Trust Expanded Tech-Software Sector Etf"
+ },
+ "ILMN": {
+  "zh": "因美纳",
+  "en": "Illumina, Inc."
+ },
+ "INCY": {
+  "zh": "因塞特",
+  "en": "Incyte Corporation"
+ },
+ "INOD": {
+  "zh": "Innodata Inc.",
+  "en": "Innodata Inc."
+ },
+ "INTU": {
+  "zh": "财捷",
+  "en": "Intuit Inc."
+ },
+ "IONS": {
+  "zh": "Ionis Pharmaceuticals, Inc.",
+  "en": "Ionis Pharmaceuticals, Inc."
+ },
+ "IRDM": {
+  "zh": "铱星通讯",
+  "en": "Iridium Communications Inc"
+ },
+ "ISRG": {
+  "zh": "直觉外科公司",
+  "en": "Intuitive Surgical, Inc."
+ },
+ "IWB": {
+  "zh": "罗素1000 ETF-iShares",
+  "en": "Ishares Trust Russell 1000 Etf"
+ },
+ "IWF": {
+  "zh": "罗素1000成长ETF-iShares",
+  "en": "Ishares Trust Russell 1000 Growth Etf"
+ },
+ "JBL": {
+  "zh": "捷普科技",
+  "en": "Jabil Inc."
+ },
+ "JEF": {
+  "zh": "杰富瑞",
+  "en": "Jefferies Financial Group Inc."
+ },
+ "KALU": {
+  "zh": "凯撒铝业",
+  "en": "Kaiser Aluminum Corporation"
+ },
+ "KCE": {
+  "zh": "State Street Spdr S&P Capital Markets Etf",
+  "en": "State Street Spdr S&P Capital Markets Etf"
+ },
+ "KDK": {
+  "zh": "Kodiak Ai, Inc.",
+  "en": "Kodiak Ai, Inc."
+ },
+ "KHC": {
+  "zh": "卡夫亨氏",
+  "en": "The Kraft Heinz Company"
+ },
+ "KMT": {
+  "zh": "肯纳金属",
+  "en": "Kennametal Inc."
+ },
+ "KO": {
+  "zh": "可口可乐",
+  "en": "Coca-Cola Company (The)"
+ },
+ "KODK": {
+  "zh": "柯达",
+  "en": "Eastman Kodak Company"
+ },
+ "KR": {
+  "zh": "克罗格",
+  "en": "Kroger Company (The)"
+ },
+ "KSPI": {
+  "zh": "Kaspi.Kz Jsc Sponsored Ads Each Rep 1 Com Shs",
+  "en": "Kaspi.Kz Jsc Sponsored Ads Each Rep 1 Com Shs"
+ },
+ "KTOS": {
+  "zh": "克瑞拓斯安全防卫",
+  "en": "Kratos Defense & Security Solutions, Inc."
+ },
+ "LAB": {
+  "zh": "Standard Biotools Inc.",
+  "en": "Standard Biotools Inc."
+ },
+ "LAMR": {
+  "zh": "拉马尔户外广告",
+  "en": "Lamar Advertising Company"
+ },
+ "LECO": {
+  "zh": "林肯电气",
+  "en": "Lincoln Electric Holdings, Inc."
+ },
+ "LEN": {
+  "zh": "莱纳建筑",
+  "en": "Lennar Corporation"
+ },
+ "LHX": {
+  "zh": "L3哈里斯技术公司",
+  "en": "L3Harris Technologies, Inc."
+ },
+ "LLY": {
+  "zh": "礼来",
+  "en": "Eli Lilly And Company"
+ },
+ "LLYVA": {
+  "zh": "Liberty Live Holdings, Inc. - Series A Liberty Live Group",
+  "en": "Liberty Live Holdings, Inc. - Series A Liberty Live Group"
+ },
+ "LLYVK": {
+  "zh": "Liberty Live Holdings, Inc. - Series C Liberty Live Group",
+  "en": "Liberty Live Holdings, Inc. - Series C Liberty Live Group"
+ },
+ "LMT": {
+  "zh": "洛克希德马丁",
+  "en": "Lockheed Martin Corporation"
+ },
+ "LPX": {
+  "zh": "路易斯安那太平洋",
+  "en": "Louisiana-Pacific Corporation"
+ },
+ "LUNR": {
+  "zh": "直觉机器公司",
+  "en": "Intuitive Machines, Inc."
+ },
+ "M": {
+  "zh": "梅西百货",
+  "en": "Macy'S Inc"
+ },
+ "MA": {
+  "zh": "万事达",
+  "en": "Mastercard Incorporated"
+ },
+ "MASS": {
+  "zh": "908 Devices Inc.",
+  "en": "908 Devices Inc."
+ },
+ "MBLY": {
+  "zh": "Mobileye Global Inc.",
+  "en": "Mobileye Global Inc."
+ },
+ "MCO": {
+  "zh": "穆迪",
+  "en": "Moody'S Corporation"
+ },
+ "MELI": {
+  "zh": "美客多",
+  "en": "Mercadolibre, Inc."
+ },
+ "META": {
+  "zh": "Meta Platforms",
+  "en": "Meta Platforms, Inc."
+ },
+ "MGA": {
+  "zh": "曼格纳国际",
+  "en": "Magna International, Inc."
+ },
+ "MGIC": {
+  "zh": "Magic Software Enterprises",
+  "en": "Magic Software Enterprises"
+ },
+ "MKFG": {
+  "zh": "Markforged Holding Corporation",
+  "en": "Markforged Holding Corporation"
+ },
+ "MMM": {
+  "zh": "3M Company",
+  "en": "3M Company"
+ },
+ "MRNA": {
+  "zh": "莫德纳",
+  "en": "Moderna, Inc."
+ },
+ "MSFT": {
+  "zh": "微软",
+  "en": "Microsoft Corporation"
+ },
+ "MTLS": {
+  "zh": "Materialise Nv",
+  "en": "Materialise Nv"
+ },
+ "MTRN": {
+  "zh": "Materion Corporation",
+  "en": "Materion Corporation"
+ },
+ "NET": {
+  "zh": "科赋锐",
+  "en": "Cloudflare, Inc."
+ },
+ "NFLX": {
+  "zh": "奈飞",
+  "en": "Netflix, Inc."
+ },
+ "NICE": {
+  "zh": "Nice Ltd Adr-Each Cnv Into 1 Ord Ils1",
+  "en": "Nice Ltd Adr-Each Cnv Into 1 Ord Ils1"
+ },
+ "NNDM": {
+  "zh": "Nano Dimension Ltd",
+  "en": "Nano Dimension Ltd"
+ },
+ "NOW": {
+  "zh": "现在服务公司",
+  "en": "Servicenow, Inc."
+ },
+ "NRIX": {
+  "zh": "Nurix Therapeutics, Inc.",
+  "en": "Nurix Therapeutics, Inc."
+ },
+ "NTLA": {
+  "zh": "Intellia Therapeutics, Inc.",
+  "en": "Intellia Therapeutics, Inc."
+ },
+ "NTRA": {
+  "zh": "Natera, Inc.",
+  "en": "Natera, Inc."
+ },
+ "NUE": {
+  "zh": "纽柯钢铁",
+  "en": "Nucor Corporation"
+ },
+ "NVDA": {
+  "zh": "英伟达",
+  "en": "Nvidia Corporation"
+ },
+ "NVR": {
+  "zh": "Nvr, Inc.",
+  "en": "Nvr, Inc."
+ },
+ "NXDR": {
+  "zh": "Nextdoor Holdings, Inc.",
+  "en": "Nextdoor Holdings, Inc."
+ },
+ "NYT": {
+  "zh": "纽约时报",
+  "en": "New York Times Company (The)"
+ },
+ "OKLO": {
+  "zh": "Oklo Inc.",
+  "en": "Oklo Inc."
+ },
+ "OXY": {
+  "zh": "西方石油",
+  "en": "Occidental Petroleum Corporation"
+ },
+ "P": {
+  "zh": "Everpure, Inc.",
+  "en": "Everpure, Inc."
+ },
+ "PACB": {
+  "zh": "Pacific Biosciences Of California, Inc.",
+  "en": "Pacific Biosciences Of California, Inc."
+ },
+ "PANW": {
+  "zh": "派拓网络",
+  "en": "Palo Alto Networks, Inc."
+ },
+ "PATH": {
+  "zh": "Uipath, Inc.",
+  "en": "Uipath, Inc."
+ },
+ "PAYP": {
+  "zh": "Paypay Corporation",
+  "en": "Paypay Corporation"
+ },
+ "PD": {
+  "zh": "Pagerduty, Inc.",
+  "en": "Pagerduty, Inc."
+ },
+ "PDD": {
+  "zh": "拼多多",
+  "en": "Pdd Holdings Inc"
+ },
+ "PINS": {
+  "zh": "缤趣",
+  "en": "Pinterest, Inc."
+ },
+ "PLTK": {
+  "zh": "Playtika Holding Corp.",
+  "en": "Playtika Holding Corp."
+ },
+ "PLTR": {
+  "zh": "Palantir",
+  "en": "Palantir Technologies Inc."
+ },
+ "PONY": {
+  "zh": "小马智行",
+  "en": "Pony Ai Inc"
+ },
+ "POOL": {
+  "zh": "Pool Corporation",
+  "en": "Pool Corporation"
+ },
+ "PRLB": {
+  "zh": "Proto Labs, Inc.",
+  "en": "Proto Labs, Inc."
+ },
+ "PRME": {
+  "zh": "Prime Medicine, Inc.",
+  "en": "Prime Medicine, Inc."
+ },
+ "PRNT": {
+  "zh": "3D打印ETF-ARK",
+  "en": "Ark Etf Trust 3D Printing Etf Usd"
+ },
+ "PSNL": {
+  "zh": "Personalis, Inc.",
+  "en": "Personalis, Inc."
+ },
+ "PTC": {
+  "zh": "Ptc Inc.",
+  "en": "Ptc Inc."
+ },
+ "PYPL": {
+  "zh": "Paypal",
+  "en": "Paypal Holdings, Inc."
+ },
+ "Q": {
+  "zh": "Qnity Electronics, Inc.",
+  "en": "Qnity Electronics, Inc."
+ },
+ "QCOM": {
+  "zh": "高通",
+  "en": "Qualcomm Incorporated"
+ },
+ "QSI": {
+  "zh": "Quantum-Si Incorporated",
+  "en": "Quantum-Si Incorporated"
+ },
+ "MYNAY": {
+  "zh": "Mynaric Ag",
+  "en": "Mynaric Ag"
+ },
+ "RBLX": {
+  "zh": "罗布乐思",
+  "en": "Roblox Corporation"
+ },
+ "RBRK": {
+  "zh": "Rubrik, Inc.",
+  "en": "Rubrik, Inc."
+ },
+ "RDDT": {
+  "zh": "红迪网",
+  "en": "Reddit, Inc."
+ },
+ "REGN": {
+  "zh": "再生元制药公司",
+  "en": "Regeneron Pharmaceuticals, Inc."
+ },
+ "RKLB": {
+  "zh": "Rocket Lab",
+  "en": "Rocket Lab Corporation"
+ },
+ "ROKU": {
+  "zh": "Roku, Inc.",
+  "en": "Roku, Inc."
+ },
+ "RPTX": {
+  "zh": "Repare Therapeutics Inc",
+  "en": "Repare Therapeutics Inc"
+ },
+ "RXRX": {
+  "zh": "Recursion Pharmaceuticals, Inc.",
+  "en": "Recursion Pharmaceuticals, Inc."
+ },
+ "SDGR": {
+  "zh": "Schrodinger, Inc.",
+  "en": "Schrodinger, Inc."
+ },
+ "SE": {
+  "zh": "冬海集团",
+  "en": "Sea Limited Ads Each Rep One Class A Ord Shs"
+ },
+ "SHOP": {
+  "zh": "Shopify Inc.",
+  "en": "Shopify Inc."
+ },
+ "SIRI": {
+  "zh": "天狼星XM",
+  "en": "Siriusxm Holdings Inc."
+ },
+ "SNOW": {
+  "zh": "Snowflake Inc.",
+  "en": "Snowflake Inc."
+ },
+ "SNPS": {
+  "zh": "新思科技",
+  "en": "Synopsys, Inc."
+ },
+ "SOFI": {
+  "zh": "Sofi Technologies, Inc.",
+  "en": "Sofi Technologies, Inc."
+ },
+ "SPCX": {
+  "zh": "SpaceX",
+  "en": "Space Exploration Technologies Corp."
+ },
+ "SPY": {
+  "zh": "标普500指数ETF-SPDR",
+  "en": "State Street Spdr S&P 500 Etf"
+ },
+ "SRTA": {
+  "zh": "Strata Critical Medical, Inc.",
+  "en": "Strata Critical Medical, Inc."
+ },
+ "STZ": {
+  "zh": "星座品牌-A",
+  "en": "Constellation Brands, Inc."
+ },
+ "SYM": {
+  "zh": "Symbotic Inc.",
+  "en": "Symbotic Inc."
+ },
+ "TDOC": {
+  "zh": "Teladoc Health, Inc.",
+  "en": "Teladoc Health, Inc."
+ },
+ "TDY": {
+  "zh": "Teledyne Technologies Incorporated",
+  "en": "Teledyne Technologies Incorporated"
+ },
+ "TEM": {
+  "zh": "Tempus AI",
+  "en": "Tempus Ai, Inc."
+ },
+ "TER": {
+  "zh": "泰瑞达",
+  "en": "Teradyne, Inc."
+ },
+ "TMUS": {
+  "zh": "T-Mobile Us, Inc.",
+  "en": "T-Mobile Us, Inc."
+ },
+ "TOST": {
+  "zh": "Toast, Inc.",
+  "en": "Toast, Inc."
+ },
+ "TRMB": {
+  "zh": "天宝导航公司",
+  "en": "Trimble Inc."
+ },
+ "TSLA": {
+  "zh": "特斯拉",
+  "en": "Tesla, Inc."
+ },
+ "TSM": {
+  "zh": "台积电",
+  "en": "Taiwan Semiconductor Manufacturing"
+ },
+ "TTD": {
+  "zh": "萃弈",
+  "en": "The Trade Desk, Inc."
+ },
+ "TWLO": {
+  "zh": "Twilio Inc.",
+  "en": "Twilio Inc."
+ },
+ "TWST": {
+  "zh": "Twist Bioscience Corporation",
+  "en": "Twist Bioscience Corporation"
+ },
+ "TXG": {
+  "zh": "10X Genomics, Inc.",
+  "en": "10X Genomics, Inc."
+ },
+ "U": {
+  "zh": "Unity Software Inc.",
+  "en": "Unity Software Inc."
+ },
+ "ULTA": {
+  "zh": "犹他美容",
+  "en": "Ulta Beauty, Inc."
+ },
+ "UNH": {
+  "zh": "联合健康",
+  "en": "Unitedhealth Group Incorporated"
+ },
+ "UPS": {
+  "zh": "联合包裹",
+  "en": "United Parcel Service, Inc."
+ },
+ "V": {
+  "zh": "Visa",
+  "en": "Visa Inc."
+ },
+ "VCYT": {
+  "zh": "Veracyte, Inc.",
+  "en": "Veracyte, Inc."
+ },
+ "VEEV": {
+  "zh": "Veeva Systems Inc.",
+  "en": "Veeva Systems Inc."
+ },
+ "VELO": {
+  "zh": "Velo3D, Inc.",
+  "en": "Velo3D, Inc."
+ },
+ "VOO": {
+  "zh": "标普500 ETF-Vanguard",
+  "en": "Vanguard Index Funds S&P 500 Etf Usd"
+ },
+ "VRSN": {
+  "zh": "威瑞信",
+  "en": "Verisign, Inc."
+ },
+ "VRTX": {
+  "zh": "福泰制药",
+  "en": "Vertex Pharmaceuticals Incorporated"
+ },
+ "VUG": {
+  "zh": "成长股ETF-Vanguard",
+  "en": "Vanguard Index Funds Morningstar Growth Etf"
+ },
+ "VUZI": {
+  "zh": "Vuzix Corporation",
+  "en": "Vuzix Corporation"
+ },
+ "WGS": {
+  "zh": "Genedx Holdings Corp.",
+  "en": "Genedx Holdings Corp."
+ },
+ "WRD": {
+  "zh": "文远知行",
+  "en": "Weride Inc"
+ },
+ "XAR": {
+  "zh": "标普航天与国防ETF-SPDR",
+  "en": "State Street Spdr S&P Aerospace & Defense Etf"
+ },
+ "XBI": {
+  "zh": "标普生物科技ETF-SPDR",
+  "en": "State Street Spdr S&P Biotech Etf"
+ },
+ "XE": {
+  "zh": "X-Energy, Inc.",
+  "en": "X-Energy, Inc."
+ },
+ "XHE": {
+  "zh": "标普医疗设备ETF-SPDR",
+  "en": "State Street Spdr S&P Health Care Equipment Etf"
+ },
+ "XMTR": {
+  "zh": "Xometry, Inc.",
+  "en": "Xometry, Inc."
+ },
+ "XRAY": {
+  "zh": "登士柏",
+  "en": "Dentsply Sirona Inc."
+ },
+ "XRX": {
+  "zh": "施乐",
+  "en": "Xerox Holdings Corporation"
+ },
+ "XYZ": {
+  "zh": "Block, Inc.",
+  "en": "Block, Inc."
+ },
+ "Z": {
+  "zh": "Zillow Group, Inc.",
+  "en": "Zillow Group, Inc."
+ },
+ "ZM": {
+  "zh": "Zoom通讯",
+  "en": "Zoom Communications, Inc."
+ }
+}

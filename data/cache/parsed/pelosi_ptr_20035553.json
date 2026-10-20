@@ -1,0 +1,24 @@
+[
+ {
+  "owner": "SP",
+  "asset": "REOF XXX, LLC",
+  "ticker": null,
+  "assetType": "AB",
+  "txType": "P",
+  "kind": "buy",
+  "date": "09/08/2026",
+  "notified": "09/08/2026",
+  "amountText": "$500,001 - $1,000,000",
+  "amountLow": 500001,
+  "amountHigh": 1000000,
+  "shares": null,
+  "note": "F/S: New D: Investment in LLC which is Francisco, CA.",
+  "page": 1,
+  "source": {
+   "docId": "20035553",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035553.pdf",
+   "year": 2026,
+   "filedOn": "10/2/2026"
+  }
+ }
+]

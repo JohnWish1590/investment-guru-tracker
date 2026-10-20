@@ -1,0 +1,46 @@
+[
+ {
+  "owner": "SP",
+  "asset": "Apple Inc.",
+  "ticker": "AAPL",
+  "assetType": "ST",
+  "txType": "P",
+  "kind": "buy",
+  "date": "03/17/2023",
+  "notified": "03/17/2023",
+  "amountText": "$500,001 - $1,000,000",
+  "amountLow": 500001,
+  "amountHigh": 1000000,
+  "shares": null,
+  "note": "F/S: New D: Exercised 100 call options of 3/17/23.",
+  "page": 1,
+  "source": {
+   "docId": "20022664",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022664.pdf",
+   "year": 2023,
+   "filedOn": "4/6/2023"
+  }
+ },
+ {
+  "owner": "SP",
+  "asset": "REOF XXV, LLC",
+  "ticker": null,
+  "assetType": "AB",
+  "txType": "P",
+  "kind": "buy",
+  "date": "03/09/2023",
+  "notified": "03/09/2023",
+  "amountText": "$500,001 - $1,000,000",
+  "amountLow": 500001,
+  "amountHigh": 1000000,
+  "shares": null,
+  "note": "F/S: New D: Investment in LLC which is",
+  "page": 1,
+  "source": {
+   "docId": "20022664",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/20022664.pdf",
+   "year": 2023,
+   "filedOn": "4/6/2023"
+  }
+ }
+]

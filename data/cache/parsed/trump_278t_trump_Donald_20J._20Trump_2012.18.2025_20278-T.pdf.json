@@ -1,0 +1,134 @@
+[
+ {
+  "row": null,
+  "description": "NY CITY MUN WTR RN AUTH WTR & SWR SYS REV FORIS SUES DATED PRIOR TO 6/29/2012 2ND GEN RES BDS DD 2 DUE",
+  "kind": "sell",
+  "date": "11/13/2025",
+  "over30days": false,
+  "amountText": "s1.ooo.001 • ss.000.000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 4
+ },
+ {
+  "row": null,
+  "description": "ST HEALT H & EDL FACS AUTH REV VAR REV BDS YAL UNIV 2001 V-2 DUE 7/1/2036 DATED 711/2001 1%",
+  "kind": "sell",
+  "date": "11/13/2025",
+  "over30days": false,
+  "amountText": "$500,001 • $1,000,000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 4
+ },
+ {
+  "row": null,
+  "description": "COLLEGE BLD AUTH VA EDL FACS REV 21ST CENTY COLLEGE & EQUIP PROG FOR ISSUES OTO PRIOR T05116/14 SEE 927781",
+  "kind": "buy",
+  "date": "11/12/2025",
+  "over30days": false,
+  "amountText": "$500,001 • $1,000,000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 4
+ },
+ {
+  "row": null,
+  "description": "PROTLAND TEX INDPT SCH DIST UNLTD TAX SCH BLOG BOS 2025 PERMANENT SCHOOL FUND GUARANTY DUE 2115/34",
+  "kind": "buy",
+  "date": "11/8/2025",
+  "over30days": false,
+  "amountText": "$250,001 • SSD0,000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 4
+ },
+ {
+  "row": null,
+  "description": "ST FOR PREVIOUS ISSUES SEE 604129 VAR PURP GO BOS 2024A DUE 8/112B DATED 8120/24 5%",
+  "kind": "buy",
+  "date": "11/5/2025",
+  "over30days": false,
+  "amountText": "No",
+  "amountLow": 0,
+  "amountHigh": 0,
+  "page": 4
+ },
+ {
+  "row": null,
+  "description": "ST GO FIRST REV BOS 2025 A DUE 8/15129 DATED 6/13/25 5% INT",
+  "kind": "buy",
+  "date": "11/5/2025",
+  "over30days": false,
+  "amountText": "$250,001 • $500,000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 4
+ },
+ {
+  "row": null,
+  "description": "FLA SCH BRO CTFS PARTN COPS 2025 A DUE B/1/2033 DATED 11114125 5%",
+  "kind": "buy",
+  "date": "11/5/2025",
+  "over30days": false,
+  "amountText": "No",
+  "amountLow": 0,
+  "amountHigh": 0,
+  "page": 4
+ },
+ {
+  "row": null,
+  "description": "TEX ELEC UTIL SYS REV REF BOS 2025 DUE 11115/2034 DATED 12103/2025 5% INTEREST REV",
+  "kind": "buy",
+  "date": "11/5/2025",
+  "over30days": false,
+  "amountText": "SS00,001 • $1,000,000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 4
+ },
+ {
+  "row": null,
+  "description": "ALA HEATH CAREAUTH BOS 20258 DUE 611/35 DATED 111131255% INT",
+  "kind": "buy",
+  "date": "11/5/2025",
+  "over30days": false,
+  "amountText": "No",
+  "amountLow": 0,
+  "amountHigh": 0,
+  "page": 4
+ },
+ {
+  "row": null,
+  "description": "FIN AUTH REV RUSH UNIV SYS HEALTH 2025 DUE 11115/2032 DATED 11118125 5%",
+  "kind": "buy",
+  "date": "11/5/2025",
+  "over30days": false,
+  "amountText": "$500,001 • $1,000.000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 4
+ },
+ {
+  "row": null,
+  "description": "ST HEALTH & EDL FACS AUTH REV VAR REV BOS YALE UNIV 2001 V-2 7/1136 DATED 7/12101 VAR REV 1. %",
+  "kind": "buy",
+  "date": "11/3/2025",
+  "over30days": false,
+  "amountText": "$1,000,001 • $5,000,000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 4
+ },
+ {
+  "row": null,
+  "description": "CNTY FLA SCH DIST Account 38 15070 TAX ANTIC NTS 2025 Trade date 10131/25 DUE 01/07/2026",
+  "kind": "buy",
+  "date": "10/31/2025",
+  "over30days": false,
+  "amountText": "$500,001 -$1,000,000",
+  "amountLow": null,
+  "amountHigh": null,
+  "page": 4
+ }
+]

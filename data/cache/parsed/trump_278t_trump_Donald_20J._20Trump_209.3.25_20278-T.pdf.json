@@ -1,0 +1,134 @@
+[
+ {
+  "row": null,
+  "description": "ST PAUL MN HSG & REDEV AUTH HC FAC REV RFDG A B/E 010 @97.874 3.23% 3.00 % Due Jul 1, 2026",
+  "kind": "buy",
+  "date": "8/15/2025",
+  "over30days": false,
+  "amountText": "$100,001 -$250,000",
+  "amountLow": 100001,
+  "amountHigh": 250000,
+  "page": 2
+ },
+ {
+  "row": null,
+  "description": "TYLER TX JR CLLG DIST REV COMB FEE B/E OID @98.222 3.3% 3.125 % Due Aug 15, 2026",
+  "kind": "buy",
+  "date": "8/15/2025",
+  "over30days": false,
+  "amountText": "$50,001 -$100,000",
+  "amountLow": 50001,
+  "amountHigh": 100000,
+  "page": 2
+ },
+ {
+  "row": null,
+  "description": "KNOXYILLE TN CMNTY DEV CORP MLTIFAM �EV COLL HSG WIU�W PJ B/E 3.75 % Due Dec 1, 2027",
+  "kind": "buy",
+  "date": "8/8/2025",
+  "over30days": false,
+  "amountText": "$100,001 -$250,000",
+  "amountLow": 100001,
+  "amountHigh": 250000,
+  "page": 2
+ },
+ {
+  "row": null,
+  "description": "ARIZONA ST INDL DEV AUTH MLTIFAM HSG REV UNITY AT WEST GLENDALE PJ B/E 5.00 % Due Mar 1, 2045",
+  "kind": "buy",
+  "date": "8/8/2025",
+  "over30days": false,
+  "amountText": "$1,000,001 -$5,000,000",
+  "amountLow": 1000001,
+  "amountHigh": 5000000,
+  "page": 2
+ },
+ {
+  "row": null,
+  "description": "UNIVERSITY WA REV RFDG GENL SER C B/E PTC 5.00 % Due Dec 1, 2026",
+  "kind": "buy",
+  "date": "8/8/2025",
+  "over30days": false,
+  "amountText": "$250,001 -$500,000",
+  "amountLow": 250001,
+  "amountHigh": 500000,
+  "page": 2
+ },
+ {
+  "row": null,
+  "description": "LONGMONT CO STORM DRAIN REV B/E PTC 4.00 % Due Dec 1, 2025",
+  "kind": "buy",
+  "date": "8/8/2025",
+  "over30days": false,
+  "amountText": "$50,001 -$100,000",
+  "amountLow": 50001,
+  "amountHigh": 100000,
+  "page": 2
+ },
+ {
+  "row": null,
+  "description": "KENTUCKY INC KY PUB ENERGY AUTH GAS SPLY REV SER A B/E 4.00 % Due Dec 1, 2050",
+  "kind": "buy",
+  "date": "8/7/2025",
+  "over30days": false,
+  "amountText": "$250,001 • $500,000",
+  "amountLow": 250001,
+  "amountHigh": 500000,
+  "page": 2
+ },
+ {
+  "row": null,
+  "description": "PEFA INC IA GAS PJ REV B/E 5.00 % Due Sep 1, 2049",
+  "kind": "buy",
+  "date": "8/7/2025",
+  "over30days": false,
+  "amountText": "$15,001 -$50,000",
+  "amountLow": 15001,
+  "amountHigh": 50000,
+  "page": 2
+ },
+ {
+  "row": null,
+  "description": "BLACK BELT ENERGY GAS DIST AL GAS REV PJ 6 SERB B/E 4.00 % Due Oct 1, 2052",
+  "kind": "buy",
+  "date": "8/7/2025",
+  "over30days": false,
+  "amountText": "$50,001 -$100,000",
+  "amountLow": 50001,
+  "amountHigh": 100000,
+  "page": 2
+ },
+ {
+  "row": null,
+  "description": "HOUSTON TX HSG FIN CORP MLTIFAM HSG REV ALCOTT VLG SER A B/E 3.20 % Due Apr 1, 2028",
+  "kind": "buy",
+  "date": "8/7/2025",
+  "over30days": false,
+  "amountText": "$100,001 -$250,000",
+  "amountLow": 100001,
+  "amountHigh": 250000,
+  "page": 2
+ },
+ {
+  "row": null,
+  "description": "MENOMONIE WI AREA SCH DIST RFDG BAM B/Q B/E 3.00 % Due Mar 1, 2026",
+  "kind": "buy",
+  "date": "8/7/2025",
+  "over30days": false,
+  "amountText": "$100,001 -$250,000",
+  "amountLow": 100001,
+  "amountHigh": 250000,
+  "page": 2
+ },
+ {
+  "row": null,
+  "description": "PRINCE GEORGES CNTY MD CHRTR SCH REV CHESAPEAKE LIGHTHOUSE FNDTN 1 SA B/E 6.90 % Due Aug 1, 2041",
+  "kind": "buy",
+  "date": "8/7/2025",
+  "over30days": false,
+  "amountText": "$1,000,001 -$5,000,000",
+  "amountLow": 1000001,
+  "amountHigh": 5000000,
+  "page": 2
+ }
+]

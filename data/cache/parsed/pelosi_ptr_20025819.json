@@ -1,0 +1,24 @@
+[
+ {
+  "owner": "SP",
+  "asset": "REOF XXVI, LLC",
+  "ticker": null,
+  "assetType": "AB",
+  "txType": "P",
+  "kind": "buy",
+  "date": "08/13/2024",
+  "notified": "08/13/2024",
+  "amountText": "$250,001 - $500,000",
+  "amountLow": 250001,
+  "amountHigh": 500000,
+  "shares": null,
+  "note": "F/S: New D: Investment in LLC which is San Francisco, CA.",
+  "page": 1,
+  "source": {
+   "docId": "20025819",
+   "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/20025819.pdf",
+   "year": 2024,
+   "filedOn": "9/11/2024"
+  }
+ }
+]
