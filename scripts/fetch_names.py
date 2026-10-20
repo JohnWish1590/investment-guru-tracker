@@ -82,15 +82,19 @@ def load() -> dict:
 
 
 def filed_names() -> dict[str, str]:
-    """cusip -> issuer name as printed in the 13F table (longest variant wins)."""
-    data = read_json(CACHE.parent / "site_data.json") or {}
+    """cusip -> issuer name as printed in the 13F table (longest variant wins).
+
+    Uses the raw extract for the same reason as all_cusips(): site_data.json is
+    gitignored and may not exist in CI.
+    """
+    data = read_json(CACHE.parent / "raw" / "13f_raw.json") or {}
     out: dict[str, str] = {}
     for inst in data.get("institutions", []):
         for q in inst["quarters"]:
-            for h in q["holdings"]:
-                n = h["name"]
-                if len(n) > len(out.get(h["cusip"], "")):
-                    out[h["cusip"]] = n
+            for h in q["rows"]:
+                c, n = h.get("cusip"), h.get("issuer") or ""
+                if c and len(n) > len(out.get(c, "")):
+                    out[c] = n
     return out
 
 

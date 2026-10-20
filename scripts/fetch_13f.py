@@ -190,13 +190,13 @@ def main() -> int:
 
     s = session(SEC_UA)
     out = {
-        "generatedAt": None,
+        "generatedAt": None,   # filled with the latest filing date below
         "source": "SEC EDGAR 13F-HR information tables",
         "institutions": [],
     }
-    from datetime import datetime, timezone
-
-    out["generatedAt"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    # generatedAt must be a property of the DATA, not of when the script ran:
+    # otherwise every CI run produces a diff and a spurious commit.
+    out["generatedAt"] = None
 
     for inst in INSTITUTIONS:
         sub = submissions(s, inst)
@@ -278,6 +278,11 @@ def main() -> int:
             }
         )
 
+    latest = max(
+        (q["filingDate"] for inst in out["institutions"] for q in inst["quarters"]),
+        default=None,
+    )
+    out["generatedAt"] = latest
     write_json(RAW / "13f_raw.json", out)
     log(f"wrote {RAW / '13f_raw.json'}")
     return 0
