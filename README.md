@@ -132,7 +132,55 @@ python scripts\daily_check.py --no-fetch
 
 ---
 
-## 每日自动检测
+## 在线版本（GitHub Pages）
+
+**https://johnwish1590.github.io/investment-guru-tracker/**
+
+仓库：https://github.com/JohnWish1590/investment-guru-tracker
+
+### 自动更新是怎么跑的
+
+`.github/workflows/update-and-deploy.yml` 每天 UTC 00:10（北京时间 08:10）自动执行：
+
+1. 抓 SEC 13F（增量，只取新 accession）
+2. 抓 House Clerk PTR / 年报 + OGE 278-T（**优先用 `data/cache/parsed/` 里的解析缓存**，只下载新文件）
+3. 更新证券中文名（OpenFIGI + 腾讯行情，结果缓存在 `data/cache/names.json`）
+4. 重建 `site/data.js`
+5. **有变化才提交**，然后发布到 GitHub Pages
+
+手动触发（可选强制全量重下 13F）：
+
+```powershell
+gh workflow run update-and-deploy
+gh workflow run update-and-deploy -f full=true
+gh run list -L 3
+```
+
+### 让自动更新「只在真有变化时才提交」做的处理
+
+这类定时任务最容易变成「每天一次空提交」，本项目逐个修掉了：
+
+| 问题 | 处理 |
+|---|---|
+| `builtAt` 用当前时间 → 每次都变 | 改为由数据指纹推导，展示为「13F 申报日 / 最新交易日期」 |
+| `generatedAt` 用抓取时刻 → 每次都变 | 改为取最新 13F 申报日 |
+| `names.json` 的 `updated` 每次都刷新 | 内容没变就沿用旧时间戳 |
+| 缓存 JSON 键顺序不稳定 | `politicians_raw.json` 用 `sort_keys=True` 输出 |
+| Windows 写 CRLF / Linux 写 LF → 整文件 diff | `write_json` 与 `data.js` 强制 `
+`，并加 `.gitattributes` |
+| OGE 从云端 IP 连不上（连接超时） | 抓取失败时回退到 `data/cache/oge_trump.json` 索引 + 解析缓存，该步骤 `continue-on-error` |
+
+实测连续两次运行均为 `no data change`，不产生空提交。
+
+### 仓库里放了什么、没放什么
+
+- **不放**：`data/raw/*.pdf`（原始披露 PDF 约 140MB）
+- **放**：`data/cache/parsed/*.json`（PDF 的解析结果，约 2MB，含页码与原始 URL，可复核）
+- **不放**：`data/site_data.json`（与 `site/data.js` 重复）
+
+这样 CI 不必每天重新下载并解析上百 MB 的扫描件。
+
+## 每日自动检测（本地）
 
 已注册 Windows 计划任务 **`InvestmentGuruTracker-Daily`**，每天 **08:10** 运行：
 
