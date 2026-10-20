@@ -10,8 +10,7 @@ data/cache/bad_pdfs.txt
 # 政客 PDF 的解析结果要保留（重新解析很慢，见 scripts/parsed_cache.py）
 !data/cache/parsed/
 
-# data/site_data.json
-data/build_meta.json 与 site/data.js 内容重复，只保留后者（页面直接加载）
+# data/site_data.json 与 site/data.js 内容重复，只保留后者（页面直接加载）
 data/site_data.json
 data/build_meta.json
 logs/task.log

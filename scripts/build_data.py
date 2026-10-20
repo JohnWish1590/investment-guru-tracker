@@ -513,9 +513,9 @@ def main() -> int:
             sort_keys=True,
         ).encode("utf-8")
     ).hexdigest()[:16]
-    built_at = (read_json(RAW.parent / "build_meta.json") or {}).get(fingerprint)
-    if not built_at:
-        built_at = datetime.now().strftime("%Y-%m-%d %H:%M")
+    # Derive the display timestamp from the data itself so it is identical on every
+    # machine: latest 13F filing date + latest disclosed trade date.
+    built_at = f"{latest_filing} / {last_trade or '—'}"
 
     data = {
         "meta": {
@@ -543,7 +543,6 @@ def main() -> int:
         "window.SITE_DATA=" + payload + ";\n", encoding="utf-8"
     )
     write_json(RAW.parent / "site_data.json", data)
-    write_json(RAW.parent / "build_meta.json", {fingerprint: built_at})
     print(
         f"site/data.js: {len(institutions)} institutions, {len(politicians)} politicians, "
         f"{len(cross)} cross-holdings periods, latest 13F {latest_period}"
