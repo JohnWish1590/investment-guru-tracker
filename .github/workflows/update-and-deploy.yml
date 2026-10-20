@@ -40,6 +40,9 @@ jobs:
         run: python scripts/fetch_13f.py ${{ inputs.full && '--full' || '' }}
 
       - name: Fetch congressional and OGE disclosures
+        # OGE is often unreachable from cloud IPs; the script falls back to its
+        # cached index + cached parses, so this step must not fail the run.
+        continue-on-error: true
         run: python scripts/fetch_politicians.py
 
       - name: Update Chinese security names

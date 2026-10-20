@@ -145,14 +145,30 @@ def fetch_pelosi(s) -> dict:
 
 
 def oge_rows(s, query: str) -> list[dict]:
+    """OGE filing index, with the on-disk copy as a fallback.
+
+    extapps2.oge.gov is frequently unreachable from cloud IPs (connect timeout),
+    so a cached index is preferred over failing the whole run. The cached index
+    is a real API response — it is only used when the live call cannot complete.
+    """
     cache = CACHE / "oge_trump.json"
     cached = read_json(cache)
+    try:
+        r = s.get(
+            OGE_API,
+            params={"draw": 1, "start": 0, "length": 200, "search[value]": query},
+            timeout=45,
+        )
+        rows = [x for x in r.json()["data"] if x["agency"] == "White House Office"]
+        if rows:
+            write_json(cache, rows)
+            return rows
+        log("  !! OGE index returned no rows")
+    except Exception as exc:  # noqa: BLE001
+        log(f"  !! OGE index unavailable ({type(exc).__name__}); using cached copy")
     if cached:
         return cached
-    r = s.get(OGE_API, params={"draw": 1, "start": 0, "length": 200, "search[value]": query}, timeout=60)
-    rows = [x for x in r.json()["data"] if x["agency"] == "White House Office"]
-    write_json(cache, rows)
-    return rows
+    raise RuntimeError("OGE index unavailable and no cache present")
 
 
 def oge_path(url: str):

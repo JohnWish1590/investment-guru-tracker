@@ -4,7 +4,6 @@ data/raw/*.pdf
 data/cache/table_*.json
 data/cache/submissions_*.json
 data/cache/house_index_*.json
-data/cache/oge_trump.json
 data/cache/bad_pdfs.txt
 
 # 政客 PDF 的解析结果要保留（重新解析很慢，见 scripts/parsed_cache.py）
