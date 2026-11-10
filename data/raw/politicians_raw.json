@@ -4544,6 +4544,38 @@
       "type": "PTR",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035553.pdf",
       "year": 2026
+     },
+     {
+      "docId": "20035780",
+      "filedOn": "11/6/2026",
+      "indexUrl": "https://disclosures-clerk.house.gov/FinancialDisclosure",
+      "transactions": [
+       {
+        "amountHigh": 100000,
+        "amountLow": 50001,
+        "amountText": "$50,001 - $100,000",
+        "asset": "Warner Bros. Discovery, Inc. - Series A Common Stock",
+        "assetType": "ST",
+        "date": "10/07/2026",
+        "kind": "sell",
+        "note": "F/S: New D: Cash proceeds from Warner",
+        "notified": "10/07/2026",
+        "owner": "SP",
+        "page": 1,
+        "shares": null,
+        "source": {
+         "docId": "20035780",
+         "filedOn": "11/6/2026",
+         "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035780.pdf",
+         "year": 2026
+        },
+        "ticker": "WBD",
+        "txType": "S"
+       }
+      ],
+      "type": "PTR",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035780.pdf",
+      "year": 2026
      }
     ]
    },
