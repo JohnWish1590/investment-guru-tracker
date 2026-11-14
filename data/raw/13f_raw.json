@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14",
+ "generatedAt": "2026-11-13",
  "source": "SEC EDGAR 13F-HR information tables",
  "institutions": [
   {
@@ -11598,1930 +11598,6 @@
    "cik": "0001697748",
    "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001697748&type=13F&dateb=&owner=include&count=40",
    "quarters": [
-    {
-     "accession": "0001104659-24-082900",
-     "form": "13F-HR",
-     "filingDate": "2024-07-26",
-     "reportDate": "2024-06-30",
-     "amendments": [],
-     "docs": [
-      {
-       "accession": "0001104659-24-082900",
-       "form": "13F-HR",
-       "filingDate": "2024-07-26",
-       "tableUrl": "https://www.sec.gov/Archives/edgar/data/1697748/000110465924082900/infotable.xml",
-       "primaryDocUrl": "https://www.sec.gov/Archives/edgar/data/1697748/000110465924082900/primary_doc.xml",
-       "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1697748/000110465924082900/",
-       "rowCount": 190
-      }
-     ],
-     "tableUrl": "https://www.sec.gov/Archives/edgar/data/1697748/000110465924082900/infotable.xml",
-     "primaryDocUrl": "https://www.sec.gov/Archives/edgar/data/1697748/000110465924082900/primary_doc.xml",
-     "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1697748/000110465924082900/",
-     "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001697748&type=13F&dateb=&owner=include&count=40",
-     "rows": [
-      {
-       "issuer": "AeroVironment Inc",
-       "klass": "Common Stock",
-       "cusip": "008073108",
-       "value": 58976850,
-       "shares": 323764,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Align Technology Inc",
-       "klass": "Common Stock",
-       "cusip": "016255101",
-       "value": 1470550,
-       "shares": 6091,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "ATI Inc",
-       "klass": "Common Stock",
-       "cusip": "01741R102",
-       "value": 131250,
-       "shares": 2367,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Alphabet Inc",
-       "klass": "Common Stock",
-       "cusip": "02079K107",
-       "value": 23359454,
-       "shares": 127355,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Altair Engineering Inc",
-       "klass": "Common Stock",
-       "cusip": "021369103",
-       "value": 4955982,
-       "shares": 50530,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Amazon.com Inc",
-       "klass": "Common Stock",
-       "cusip": "023135106",
-       "value": 19170400,
-       "shares": 99200,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "AMETEK Inc",
-       "klass": "Common Stock",
-       "cusip": "031100100",
-       "value": 1724615,
-       "shares": 10345,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "ANSYS Inc",
-       "klass": "Common Stock",
-       "cusip": "03662Q105",
-       "value": 16255683,
-       "shares": 50562,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Arcturus Therapeutics Holdings",
-       "klass": "Common Stock",
-       "cusip": "03969T109",
-       "value": 47846871,
-       "shares": 1964964,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Autodesk Inc",
-       "klass": "Common Stock",
-       "cusip": "052769106",
-       "value": 4773558,
-       "shares": 19291,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "CareDx Inc",
-       "klass": "Common Stock",
-       "cusip": "14167L103",
-       "value": 88557507,
-       "shares": 5702351,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Carpenter Technology Corp",
-       "klass": "Common Stock",
-       "cusip": "144285103",
-       "value": 167110,
-       "shares": 1525,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Cerus Corp",
-       "klass": "Common Stock",
-       "cusip": "157085101",
-       "value": 35024324,
-       "shares": 19900184,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Deere & Co",
-       "klass": "Common Stock",
-       "cusip": "244199105",
-       "value": 32921660,
-       "shares": 88113,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "DuPont de Nemours Inc",
-       "klass": "Common Stock",
-       "cusip": "26614N102",
-       "value": 132648,
-       "shares": 1648,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Eastman Chemical Co",
-       "klass": "Common Stock",
-       "cusip": "277432100",
-       "value": 124030,
-       "shares": 1266,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "FARO Technologies Inc",
-       "klass": "Common Stock",
-       "cusip": "311642102",
-       "value": 3553184,
-       "shares": 222074,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "HP Inc",
-       "klass": "Common Stock",
-       "cusip": "40434L105",
-       "value": 5365869,
-       "shares": 153223,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Hexcel Corp",
-       "klass": "Common Stock",
-       "cusip": "428291108",
-       "value": 123214,
-       "shares": 1973,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Incyte Corp",
-       "klass": "Common Stock",
-       "cusip": "45337C102",
-       "value": 24166950,
-       "shares": 398663,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Intellia Therapeutics Inc",
-       "klass": "Common Stock",
-       "cusip": "45826J105",
-       "value": 259513759,
-       "shares": 11595789,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Intercontinental Exchange Inc",
-       "klass": "Common Stock",
-       "cusip": "45866F104",
-       "value": 10238414,
-       "shares": 74793,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Intuit Inc",
-       "klass": "Common Stock",
-       "cusip": "461202103",
-       "value": 28490711,
-       "shares": 43351,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Intuitive Surgical Inc",
-       "klass": "Common Stock",
-       "cusip": "46120E602",
-       "value": 14804608,
-       "shares": 33280,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Ionis Pharmaceuticals Inc",
-       "klass": "Common Stock",
-       "cusip": "462222100",
-       "value": 64866465,
-       "shares": 1361025,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Iridium Communications Inc",
-       "klass": "Common Stock",
-       "cusip": "46269C102",
-       "value": 67096961,
-       "shares": 2520547,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Kaiser Aluminum Corp",
-       "klass": "Common Stock",
-       "cusip": "483007704",
-       "value": 1744903,
-       "shares": 19851,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Kratos Defense & Security Solu",
-       "klass": "Common Stock",
-       "cusip": "50077B207",
-       "value": 93262768,
-       "shares": 4660808,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Lincoln Electric Holdings Inc",
-       "klass": "Common Stock",
-       "cusip": "533900106",
-       "value": 1405368,
-       "shares": 7450,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Materialise NV",
-       "klass": "ADR",
-       "cusip": "57667T100",
-       "value": 8060509,
-       "shares": 1608884,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "MercadoLibre Inc",
-       "klass": "Common Stock",
-       "cusip": "58733R102",
-       "value": 42789206,
-       "shares": 26037,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Microsoft Corp",
-       "klass": "Common Stock",
-       "cusip": "594918104",
-       "value": 15279433,
-       "shares": 34186,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Moog Inc",
-       "klass": "Common Stock",
-       "cusip": "615394202",
-       "value": 1949045,
-       "shares": 11650,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Hilan Ltd",
-       "klass": "Common Stock",
-       "cusip": "M5299H123",
-       "value": 1979672,
-       "shares": 38141,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Nano Dimension Ltd",
-       "klass": "ADR",
-       "cusip": "63008G203",
-       "value": 3827034,
-       "shares": 1739561,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Elbit Systems Ltd",
-       "klass": "Common Stock",
-       "cusip": "M3760D101",
-       "value": 16003738,
-       "shares": 90606,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Nice Ltd",
-       "klass": "ADR",
-       "cusip": "653656108",
-       "value": 1618066,
-       "shares": 9409,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "PTC Inc",
-       "klass": "Common Stock",
-       "cusip": "69370C100",
-       "value": 4257436,
-       "shares": 23435,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Pacific Biosciences of Califor",
-       "klass": "Common Stock",
-       "cusip": "69404D108",
-       "value": 45501063,
-       "shares": 33212454,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Personalis Inc",
-       "klass": "Common Stock",
-       "cusip": "71535D106",
-       "value": 7443406,
-       "shares": 6361886,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Proto Labs Inc",
-       "klass": "Common Stock",
-       "cusip": "743713109",
-       "value": 4107320,
-       "shares": 132966,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Roku Inc",
-       "klass": "Common Stock",
-       "cusip": "77543R102",
-       "value": 762095761,
-       "shares": 12716432,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Shopify Inc",
-       "klass": "Common Stock",
-       "cusip": "82509L107",
-       "value": 328075721,
-       "shares": 4967081,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Block Inc",
-       "klass": "Common Stock",
-       "cusip": "852234103",
-       "value": 534783438,
-       "shares": 8292502,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Teladoc Health Inc",
-       "klass": "Common Stock",
-       "cusip": "87918A105",
-       "value": 73166676,
-       "shares": 7481255,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Teradyne Inc",
-       "klass": "Common Stock",
-       "cusip": "880770102",
-       "value": 236208825,
-       "shares": 1592884,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Tesla Inc",
-       "klass": "Common Stock",
-       "cusip": "88160R101",
-       "value": 1051612566,
-       "shares": 5314395,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Teva Pharmaceutical Industries",
-       "klass": "ADR",
-       "cusip": "881624209",
-       "value": 2753075,
-       "shares": 169420,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "3D Systems Corp",
-       "klass": "Common Stock",
-       "cusip": "88554D205",
-       "value": 9453976,
-       "shares": 3079471,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "3M Co",
-       "klass": "Common Stock",
-       "cusip": "88579Y101",
-       "value": 135402,
-       "shares": 1325,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Trimble Inc",
-       "klass": "Common Stock",
-       "cusip": "896239100",
-       "value": 64142756,
-       "shares": 1147045,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Twilio Inc",
-       "klass": "Common Stock",
-       "cusip": "90138F102",
-       "value": 454,
-       "shares": 8,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Twist Bioscience Corp",
-       "klass": "Common Stock",
-       "cusip": "90184D100",
-       "value": 302055580,
-       "shares": 6129375,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "United Parcel Service Inc",
-       "klass": "Common Stock",
-       "cusip": "911312106",
-       "value": 1726773,
-       "shares": 12618,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Veracyte Inc",
-       "klass": "Common Stock",
-       "cusip": "92337F107",
-       "value": 147557471,
-       "shares": 6809297,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Xerox Holdings Corp",
-       "klass": "Common Stock",
-       "cusip": "98421M106",
-       "value": 86813,
-       "shares": 7471,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Zillow Group Inc",
-       "klass": "Common Stock",
-       "cusip": "98954M200",
-       "value": 7783361,
-       "shares": 167781,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Sapiens International Corp NV",
-       "klass": "Common Stock",
-       "cusip": "G7T16G103",
-       "value": 2440212,
-       "shares": 71919,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "CRISPR Therapeutics AG",
-       "klass": "Common Stock",
-       "cusip": "H17182108",
-       "value": 420118712,
-       "shares": 7778536,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Spotify Technology SA",
-       "klass": "Common Stock",
-       "cusip": "L8681T102",
-       "value": 44592238,
-       "shares": 142109,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "AudioCodes Ltd",
-       "klass": "Common Stock",
-       "cusip": "M15342104",
-       "value": 2098649,
-       "shares": 202182,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Camtek Ltd/Israel",
-       "klass": "Common Stock",
-       "cusip": "M20791105",
-       "value": 3435208,
-       "shares": 27429,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Check Point Software Technolog",
-       "klass": "Common Stock",
-       "cusip": "M22465104",
-       "value": 2255385,
-       "shares": 13669,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "CyberArk Software Ltd",
-       "klass": "Common Stock",
-       "cusip": "M2682V108",
-       "value": 2498239,
-       "shares": 9137,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Fiverr International Ltd",
-       "klass": "Common Stock",
-       "cusip": "M4R82T106",
-       "value": 2567600,
-       "shares": 109586,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Ituran Location and Control Lt",
-       "klass": "Common Stock",
-       "cusip": "M6158M104",
-       "value": 2135894,
-       "shares": 86684,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Nova Ltd",
-       "klass": "Common Stock",
-       "cusip": "M7516K103",
-       "value": 2995183,
-       "shares": 12771,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Radware Ltd",
-       "klass": "Common Stock",
-       "cusip": "M81873107",
-       "value": 2436116,
-       "shares": 133559,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Stratasys Ltd",
-       "klass": "Common Stock",
-       "cusip": "M85548101",
-       "value": 5391682,
-       "shares": 642632,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Tower Semiconductor Ltd",
-       "klass": "Common Stock",
-       "cusip": "M87915274",
-       "value": 2733382,
-       "shares": 69534,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "UroGen Pharma Ltd",
-       "klass": "Common Stock",
-       "cusip": "M96088105",
-       "value": 2546885,
-       "shares": 151781,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Wix.com Ltd",
-       "klass": "Common Stock",
-       "cusip": "M98068105",
-       "value": 2830651,
-       "shares": 17795,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Inmode Ltd",
-       "klass": "Common Stock",
-       "cusip": "M5425M103",
-       "value": 2278267,
-       "shares": 124905,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Perion Network Ltd",
-       "klass": "Common Stock",
-       "cusip": "M78673114",
-       "value": 1603217,
-       "shares": 192002,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Sea Ltd",
-       "klass": "ADR",
-       "cusip": "81141R100",
-       "value": 14915454,
-       "shares": 208841,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Synopsys Inc",
-       "klass": "Common Stock",
-       "cusip": "871607107",
-       "value": 17503690,
-       "shares": 29415,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "PagerDuty Inc",
-       "klass": "Common Stock",
-       "cusip": "69553P100",
-       "value": 243156477,
-       "shares": 10604295,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Caterpillar Inc",
-       "klass": "Common Stock",
-       "cusip": "149123101",
-       "value": 8150291,
-       "shares": 24468,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Adaptive Biotechnologies Corp",
-       "klass": "Common Stock",
-       "cusip": "00650F109",
-       "value": 41311440,
-       "shares": 11412000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "10X Genomics Inc",
-       "klass": "Common Stock",
-       "cusip": "88025U109",
-       "value": 181152698,
-       "shares": 9313763,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Schrodinger Inc/United States",
-       "klass": "Common Stock",
-       "cusip": "80810D103",
-       "value": 47337138,
-       "shares": 2447629,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Accolade Inc",
-       "klass": "Common Stock",
-       "cusip": "00437E102",
-       "value": 20196383,
-       "shares": 5641448,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Vertex Pharmaceuticals Inc",
-       "klass": "Common Stock",
-       "cusip": "92532F100",
-       "value": 35371352,
-       "shares": 75464,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Gilat Satellite Networks Ltd",
-       "klass": "Common Stock",
-       "cusip": "M51474118",
-       "value": 1802523,
-       "shares": 403249,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Exact Sciences Corp",
-       "klass": "Common Stock",
-       "cusip": "30063P105",
-       "value": 14554567,
-       "shares": 344487,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Unity Software Inc",
-       "klass": "Common Stock",
-       "cusip": "91332U101",
-       "value": 183822643,
-       "shares": 11305206,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Beam Therapeutics Inc",
-       "klass": "Common Stock",
-       "cusip": "07373V105",
-       "value": 178680431,
-       "shares": 7626139,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Regeneron Pharmaceuticals Inc",
-       "klass": "Common Stock",
-       "cusip": "75886F107",
-       "value": 16674439,
-       "shares": 15865,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Repare Therapeutics Inc",
-       "klass": "Common Stock",
-       "cusip": "760273102",
-       "value": 8680201,
-       "shares": 2630364,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Cloudflare Inc",
-       "klass": "Common Stock",
-       "cusip": "18915M107",
-       "value": 32734830,
-       "shares": 395205,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Zoom Video Communications Inc",
-       "klass": "Common Stock",
-       "cusip": "98980L101",
-       "value": 149278652,
-       "shares": 2522025,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Honeywell International Inc",
-       "klass": "Common Stock",
-       "cusip": "438516106",
-       "value": 3674596,
-       "shares": 17208,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Kaspi.KZ JSC",
-       "klass": "ADR",
-       "cusip": "48581R205",
-       "value": 19604102,
-       "shares": 151958,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "908 Devices Inc",
-       "klass": "Common Stock",
-       "cusip": "65443P102",
-       "value": 20278802,
-       "shares": 3937631,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Magna International Inc",
-       "klass": "Common Stock",
-       "cusip": "559222401",
-       "value": 10259425,
-       "shares": 244855,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Veeva Systems Inc",
-       "klass": "Common Stock",
-       "cusip": "922475108",
-       "value": 30719625,
-       "shares": 167858,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Grayscale Ethereum Trust",
-       "klass": "Open-End Fund",
-       "cusip": "389638107",
-       "value": 472193,
-       "shares": 15038,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "JFrog Ltd",
-       "klass": "Common Stock",
-       "cusip": "M6191J100",
-       "value": 2149738,
-       "shares": 57250,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Eastman Kodak Co",
-       "klass": "Common Stock",
-       "cusip": "277461406",
-       "value": 140978,
-       "shares": 26204,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Lockheed Martin Corp",
-       "klass": "Common Stock",
-       "cusip": "539830109",
-       "value": 12179165,
-       "shares": 26074,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Nano-X Imaging Ltd",
-       "klass": "Common Stock",
-       "cusip": "M70700105",
-       "value": 1763252,
-       "shares": 240225,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Teledyne Technologies Inc",
-       "klass": "Common Stock",
-       "cusip": "879360105",
-       "value": 13247189,
-       "shares": 34144,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Butterfly Network Inc",
-       "klass": "Common Stock",
-       "cusip": "124155102",
-       "value": 9235959,
-       "shares": 10984728,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "BILL Holdings Inc",
-       "klass": "Common Stock",
-       "cusip": "090043100",
-       "value": 10503583,
-       "shares": 199612,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Vuzix Corp",
-       "klass": "Common Stock",
-       "cusip": "92921W300",
-       "value": 6252795,
-       "shares": 4631700,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Garmin Ltd",
-       "klass": "Common Stock",
-       "cusip": "H2906T109",
-       "value": 6204645,
-       "shares": 38084,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "HEICO Corp",
-       "klass": "Common Stock",
-       "cusip": "422806109",
-       "value": 3595872,
-       "shares": 16081,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "L3Harris Technologies Inc",
-       "klass": "Common Stock",
-       "cusip": "502431109",
-       "value": 14934345,
-       "shares": 66499,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "The 3D Printing ETF",
-       "klass": "ETP",
-       "cusip": "00214Q500",
-       "value": 6282304,
-       "shares": 320199,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "ROBLOX Corp",
-       "klass": "Common Stock",
-       "cusip": "771049103",
-       "value": 496337841,
-       "shares": 13338829,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "UiPath Inc",
-       "klass": "Common Stock",
-       "cusip": "90364P105",
-       "value": 377197499,
-       "shares": 29747437,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Coinbase Global Inc",
-       "klass": "Common Stock",
-       "cusip": "19260Q107",
-       "value": 790850118,
-       "shares": 3558701,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Recursion Pharmaceuticals Inc",
-       "klass": "Common Stock",
-       "cusip": "75629V104",
-       "value": 211071885,
-       "shares": 28142918,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Blade Air Mobility Inc",
-       "klass": "Common Stock",
-       "cusip": "092667104",
-       "value": 22422117,
-       "shares": 6443137,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Quantum-Si Inc",
-       "klass": "Common Stock",
-       "cusip": "74765K105",
-       "value": 13030425,
-       "shares": 12409929,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Verve Therapeutics Inc",
-       "klass": "Common Stock",
-       "cusip": "92539P101",
-       "value": 14327987,
-       "shares": 2936063,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Markforged Holding Corp",
-       "klass": "Common Stock",
-       "cusip": "57064N102",
-       "value": 7721243,
-       "shares": 18832300,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Xometry Inc",
-       "klass": "Common Stock",
-       "cusip": "98423F109",
-       "value": 3062672,
-       "shares": 264937,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Robinhood Markets Inc",
-       "klass": "Common Stock",
-       "cusip": "770700102",
-       "value": 434954372,
-       "shares": 19152548,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Playtika Holding Corp",
-       "klass": "Common Stock",
-       "cusip": "72815L107",
-       "value": 2477020,
-       "shares": 314742,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Cognyte Software Ltd",
-       "klass": "Common Stock",
-       "cusip": "M25133105",
-       "value": 2532545,
-       "shares": 331485,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Monday.com Ltd",
-       "klass": "Common Stock",
-       "cusip": "M7S64H106",
-       "value": 2827004,
-       "shares": 11742,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "SimilarWeb Ltd",
-       "klass": "Common Stock",
-       "cusip": "M84137104",
-       "value": 2234535,
-       "shares": 287585,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "WalkMe Ltd",
-       "klass": "Common Stock",
-       "cusip": "M97628107",
-       "value": 3794140,
-       "shares": 271592,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Joby Aviation Inc",
-       "klass": "Common Stock",
-       "cusip": "G65163100",
-       "value": 15702762,
-       "shares": 3078973,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "General Electric Co",
-       "klass": "Common Stock",
-       "cusip": "369604301",
-       "value": 1849298,
-       "shares": 11633,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Genius Sports Ltd",
-       "klass": "Common Stock",
-       "cusip": "G3934V109",
-       "value": 34122308,
-       "shares": 6260974,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Ginkgo Bioworks Holdings Inc",
-       "klass": "Common Stock",
-       "cusip": "37611X100",
-       "value": 7973458,
-       "shares": 23851205,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Archer Aviation Inc",
-       "klass": "Common Stock",
-       "cusip": "03945R102",
-       "value": 89610007,
-       "shares": 25457388,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Toast Inc",
-       "klass": "Common Stock",
-       "cusip": "888787108",
-       "value": 57836745,
-       "shares": 2244344,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "MYNARIC AGNAMENS AKTIEN O N",
-       "klass": "ADR",
-       "cusip": "62857X101",
-       "value": 2038580,
-       "shares": 488868,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Nextdoor Holdings Inc",
-       "klass": "Common Stock",
-       "cusip": "65345M108",
-       "value": 23944974,
-       "shares": 8613300,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Crowdstrike Holdings Inc",
-       "klass": "Common Stock",
-       "cusip": "22788C105",
-       "value": 38484921,
-       "shares": 100433,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "NVIDIA Corp",
-       "klass": "Common Stock",
-       "cusip": "67066G104",
-       "value": 51601052,
-       "shares": 417687,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "NU Holdings Ltd/Cayman Islands",
-       "klass": "Common Stock",
-       "cusip": "G6683N103",
-       "value": 30347572,
-       "shares": 2354350,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Nurix Therapeutics Inc",
-       "klass": "Common Stock",
-       "cusip": "67080M103",
-       "value": 48487938,
-       "shares": 2323332,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Global-e Online Ltd",
-       "klass": "Common Stock",
-       "cusip": "M5216V106",
-       "value": 18459870,
-       "shares": 508957,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Cellebrite DI Ltd",
-       "klass": "Common Stock",
-       "cusip": "M2197Q107",
-       "value": 2491850,
-       "shares": 208523,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Riskified Ltd",
-       "klass": "Common Stock",
-       "cusip": "M8216R109",
-       "value": 2811651,
-       "shares": 440008,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Taboola.com Ltd",
-       "klass": "Common Stock",
-       "cusip": "M8744T106",
-       "value": 1872509,
-       "shares": 544334,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "DraftKings Inc",
-       "klass": "Common Stock",
-       "cusip": "26142V105",
-       "value": 236168256,
-       "shares": 6187274,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Moderna Inc",
-       "klass": "Common Stock",
-       "cusip": "60770K107",
-       "value": 125173672,
-       "shares": 1054094,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Senti Biosciences Inc",
-       "klass": "Common Stock",
-       "cusip": "81726A100",
-       "value": 437673,
-       "shares": 1585772,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Guardant Health Inc",
-       "klass": "Common Stock",
-       "cusip": "40131M109",
-       "value": 13099666,
-       "shares": 453590,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Compass Pathways Plc",
-       "klass": "ADR",
-       "cusip": "20451W101",
-       "value": 12687085,
-       "shares": 2100511,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Rocket Lab USA Inc",
-       "klass": "Common Stock",
-       "cusip": "773122106",
-       "value": 30225950,
-       "shares": 6297073,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Prime Medicine Inc",
-       "klass": "Common Stock",
-       "cusip": "74168J101",
-       "value": 31491613,
-       "shares": 6126773,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Pinterest Inc",
-       "klass": "Common Stock",
-       "cusip": "72352L106",
-       "value": 190811154,
-       "shares": 4329729,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Mobileye Global Inc",
-       "klass": "Common Stock",
-       "cusip": "60741F104",
-       "value": 1953452,
-       "shares": 69555,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Nayax Ltd",
-       "klass": "Common Stock",
-       "cusip": "M7S750159",
-       "value": 1809735,
-       "shares": 85424,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Advanced Micro Devices Inc",
-       "klass": "Common Stock",
-       "cusip": "007903107",
-       "value": 38411004,
-       "shares": 236798,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "iShares Russell 1000 Growth ET",
-       "klass": "ETP",
-       "cusip": "464287614",
-       "value": 84754,
-       "shares": 233,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Palantir Technologies Inc",
-       "klass": "Common Stock",
-       "cusip": "69608A108",
-       "value": 329875108,
-       "shares": 13023099,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "SoFi Technologies Inc",
-       "klass": "Common Stock",
-       "cusip": "83406F102",
-       "value": 96081450,
-       "shares": 14535772,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Meta Platforms Inc",
-       "klass": "Common Stock",
-       "cusip": "30303M102",
-       "value": 218657942,
-       "shares": 433656,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Taiwan Semiconductor Manufactu",
-       "klass": "ADR",
-       "cusip": "874039100",
-       "value": 44569924,
-       "shares": 256429,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Pure Storage Inc",
-       "klass": "Common Stock",
-       "cusip": "74624M102",
-       "value": 14091462,
-       "shares": 219459,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Trade Desk Inc/The",
-       "klass": "Common Stock",
-       "cusip": "88339J105",
-       "value": 177637521,
-       "shares": 1818752,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "ARK Genomic Revolution ETF",
-       "klass": "ETP",
-       "cusip": "00214Q302",
-       "value": 172347,
-       "shares": 7340,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Avient Corp",
-       "klass": "Common Stock",
-       "cusip": "05368V106",
-       "value": 124490,
-       "shares": 2852,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "DENTSPLY SIRONA Inc",
-       "klass": "Common Stock",
-       "cusip": "24906P109",
-       "value": 3386490,
-       "shares": 135949,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Kennametal Inc",
-       "klass": "Common Stock",
-       "cusip": "489170100",
-       "value": 118077,
-       "shares": 5016,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "AvidXchange Holdings Inc",
-       "klass": "Common Stock",
-       "cusip": "05368X102",
-       "value": 11940485,
-       "shares": 990090,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Cameco Corp",
-       "klass": "Common Stock",
-       "cusip": "13321L108",
-       "value": 11439049,
-       "shares": 232501,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Pagaya Technologies Ltd",
-       "klass": "Common Stock",
-       "cusip": "M7S64L123",
-       "value": 2830296,
-       "shares": 221810,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Vanguard Growth ETF",
-       "klass": "ETP",
-       "cusip": "922908736",
-       "value": 6106,
-       "shares": 16,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Jabil Inc",
-       "klass": "Common Stock",
-       "cusip": "466313103",
-       "value": 105853,
-       "shares": 973,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Absci Corp",
-       "klass": "Common Stock",
-       "cusip": "00091E109",
-       "value": 16951975,
-       "shares": 5503888,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Amgen Inc",
-       "klass": "Common Stock",
-       "cusip": "031162100",
-       "value": 23377692,
-       "shares": 74821,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Standard BioTools Inc",
-       "klass": "Common Stock",
-       "cusip": "34385P108",
-       "value": 22442522,
-       "shares": 12679391,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "QUALCOMM Inc",
-       "klass": "Common Stock",
-       "cusip": "747525103",
-       "value": 24269286,
-       "shares": 121846,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Magic Software Enterprises Ltd",
-       "klass": "Common Stock",
-       "cusip": "559166103",
-       "value": 1800560,
-       "shares": 186974,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Compugen Ltd",
-       "klass": "Common Stock",
-       "cusip": "M25722105",
-       "value": 1849908,
-       "shares": 1088271,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Oddity Tech Ltd",
-       "klass": "Common Stock",
-       "cusip": "M7518J104",
-       "value": 2531014,
-       "shares": 64468,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "ARK 21Shares Bitcoin ETF",
-       "klass": "ETP",
-       "cusip": "040919102",
-       "value": 204853593,
-       "shares": 3415365,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "SPDR S&P 500 ETF Trust",
-       "klass": "ETP",
-       "cusip": "78462F103",
-       "value": 8674,
-       "shares": 16,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Natera Inc",
-       "klass": "Common Stock",
-       "cusip": "632307104",
-       "value": 44977396,
-       "shares": 415342,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "ServiceNow Inc",
-       "klass": "Common Stock",
-       "cusip": "81762P102",
-       "value": 42480,
-       "shares": 54,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "iShares Russell 1000 ETF",
-       "klass": "ETP",
-       "cusip": "464287622",
-       "value": 10056,
-       "shares": 34,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Reddit Inc",
-       "klass": "Common Stock",
-       "cusip": "75734B100",
-       "value": 10218311,
-       "shares": 159936,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Ibotta Inc",
-       "klass": "Common Stock",
-       "cusip": "451051106",
-       "value": 980387,
-       "shares": 13044,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "ARK 21Shares Active Ethereum F",
-       "klass": "ETP",
-       "cusip": "02072L334",
-       "value": 803157,
-       "shares": 20371,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Datadog Inc",
-       "klass": "Common Stock",
-       "cusip": "23804L103",
-       "value": 11378612,
-       "shares": 87737,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Proshares Ether Strategy Etf",
-       "klass": "ETP",
-       "cusip": "74349Y100",
-       "value": 5365021,
-       "shares": 76078,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Rubrik Inc",
-       "klass": "Common Stock",
-       "cusip": "781154109",
-       "value": 6042534,
-       "shares": 197082,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Adobe Inc",
-       "klass": "Common Stock",
-       "cusip": "00724F101",
-       "value": 42221,
-       "shares": 76,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "PayPal Holdings Inc",
-       "klass": "Common Stock",
-       "cusip": "70450Y103",
-       "value": 8263704,
-       "shares": 142404,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Velo3D Inc",
-       "klass": "Common Stock",
-       "cusip": "92259N203",
-       "value": 173556,
-       "shares": 52276,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Desktop Metal Inc",
-       "klass": "Common Stock",
-       "cusip": "25058X303",
-       "value": 2110467,
-       "shares": 511009,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "Tempus AI Inc",
-       "klass": "Common Stock",
-       "cusip": "88023B103",
-       "value": 18294430,
-       "shares": 522698,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      }
-     ]
-    },
     {
      "accession": "0001104659-24-113006",
      "form": "13F-HR",
@@ -29018,6 +27094,1850 @@
        "cusip": "00214Q104",
        "value": 719298,
        "shares": 8900,
+       "shareType": "SH",
+       "putCall": "Call",
+       "discretion": "SOLE"
+      }
+     ]
+    },
+    {
+     "accession": "0001104659-26-126785",
+     "form": "13F-HR",
+     "filingDate": "2026-11-13",
+     "reportDate": "2026-09-30",
+     "amendments": [],
+     "docs": [
+      {
+       "accession": "0001104659-26-126785",
+       "form": "13F-HR",
+       "filingDate": "2026-11-13",
+       "tableUrl": "https://www.sec.gov/Archives/edgar/data/1697748/000110465926126785/infotable.xml",
+       "primaryDocUrl": "https://www.sec.gov/Archives/edgar/data/1697748/000110465926126785/primary_doc.xml",
+       "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1697748/000110465926126785/",
+       "rowCount": 182
+      }
+     ],
+     "tableUrl": "https://www.sec.gov/Archives/edgar/data/1697748/000110465926126785/infotable.xml",
+     "primaryDocUrl": "https://www.sec.gov/Archives/edgar/data/1697748/000110465926126785/primary_doc.xml",
+     "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1697748/000110465926126785/",
+     "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001697748&type=13F&dateb=&owner=include&count=40",
+     "rows": [
+      {
+       "issuer": "AeroVironment Inc",
+       "klass": "Common Stock",
+       "cusip": "008073108",
+       "value": 88796764,
+       "shares": 624362,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Align Technology Inc",
+       "klass": "Common Stock",
+       "cusip": "016255101",
+       "value": 794628,
+       "shares": 5467,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "ATI Inc",
+       "klass": "Common Stock",
+       "cusip": "01741R102",
+       "value": 84094,
+       "shares": 444,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Alphabet Inc",
+       "klass": "Common Stock",
+       "cusip": "02079K107",
+       "value": 348550865,
+       "shares": 1022923,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Amazon.com Inc",
+       "klass": "Common Stock",
+       "cusip": "023135106",
+       "value": 422994246,
+       "shares": 1697749,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "AMETEK Inc",
+       "klass": "Common Stock",
+       "cusip": "031100100",
+       "value": 1018170,
+       "shares": 4110,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Arcturus Therapeutics Holdings",
+       "klass": "Common Stock",
+       "cusip": "03969T109",
+       "value": 40995387,
+       "shares": 2994550,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Autodesk Inc",
+       "klass": "Common Stock",
+       "cusip": "052769106",
+       "value": 2796838,
+       "shares": 13382,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "CareDx Inc",
+       "klass": "Common Stock",
+       "cusip": "14167L103",
+       "value": 104588493,
+       "shares": 1609054,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Carpenter Technology Corp",
+       "klass": "Common Stock",
+       "cusip": "144285103",
+       "value": 57545,
+       "shares": 148,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Cerus Corp",
+       "klass": "Common Stock",
+       "cusip": "157085101",
+       "value": 48809050,
+       "shares": 20508004,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Deere & Co",
+       "klass": "Common Stock",
+       "cusip": "244199105",
+       "value": 101874612,
+       "shares": 151701,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "HP Inc",
+       "klass": "Common Stock",
+       "cusip": "40434L105",
+       "value": 2843289,
+       "shares": 90898,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Intellia Therapeutics Inc",
+       "klass": "Common Stock",
+       "cusip": "45826J105",
+       "value": 192058167,
+       "shares": 15925221,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Intuitive Surgical Inc",
+       "klass": "Common Stock",
+       "cusip": "46120E602",
+       "value": 30252865,
+       "shares": 74399,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Ionis Pharmaceuticals Inc",
+       "klass": "Common Stock",
+       "cusip": "462222100",
+       "value": 41219180,
+       "shares": 923162,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Iridium Communications Inc",
+       "klass": "Common Stock",
+       "cusip": "46269C102",
+       "value": 3826060,
+       "shares": 79876,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Kaiser Aluminium Corp",
+       "klass": "Common Stock",
+       "cusip": "483007704",
+       "value": 998824,
+       "shares": 6897,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Kratos Defense & Security Solu",
+       "klass": "Common Stock",
+       "cusip": "50077B207",
+       "value": 224312131,
+       "shares": 5254442,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Lincoln Electric Holdings Inc",
+       "klass": "Common Stock",
+       "cusip": "533900106",
+       "value": 1128434,
+       "shares": 4265,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Materialise NV",
+       "klass": "ADR",
+       "cusip": "57667T100",
+       "value": 2928573,
+       "shares": 342123,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "MercadoLibre Inc",
+       "klass": "Common Stock",
+       "cusip": "58733R102",
+       "value": 45244273,
+       "shares": 26175,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Moog Inc",
+       "klass": "Common Stock",
+       "cusip": "615394202",
+       "value": 1049043,
+       "shares": 2750,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Nano Dimension Ltd",
+       "klass": "ADR",
+       "cusip": "63008G203",
+       "value": 2294522,
+       "shares": 1461479,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Elbit Systems Ltd",
+       "klass": "Common Stock",
+       "cusip": "M3760D101",
+       "value": 31221054,
+       "shares": 45778,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Nice Ltd",
+       "klass": "ADR",
+       "cusip": "653656108",
+       "value": 2396311,
+       "shares": 21536,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "PTC Inc",
+       "klass": "Common Stock",
+       "cusip": "69370C100",
+       "value": 3229566,
+       "shares": 23019,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Pacific Biosciences of Califor",
+       "klass": "Common Stock",
+       "cusip": "69404D108",
+       "value": 70507247,
+       "shares": 29749893,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Personalis Inc",
+       "klass": "Common Stock",
+       "cusip": "71535D106",
+       "value": 115903674,
+       "shares": 7119390,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Proto Labs Inc",
+       "klass": "Common Stock",
+       "cusip": "743713109",
+       "value": 2717358,
+       "shares": 28649,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Roku Inc",
+       "klass": "Common Stock",
+       "cusip": "77543R102",
+       "value": 698336,
+       "shares": 4586,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Shopify Inc",
+       "klass": "Common Stock",
+       "cusip": "82509L107",
+       "value": 466477128,
+       "shares": 3145496,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Block Inc",
+       "klass": "Common Stock",
+       "cusip": "852234103",
+       "value": 339846908,
+       "shares": 4621881,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Teradyne Inc",
+       "klass": "Common Stock",
+       "cusip": "880770102",
+       "value": 259353089,
+       "shares": 646911,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Tesla Inc",
+       "klass": "Common Stock",
+       "cusip": "88160R101",
+       "value": 1196306136,
+       "shares": 3371681,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "3D Systems Corp",
+       "klass": "Common Stock",
+       "cusip": "88554D205",
+       "value": 2960248,
+       "shares": 822291,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "3M Co",
+       "klass": "Common Stock",
+       "cusip": "88579Y101",
+       "value": 83552,
+       "shares": 509,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Trimble Inc",
+       "klass": "Common Stock",
+       "cusip": "896239100",
+       "value": 66101912,
+       "shares": 1157449,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Twist Bioscience Corp",
+       "klass": "Common Stock",
+       "cusip": "90184D100",
+       "value": 656640575,
+       "shares": 3398057,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Veracyte Inc",
+       "klass": "Common Stock",
+       "cusip": "92337F107",
+       "value": 136492485,
+       "shares": 2964650,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Zillow Group Inc",
+       "klass": "Common Stock",
+       "cusip": "98954M200",
+       "value": 26045,
+       "shares": 960,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "CRISPR Therapeutics AG",
+       "klass": "Common Stock",
+       "cusip": "H17182108",
+       "value": 556344632,
+       "shares": 10056844,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Spotify Technology SA",
+       "klass": "Common Stock",
+       "cusip": "L8681T102",
+       "value": 41852529,
+       "shares": 85872,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "AudioCodes Ltd",
+       "klass": "Common Stock",
+       "cusip": "M15342104",
+       "value": 2400768,
+       "shares": 224791,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Camtek Ltd/Israel",
+       "klass": "Common Stock",
+       "cusip": "M20791105",
+       "value": 2304531,
+       "shares": 14844,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Check Point Software Technolog",
+       "klass": "Common Stock",
+       "cusip": "M22465104",
+       "value": 2067975,
+       "shares": 16112,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Fiverr International Ltd",
+       "klass": "Common Stock",
+       "cusip": "M4R82T106",
+       "value": 1590924,
+       "shares": 184562,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Ituran Location and Control Lt",
+       "klass": "Common Stock",
+       "cusip": "M6158M104",
+       "value": 2017914,
+       "shares": 39397,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Nova Ltd",
+       "klass": "Common Stock",
+       "cusip": "M7516K103",
+       "value": 1782706,
+       "shares": 4628,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Radware Ltd",
+       "klass": "Common Stock",
+       "cusip": "M81873107",
+       "value": 2172106,
+       "shares": 72865,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Stratasys Ltd",
+       "klass": "Common Stock",
+       "cusip": "M85548101",
+       "value": 4472600,
+       "shares": 538219,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Tower Semiconductor Ltd",
+       "klass": "Common Stock",
+       "cusip": "M87915274",
+       "value": 2091446,
+       "shares": 9196,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "UroGen Pharma Ltd",
+       "klass": "Common Stock",
+       "cusip": "M96088105",
+       "value": 2204178,
+       "shares": 54250,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Wix.com Ltd",
+       "klass": "Common Stock",
+       "cusip": "M98068105",
+       "value": 2962956,
+       "shares": 41078,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Inmode Ltd",
+       "klass": "Common Stock",
+       "cusip": "M5425M103",
+       "value": 1971727,
+       "shares": 139148,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Perion Network Ltd",
+       "klass": "Common Stock",
+       "cusip": "M78673114",
+       "value": 1958161,
+       "shares": 225335,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Sea Ltd",
+       "klass": "ADR",
+       "cusip": "81141R100",
+       "value": 16178274,
+       "shares": 166170,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Synopsys Inc",
+       "klass": "Common Stock",
+       "cusip": "871607107",
+       "value": 32655730,
+       "shares": 75081,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Caterpillar Inc",
+       "klass": "Common Stock",
+       "cusip": "149123101",
+       "value": 25968793,
+       "shares": 32029,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Adaptive Biotechnologies Corp",
+       "klass": "Common Stock",
+       "cusip": "00650F109",
+       "value": 55510311,
+       "shares": 1920772,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "10X Genomics Inc",
+       "klass": "Common Stock",
+       "cusip": "88025U109",
+       "value": 566828112,
+       "shares": 6272998,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Schrodinger Inc/United States",
+       "klass": "Common Stock",
+       "cusip": "80810D103",
+       "value": 73740830,
+       "shares": 2374906,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Gilat Satellite Networks Ltd",
+       "klass": "Common Stock",
+       "cusip": "M51474118",
+       "value": 1942268,
+       "shares": 196785,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Beam Therapeutics Inc",
+       "klass": "Common Stock",
+       "cusip": "07373V105",
+       "value": 288641356,
+       "shares": 11805372,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Cloudflare Inc",
+       "klass": "Common Stock",
+       "cusip": "18915M107",
+       "value": 195576483,
+       "shares": 563167,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Kaspi.KZ JSC",
+       "klass": "ADR",
+       "cusip": "48581R205",
+       "value": 4097160,
+       "shares": 43559,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "908 Devices Inc",
+       "klass": "Common Stock",
+       "cusip": "65443P102",
+       "value": 25850227,
+       "shares": 2094832,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "JFrog Ltd",
+       "klass": "Common Stock",
+       "cusip": "M6191J100",
+       "value": 2443661,
+       "shares": 25182,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Lockheed Martin Corp",
+       "klass": "Common Stock",
+       "cusip": "539830109",
+       "value": 6371227,
+       "shares": 12511,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Teledyne Technologies Inc",
+       "klass": "Common Stock",
+       "cusip": "879360105",
+       "value": 8584541,
+       "shares": 14147,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Butterfly Network Inc",
+       "klass": "Common Stock",
+       "cusip": "124155102",
+       "value": 47077779,
+       "shares": 5254216,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Garmin Ltd",
+       "klass": "Common Stock",
+       "cusip": "H2906T109",
+       "value": 12110385,
+       "shares": 42220,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "HEICO Corp",
+       "klass": "Common Stock",
+       "cusip": "422806109",
+       "value": 11656058,
+       "shares": 38446,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "L3Harris Technologies Inc",
+       "klass": "Common Stock",
+       "cusip": "502431109",
+       "value": 100160308,
+       "shares": 423010,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "ROBLOX Corp",
+       "klass": "Common Stock",
+       "cusip": "771049103",
+       "value": 58324453,
+       "shares": 1376551,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Coinbase Global Inc",
+       "klass": "Common Stock",
+       "cusip": "19260Q107",
+       "value": 545771189,
+       "shares": 2927800,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Recursion Pharmaceuticals Inc",
+       "klass": "Common Stock",
+       "cusip": "75629V104",
+       "value": 184796952,
+       "shares": 44745025,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Quantum-Si Inc",
+       "klass": "Common Stock",
+       "cusip": "74765K105",
+       "value": 7910525,
+       "shares": 7393014,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Xometry Inc",
+       "klass": "Common Stock",
+       "cusip": "98423F109",
+       "value": 2345391,
+       "shares": 22804,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Robinhood Markets Inc",
+       "klass": "Common Stock",
+       "cusip": "770700102",
+       "value": 517972160,
+       "shares": 4604197,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Playtika Holding Corp",
+       "klass": "Common Stock",
+       "cusip": "72815L107",
+       "value": 1131266,
+       "shares": 528629,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Cognyte Software Ltd",
+       "klass": "Common Stock",
+       "cusip": "M25133105",
+       "value": 2125452,
+       "shares": 244586,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Monday.com Ltd",
+       "klass": "Common Stock",
+       "cusip": "M7S64H106",
+       "value": 2139369,
+       "shares": 27267,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "SimilarWeb Ltd",
+       "klass": "Common Stock",
+       "cusip": "M84137104",
+       "value": 2389234,
+       "shares": 307891,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Joby Aviation Inc",
+       "klass": "Common Stock",
+       "cusip": "G65163100",
+       "value": 36544009,
+       "shares": 6040332,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "GE Aerospace",
+       "klass": "Common Stock",
+       "cusip": "369604301",
+       "value": 967162,
+       "shares": 3097,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Genius Sports Ltd",
+       "klass": "Common Stock",
+       "cusip": "G3934V109",
+       "value": 15038935,
+       "shares": 2624596,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Archer Aviation Inc",
+       "klass": "Common Stock",
+       "cusip": "03945R102",
+       "value": 168096179,
+       "shares": 33822169,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Toast Inc",
+       "klass": "Common Stock",
+       "cusip": "888787108",
+       "value": 57679229,
+       "shares": 1989625,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Crowdstrike Holdings Inc",
+       "klass": "Common Stock",
+       "cusip": "22788C105",
+       "value": 74472851,
+       "shares": 281295,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "NVIDIA Corp",
+       "klass": "Common Stock",
+       "cusip": "67066G104",
+       "value": 584932116,
+       "shares": 2561223,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "NU Holdings Ltd/Cayman Islands",
+       "klass": "Common Stock",
+       "cusip": "G6683N103",
+       "value": 14941408,
+       "shares": 1180206,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Nurix Therapeutics Inc",
+       "klass": "Common Stock",
+       "cusip": "67080M103",
+       "value": 43924834,
+       "shares": 1852587,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Cellebrite DI Ltd",
+       "klass": "Common Stock",
+       "cusip": "M2197Q107",
+       "value": 1565376,
+       "shares": 139021,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Riskified Ltd",
+       "klass": "Common Stock",
+       "cusip": "M8216R109",
+       "value": 3337047,
+       "shares": 421877,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Taboola.com Ltd",
+       "klass": "Common Stock",
+       "cusip": "M8744T106",
+       "value": 1333930,
+       "shares": 397003,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "DraftKings Inc",
+       "klass": "Common Stock",
+       "cusip": "26142V105",
+       "value": 23445296,
+       "shares": 1233963,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Guardant Health Inc",
+       "klass": "Common Stock",
+       "cusip": "40131M109",
+       "value": 108295449,
+       "shares": 607173,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Compass Pathways Plc",
+       "klass": "ADR",
+       "cusip": "20451W101",
+       "value": 61025828,
+       "shares": 4905613,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Prime Medicine Inc",
+       "klass": "Common Stock",
+       "cusip": "74168J101",
+       "value": 30682919,
+       "shares": 10043509,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Mobileye Global Inc",
+       "klass": "Common Stock",
+       "cusip": "60741F104",
+       "value": 1803138,
+       "shares": 243997,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Nayax Ltd",
+       "klass": "Common Stock",
+       "cusip": "M7S750159",
+       "value": 1603647,
+       "shares": 33575,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Advanced Micro Devices Inc",
+       "klass": "Common Stock",
+       "cusip": "007903107",
+       "value": 413346374,
+       "shares": 675668,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "iShares Russell 1000 Growth ET",
+       "klass": "ETP",
+       "cusip": "464287614",
+       "value": 5027,
+       "shares": 40,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Palantir Technologies Inc",
+       "klass": "Common Stock",
+       "cusip": "69608A108",
+       "value": 487773444,
+       "shares": 2607717,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "SoFi Technologies Inc",
+       "klass": "Common Stock",
+       "cusip": "83406F102",
+       "value": 64927656,
+       "shares": 4130258,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Meta Platforms Inc",
+       "klass": "Common Stock",
+       "cusip": "30303M102",
+       "value": 355295103,
+       "shares": 489941,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Taiwan Semiconductor Manufactu",
+       "klass": "ADR",
+       "cusip": "874039100",
+       "value": 242997815,
+       "shares": 532668,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Everpure Inc",
+       "klass": "Common Stock",
+       "cusip": "74624M102",
+       "value": 43960258,
+       "shares": 336139,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Avient Corp",
+       "klass": "Common Stock",
+       "cusip": "05368V106",
+       "value": 80782,
+       "shares": 2007,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "DENTSPLY SIRONA Inc",
+       "klass": "Common Stock",
+       "cusip": "24906P109",
+       "value": 1840461,
+       "shares": 207727,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Cameco Corp",
+       "klass": "Common Stock",
+       "cusip": "13321L108",
+       "value": 29318294,
+       "shares": 338275,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Pagaya Technologies Ltd",
+       "klass": "Common Stock",
+       "cusip": "M7S64L123",
+       "value": 2146675,
+       "shares": 123942,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Jabil Inc",
+       "klass": "Common Stock",
+       "cusip": "466313103",
+       "value": 71428,
+       "shares": 249,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Absci Corp",
+       "klass": "Common Stock",
+       "cusip": "00091E109",
+       "value": 128474441,
+       "shares": 11928917,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "ARK 21Shares Bitcoin ETF",
+       "klass": "ETP",
+       "cusip": "040919102",
+       "value": 135553266,
+       "shares": 4895387,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Natera Inc",
+       "klass": "Common Stock",
+       "cusip": "632307104",
+       "value": 225726826,
+       "shares": 546144,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Datadog Inc",
+       "klass": "Common Stock",
+       "cusip": "23804L103",
+       "value": 58953059,
+       "shares": 215275,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Rubrik Inc",
+       "klass": "Common Stock",
+       "cusip": "781154109",
+       "value": 45348893,
+       "shares": 396164,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Tempus AI Inc",
+       "klass": "Common Stock",
+       "cusip": "88023B103",
+       "value": 766382941,
+       "shares": 9357545,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Materion Corp",
+       "klass": "Common Stock",
+       "cusip": "576690101",
+       "value": 91661,
+       "shares": 340,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Oklo Inc",
+       "klass": "Common Stock",
+       "cusip": "02156V109",
+       "value": 16392752,
+       "shares": 442808,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Gitlab Inc",
+       "klass": "Common Stock",
+       "cusip": "37637K108",
+       "value": 38768861,
+       "shares": 820505,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "MediWound Ltd",
+       "klass": "Common Stock",
+       "cusip": "M68830112",
+       "value": 2020293,
+       "shares": 146717,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "ARK Innovation ETF",
+       "klass": "ETP",
+       "cusip": "00214Q104",
+       "value": 6076966,
+       "shares": 68204,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Aurora Innovation Inc",
+       "klass": "Common Stock",
+       "cusip": "051774107",
+       "value": 31683803,
+       "shares": 5719098,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Illumina Inc",
+       "klass": "Common Stock",
+       "cusip": "452327109",
+       "value": 233116470,
+       "shares": 851785,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "BWX Technologies Inc",
+       "klass": "Common Stock",
+       "cusip": "05605H100",
+       "value": 103313618,
+       "shares": 754114,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Futu Holdings Ltd",
+       "klass": "ADR",
+       "cusip": "36118L106",
+       "value": 12948390,
+       "shares": 117127,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Symbotic Inc",
+       "klass": "Common Stock",
+       "cusip": "87151X101",
+       "value": 31254518,
+       "shares": 742917,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Intuitive Machines Inc",
+       "klass": "Common Stock",
+       "cusip": "46125A100",
+       "value": 48238384,
+       "shares": 3387527,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "TAT Technologies Ltd",
+       "klass": "Common Stock",
+       "cusip": "M8740S227",
+       "value": 1862396,
+       "shares": 51337,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Allot Ltd",
+       "klass": "Common Stock",
+       "cusip": "M0854Q105",
+       "value": 2199445,
+       "shares": 259103,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "RADCOM Ltd",
+       "klass": "Common Stock",
+       "cusip": "M81865111",
+       "value": 1647414,
+       "shares": 159788,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Valens Semiconductor Ltd",
+       "klass": "Common Stock",
+       "cusip": "M9607U115",
+       "value": 2352081,
+       "shares": 1251107,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Airbnb Inc",
+       "klass": "Common Stock",
+       "cusip": "009066101",
+       "value": 35180613,
+       "shares": 218989,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Baidu Inc",
+       "klass": "ADR",
+       "cusip": "056752108",
+       "value": 18235490,
+       "shares": 209917,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "CoreWeave Inc",
+       "klass": "Common Stock",
+       "cusip": "21873S108",
+       "value": 366812897,
+       "shares": 4210433,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Kennametal Inc",
+       "klass": "Common Stock",
+       "cusip": "489170100",
+       "value": 66091,
+       "shares": 2150,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Rocket Lab Corp",
+       "klass": "Common Stock",
+       "cusip": "773121108",
+       "value": 247883675,
+       "shares": 3557458,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Etoro Group Ltd",
+       "klass": "Common Stock",
+       "cusip": "G32089107",
+       "value": 8429703,
+       "shares": 328004,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Circle Internet Group Inc",
+       "klass": "Common Stock",
+       "cusip": "172573107",
+       "value": 563479299,
+       "shares": 6857482,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "DoorDash Inc",
+       "klass": "Common Stock",
+       "cusip": "25809K105",
+       "value": 71282927,
+       "shares": 388357,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "BitMine Immersion Technologies",
+       "klass": "Common Stock",
+       "cusip": "09175A206",
+       "value": 244470945,
+       "shares": 9249752,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Figma Inc",
+       "klass": "Common Stock",
+       "cusip": "316841105",
+       "value": 22911190,
+       "shares": 1089971,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Oddity Tech Ltd",
+       "klass": "Common Stock",
+       "cusip": "M7518J104",
+       "value": 2472170,
+       "shares": 132485,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Bullish",
+       "klass": "Common Stock",
+       "cusip": "G16910120",
+       "value": 251173322,
+       "shares": 7199006,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "GeneDx Holdings Corp",
+       "klass": "Common Stock",
+       "cusip": "81663L200",
+       "value": 138318822,
+       "shares": 1913123,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Pony AI Inc",
+       "klass": "ADR",
+       "cusip": "732908108",
+       "value": 20046643,
+       "shares": 3065236,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Alibaba Group Holding Ltd",
+       "klass": "ADR",
+       "cusip": "01609W102",
+       "value": 504470,
+       "shares": 4691,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Klarna Group PLC",
+       "klass": "Common Stock",
+       "cusip": "G5279N105",
+       "value": 9256829,
+       "shares": 747121,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Kodiak AI Inc",
+       "klass": "Common Stock",
+       "cusip": "500081104",
+       "value": 10561261,
+       "shares": 5500657,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Netflix Inc",
+       "klass": "Common Stock",
+       "cusip": "64110L106",
+       "value": 20109385,
+       "shares": 289011,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Brainsway Ltd",
+       "klass": "ADR",
+       "cusip": "10501L106",
+       "value": 1938420,
+       "shares": 146850,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Microsoft Corp",
+       "klass": "Common Stock",
+       "cusip": "594918104",
+       "value": 2919940,
+       "shares": 5693,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Canton Strategic Holdings Inc",
+       "klass": "Common Stock",
+       "cusip": "432705309",
+       "value": 7711338,
+       "shares": 3246879,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "WeRide Inc",
+       "klass": "ADR",
+       "cusip": "950915108",
+       "value": 21076383,
+       "shares": 3969187,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Velo3D Inc",
+       "klass": "Common Stock",
+       "cusip": "92259N302",
+       "value": 2285778,
+       "shares": 209897,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Broadcom Inc",
+       "klass": "Common Stock",
+       "cusip": "11135F101",
+       "value": 274672400,
+       "shares": 782119,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Compugen Ltd",
+       "klass": "Common Stock",
+       "cusip": "M25722105",
+       "value": 2113123,
+       "shares": 887867,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Alpha Tau Medical Ltd",
+       "klass": "Common Stock",
+       "cusip": "M0740A108",
+       "value": 2749061,
+       "shares": 184377,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Grayscale Ethereum Staking Min",
+       "klass": "ETP",
+       "cusip": "38964R203",
+       "value": 100736,
+       "shares": 3952,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Generate Biomedicines Inc",
+       "klass": "Common Stock",
+       "cusip": "370920100",
+       "value": 29509210,
+       "shares": 1964661,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "PayPay Corp",
+       "klass": "ADR",
+       "cusip": "70450C101",
+       "value": 4034759,
+       "shares": 256991,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "BioNTech SE",
+       "klass": "ADR",
+       "cusip": "09075V102",
+       "value": 237,
+       "shares": 2,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Eli Lilly & Co",
+       "klass": "Common Stock",
+       "cusip": "532457108",
+       "value": 124776742,
+       "shares": 107838,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "X-Energy Inc",
+       "klass": "Common Stock",
+       "cusip": "98386P102",
+       "value": 128389705,
+       "shares": 9054281,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Alamar Biosciences Inc",
+       "klass": "Common Stock",
+       "cusip": "010911105",
+       "value": 42258184,
+       "shares": 1240334,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Cerebras Systems Inc",
+       "klass": "Common Stock",
+       "cusip": "15675D103",
+       "value": 264522069,
+       "shares": 1489007,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Alphabet Inc",
+       "klass": "Common Stock",
+       "cusip": "02079K305",
+       "value": 34752,
+       "shares": 101,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Honeywell Aerospace Inc",
+       "klass": "Common Stock",
+       "cusip": "43849R105",
+       "value": 3094441,
+       "shares": 19968,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Space Exploration Technologies",
+       "klass": "Common Stock",
+       "cusip": "84615Q103",
+       "value": 1017764417,
+       "shares": 6746417,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Snowflake Inc",
+       "klass": "Common Stock",
+       "cusip": "833445109",
+       "value": 24173127,
+       "shares": 71190,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Securitize Corp",
+       "klass": "Common Stock",
+       "cusip": "81517B101",
+       "value": 37696592,
+       "shares": 2583728,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Scribe Therapeutics Inc",
+       "klass": "Common Stock",
+       "cusip": "811033109",
+       "value": 14483278,
+       "shares": 786921,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Silicom Ltd",
+       "klass": "Common Stock",
+       "cusip": "M84116108",
+       "value": 2877651,
+       "shares": 55022,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Sol-Gel Technologies Ltd",
+       "klass": "Common Stock",
+       "cusip": "M8694L137",
+       "value": 2090833,
+       "shares": 28148,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Nexxen International Ltd",
+       "klass": "Common Stock",
+       "cusip": "M8T80P204",
+       "value": 1890036,
+       "shares": 210004,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Freenome Inc",
+       "klass": "Common Stock",
+       "cusip": "35661P100",
+       "value": 43906384,
+       "shares": 2787707,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "ARK Active Autocallable Income",
+       "klass": "ETP",
+       "cusip": "00214Q724",
+       "value": 29782301,
+       "shares": 1470005,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "Teva Pharmaceutical Industries",
+       "klass": "Common Stock",
+       "cusip": "M8769Q102",
+       "value": 2735355,
+       "shares": 68295,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "ARK Innovation ETF",
+       "klass": "ETP",
+       "cusip": "00214Q104",
+       "value": 766260,
+       "shares": 8600,
        "shareType": "SH",
        "putCall": "Call",
        "discretion": "SOLE"

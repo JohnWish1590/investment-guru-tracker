@@ -1433,6 +1433,37 @@
   "464288794": {
    "ticker": "IAI",
    "en": "ISHARES U.S. BROKER-DEALERS"
+  },
+  "81517B101": {
+   "ticker": "SECZ",
+   "en": "SECURITIZE CORP"
+  },
+  "811033109": {
+   "ticker": "SCTX",
+   "en": "SCRIBE THERAPEUTICS INC"
+  },
+  "M84116108": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "M8694L137": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
+  },
+  "35661P100": {
+   "ticker": "FRNM",
+   "en": "FREENOME INC"
+  },
+  "00214Q724": {
+   "ticker": "ARKY",
+   "en": "ARK ACTIVE AUTOCALL INC ETF"
+  },
+  "M8769Q102": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
   }
  },
  "zh": {
@@ -1562,7 +1593,7 @@
   "ZM": "Zoom通讯",
   "GE": "GE航天航空"
  },
- "updated": "2026-10-20T15:20:14Z",
+ "updated": "2026-11-14T06:11:09Z",
  "zh_by_cusip": {
   "037833100": "苹果",
   "02079K107": "谷歌-C",
@@ -1997,6 +2028,10 @@
   "78464A581": "XHE",
   "78464A631": "XAR",
   "316092873": "FCOM",
-  "464288794": "IAI"
+  "464288794": "IAI",
+  "81517B101": "SECZ",
+  "811033109": "SCTX",
+  "35661P100": "FRNM",
+  "00214Q724": "ARKY"
  }
 }
