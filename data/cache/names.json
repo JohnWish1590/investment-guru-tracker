@@ -1464,6 +1464,11 @@
    "ticker": null,
    "en": null,
    "rejected": false
+  },
+  "T19377109": {
+   "ticker": null,
+   "en": null,
+   "rejected": false
   }
  },
  "zh": {
@@ -1593,7 +1598,7 @@
   "ZM": "Zoom通讯",
   "GE": "GE航天航空"
  },
- "updated": "2026-11-14T06:11:09Z",
+ "updated": "2026-11-17T07:48:41Z",
  "zh_by_cusip": {
   "037833100": "苹果",
   "02079K107": "谷歌-C",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13",
+ "generatedAt": "2026-11-16",
  "source": "SEC EDGAR 13F-HR information tables",
  "institutions": [
   {
@@ -12,120 +12,6 @@
    "cik": "0001759760",
    "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001759760&type=13F&dateb=&owner=include&count=40",
    "quarters": [
-    {
-     "accession": "0001085146-24-003861",
-     "form": "13F-HR",
-     "filingDate": "2024-08-14",
-     "reportDate": "2024-06-30",
-     "amendments": [],
-     "docs": [
-      {
-       "accession": "0001085146-24-003861",
-       "form": "13F-HR",
-       "filingDate": "2024-08-14",
-       "tableUrl": "https://www.sec.gov/Archives/edgar/data/1759760/000108514624003861/infotable.xml",
-       "primaryDocUrl": "https://www.sec.gov/Archives/edgar/data/1759760/000108514624003861/primary_doc.xml",
-       "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1759760/000108514624003861/",
-       "rowCount": 9
-      }
-     ],
-     "tableUrl": "https://www.sec.gov/Archives/edgar/data/1759760/000108514624003861/infotable.xml",
-     "primaryDocUrl": "https://www.sec.gov/Archives/edgar/data/1759760/000108514624003861/primary_doc.xml",
-     "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1759760/000108514624003861/",
-     "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001759760&type=13F&dateb=&owner=include&count=40",
-     "rows": [
-      {
-       "issuer": "ALIBABA GROUP HLDG LTD",
-       "klass": "SPONSORED ADS",
-       "cusip": "01609W102",
-       "value": 454091760,
-       "shares": 6306830,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "ALPHABET INC",
-       "klass": "CAP STK CL C",
-       "cusip": "02079K107",
-       "value": 921868920,
-       "shares": 5026000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "APPLE INC",
-       "klass": "COM",
-       "cusip": "037833100",
-       "value": 13463726588,
-       "shares": 63924255,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "BANK AMERICA CORP",
-       "klass": "COM",
-       "cusip": "060505104",
-       "value": 4291183,
-       "shares": 107900,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "BERKSHIRE HATHAWAY INC DEL",
-       "klass": "CL B NEW",
-       "cusip": "084670702",
-       "value": 1586153880,
-       "shares": 3899100,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "DISNEY WALT CO",
-       "klass": "COM",
-       "cusip": "254687106",
-       "value": 74318565,
-       "shares": 748500,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "MODERNA INC",
-       "klass": "COM",
-       "cusip": "60770K107",
-       "value": 16708125,
-       "shares": 140700,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "OCCIDENTAL PETE CORP",
-       "klass": "COM",
-       "cusip": "674599105",
-       "value": 97261719,
-       "shares": 1543102,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      },
-      {
-       "issuer": "PDD HOLDINGS INC",
-       "klass": "SPONSORED ADS",
-       "cusip": "722304102",
-       "value": 13693850,
-       "shares": 103000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "SOLE"
-      }
-     ]
-    },
     {
      "accession": "0001085146-24-005748",
      "form": "13F-HR",
@@ -1402,6 +1288,190 @@
        "discretion": "SOLE"
       }
      ]
+    },
+    {
+     "accession": "0001759760-26-000008",
+     "form": "13F-HR",
+     "filingDate": "2026-11-16",
+     "reportDate": "2026-09-30",
+     "amendments": [],
+     "docs": [
+      {
+       "accession": "0001759760-26-000008",
+       "form": "13F-HR",
+       "filingDate": "2026-11-16",
+       "tableUrl": "https://www.sec.gov/Archives/edgar/data/1759760/000175976026000008/infotable.xml",
+       "primaryDocUrl": "https://www.sec.gov/Archives/edgar/data/1759760/000175976026000008/primary_doc.xml",
+       "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1759760/000175976026000008/",
+       "rowCount": 16
+      }
+     ],
+     "tableUrl": "https://www.sec.gov/Archives/edgar/data/1759760/000175976026000008/infotable.xml",
+     "primaryDocUrl": "https://www.sec.gov/Archives/edgar/data/1759760/000175976026000008/primary_doc.xml",
+     "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1759760/000175976026000008/",
+     "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001759760&type=13F&dateb=&owner=include&count=40",
+     "rows": [
+      {
+       "issuer": "ALPHABET INC",
+       "klass": "CAP STK CL C",
+       "cusip": "02079K107",
+       "value": 392430258,
+       "shares": 1151700,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "APPLE INC",
+       "klass": "COM",
+       "cusip": "037833100",
+       "value": 7060824247,
+       "shares": 21202403,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "BERKSHIRE HATHAWAY INC DEL",
+       "klass": "CL B NEW",
+       "cusip": "084670702",
+       "value": 4161266568,
+       "shares": 8356796,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "CREDO TECHNOLOGY GROUP HOLDI",
+       "klass": "ORDINARY SHARES",
+       "cusip": "G25457105",
+       "value": 117127227,
+       "shares": 601300,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "DISNEY WALT CO",
+       "klass": "COM",
+       "cusip": "254687106",
+       "value": 179022340,
+       "shares": 1706600,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "MICROSOFT CORP",
+       "klass": "COM",
+       "cusip": "594918104",
+       "value": 356003890,
+       "shares": 694100,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "NVIDIA CORPORATION",
+       "klass": "COM",
+       "cusip": "67066G104",
+       "value": 529721701,
+       "shares": 2319475,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "OCCIDENTAL PETE CORP",
+       "klass": "COM",
+       "cusip": "674599105",
+       "value": 567666180,
+       "shares": 10261500,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "PALANTIR TECHNOLOGIES INC",
+       "klass": "CL A",
+       "cusip": "69608A108",
+       "value": 11223000,
+       "shares": 60000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "PDD HOLDINGS INC",
+       "klass": "SPONSORED ADS",
+       "cusip": "722304102",
+       "value": 2181607550,
+       "shares": 27990859,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "SNOWFLAKE INC",
+       "klass": "COM SHS",
+       "cusip": "833445109",
+       "value": 3395600,
+       "shares": 10000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "SPACE EXPLORATION TECHN CORP",
+       "klass": "CLASS A COM STK",
+       "cusip": "84615Q103",
+       "value": 30156914,
+       "shares": 199900,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "SYNOPSYS INC",
+       "klass": "COM",
+       "cusip": "871607107",
+       "value": 4349400,
+       "shares": 10000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "TEMPUS AI INC",
+       "klass": "CL A",
+       "cusip": "88023B103",
+       "value": 1638000,
+       "shares": 20000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "TESLA INC",
+       "klass": "COM",
+       "cusip": "88160R101",
+       "value": 1447624800,
+       "shares": 4080000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      },
+      {
+       "issuer": "UNITEDHEALTH GROUP INC",
+       "klass": "COM",
+       "cusip": "91324P102",
+       "value": 146685168,
+       "shares": 399600,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "SOLE"
+      }
+     ]
     }
    ]
   },
@@ -1415,1320 +1485,6 @@
    "cik": "0001067983",
    "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001067983&type=13F&dateb=&owner=include&count=40",
    "quarters": [
-    {
-     "accession": "0000950123-24-008740",
-     "form": "13F-HR",
-     "filingDate": "2024-08-14",
-     "reportDate": "2024-06-30",
-     "amendments": [],
-     "docs": [
-      {
-       "accession": "0000950123-24-008740",
-       "form": "13F-HR",
-       "filingDate": "2024-08-14",
-       "tableUrl": "https://www.sec.gov/Archives/edgar/data/1067983/000095012324008740/34725.xml",
-       "primaryDocUrl": "https://www.sec.gov/Archives/edgar/data/1067983/000095012324008740/primary_doc.xml",
-       "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1067983/000095012324008740/",
-       "rowCount": 129
-      }
-     ],
-     "tableUrl": "https://www.sec.gov/Archives/edgar/data/1067983/000095012324008740/34725.xml",
-     "primaryDocUrl": "https://www.sec.gov/Archives/edgar/data/1067983/000095012324008740/primary_doc.xml",
-     "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1067983/000095012324008740/",
-     "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001067983&type=13F&dateb=&owner=include&count=40",
-     "rows": [
-      {
-       "issuer": "ALLY FINL INC",
-       "klass": "COM",
-       "cusip": "02005N100",
-       "value": 504589507,
-       "shares": 12719675,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "ALLY FINL INC",
-       "klass": "COM",
-       "cusip": "02005N100",
-       "value": 111229721,
-       "shares": 2803875,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "ALLY FINL INC",
-       "klass": "COM",
-       "cusip": "02005N100",
-       "value": 167732694,
-       "shares": 4228200,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "ALLY FINL INC",
-       "klass": "COM",
-       "cusip": "02005N100",
-       "value": 124444790,
-       "shares": 3137000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "ALLY FINL INC",
-       "klass": "COM",
-       "cusip": "02005N100",
-       "value": 191854038,
-       "shares": 4836250,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "ALLY FINL INC",
-       "klass": "COM",
-       "cusip": "02005N100",
-       "value": 50579250,
-       "shares": 1275000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "AMAZON COM INC",
-       "klass": "COM",
-       "cusip": "023135106",
-       "value": 1492663000,
-       "shares": 7724000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "AMAZON COM INC",
-       "klass": "COM",
-       "cusip": "023135106",
-       "value": 439837000,
-       "shares": 2276000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "AMERICAN EXPRESS CO",
-       "klass": "COM",
-       "cusip": "025816109",
-       "value": 266269070,
-       "shares": 1149942,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "AMERICAN EXPRESS CO",
-       "klass": "COM",
-       "cusip": "025816109",
-       "value": 34515084970,
-       "shares": 149061045,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "AMERICAN EXPRESS CO",
-       "klass": "COM",
-       "cusip": "025816109",
-       "value": 324103545,
-       "shares": 1399713,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "APPLE INC",
-       "klass": "COM",
-       "cusip": "037833100",
-       "value": 145749040,
-       "shares": 692000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "APPLE INC",
-       "klass": "COM",
-       "cusip": "037833100",
-       "value": 808780800,
-       "shares": 3840000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "APPLE INC",
-       "klass": "COM",
-       "cusip": "037833100",
-       "value": 7161080,
-       "shares": 34000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "APPLE INC",
-       "klass": "COM",
-       "cusip": "037833100",
-       "value": 10625468967,
-       "shares": 50448528,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "APPLE INC",
-       "klass": "COM",
-       "cusip": "037833100",
-       "value": 573728880,
-       "shares": 2724000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "APPLE INC",
-       "klass": "COM",
-       "cusip": "037833100",
-       "value": 3314359918,
-       "shares": 15736207,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "APPLE INC",
-       "klass": "COM",
-       "cusip": "037833100",
-       "value": 12962184133,
-       "shares": 61542988,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "APPLE INC",
-       "klass": "COM",
-       "cusip": "037833100",
-       "value": 1517306480,
-       "shares": 7204000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "APPLE INC",
-       "klass": "COM",
-       "cusip": "037833100",
-       "value": 7023378750,
-       "shares": 33346210,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "APPLE INC",
-       "klass": "COM",
-       "cusip": "037833100",
-       "value": 45903379392,
-       "shares": 217944067,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "APPLE INC",
-       "klass": "COM",
-       "cusip": "037833100",
-       "value": 571201440,
-       "shares": 2712000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "APPLE INC",
-       "klass": "COM",
-       "cusip": "037833100",
-       "value": 795301120,
-       "shares": 3776000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "ATLANTA BRAVES HLDGS INC",
-       "klass": "COM SER C",
-       "cusip": "047726302",
-       "value": 4268078,
-       "shares": 108217,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "ATLANTA BRAVES HLDGS INC",
-       "klass": "COM SER C",
-       "cusip": "047726302",
-       "value": 3820434,
-       "shares": 96867,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "ATLANTA BRAVES HLDGS INC",
-       "klass": "COM SER C",
-       "cusip": "047726302",
-       "value": 588800,
-       "shares": 14929,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "ATLANTA BRAVES HLDGS INC",
-       "klass": "COM SER C",
-       "cusip": "047726302",
-       "value": 143246,
-       "shares": 3632,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "BANK AMER CORP",
-       "klass": "COM",
-       "cusip": "060505104",
-       "value": 155898400,
-       "shares": 3920000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "BANK AMER CORP",
-       "klass": "COM",
-       "cusip": "060505104",
-       "value": 473263000,
-       "shares": 11900000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "BANK AMER CORP",
-       "klass": "COM",
-       "cusip": "060505104",
-       "value": 695279025,
-       "shares": 17482500,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "BANK AMER CORP",
-       "klass": "COM",
-       "cusip": "060505104",
-       "value": 5567800000,
-       "shares": 140000000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "BANK AMER CORP",
-       "klass": "COM",
-       "cusip": "060505104",
-       "value": 1251880060,
-       "shares": 31478000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "BANK AMER CORP",
-       "klass": "COM",
-       "cusip": "060505104",
-       "value": 83517000,
-       "shares": 2100000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "BANK AMER CORP",
-       "klass": "COM",
-       "cusip": "060505104",
-       "value": 904823178,
-       "shares": 22751400,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "BANK AMER CORP",
-       "klass": "COM",
-       "cusip": "060505104",
-       "value": 12399490600,
-       "shares": 311780000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "BANK AMER CORP",
-       "klass": "COM",
-       "cusip": "060505104",
-       "value": 477200230,
-       "shares": 11999000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "BANK AMER CORP",
-       "klass": "COM",
-       "cusip": "060505104",
-       "value": 1577874750,
-       "shares": 39675000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "BANK AMER CORP",
-       "klass": "COM",
-       "cusip": "060505104",
-       "value": 15986192036,
-       "shares": 401966106,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "BANK AMER CORP",
-       "klass": "COM",
-       "cusip": "060505104",
-       "value": 1113560000,
-       "shares": 28000000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "BANK AMER CORP",
-       "klass": "COM",
-       "cusip": "060505104",
-       "value": 389746000,
-       "shares": 9800000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "CAPITAL ONE FINL CORP",
-       "klass": "COM",
-       "cusip": "14040H105",
-       "value": 502453049,
-       "shares": 3629130,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "CAPITAL ONE FINL CORP",
-       "klass": "COM",
-       "cusip": "14040H105",
-       "value": 542764289,
-       "shares": 3920291,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "CAPITAL ONE FINL CORP",
-       "klass": "COM",
-       "cusip": "14040H105",
-       "value": 295867650,
-       "shares": 2137000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "CAPITAL ONE FINL CORP",
-       "klass": "COM",
-       "cusip": "14040H105",
-       "value": 18362762,
-       "shares": 132631,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "CHARTER COMMUNICATIONS INC N",
-       "klass": "CL A",
-       "cusip": "16119P108",
-       "value": 1144700201,
-       "shares": 3828941,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "CHEVRON CORP NEW",
-       "klass": "COM",
-       "cusip": "166764100",
-       "value": 2747361036,
-       "shares": 17564001,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "CHEVRON CORP NEW",
-       "klass": "COM",
-       "cusip": "166764100",
-       "value": 9604188,
-       "shares": 61400,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "CHEVRON CORP NEW",
-       "klass": "COM",
-       "cusip": "166764100",
-       "value": 327230640,
-       "shares": 2092000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "CHEVRON CORP NEW",
-       "klass": "COM",
-       "cusip": "166764100",
-       "value": 5086341675,
-       "shares": 32517208,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "CHEVRON CORP NEW",
-       "klass": "COM",
-       "cusip": "166764100",
-       "value": 447110928,
-       "shares": 2858400,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "CHEVRON CORP NEW",
-       "klass": "COM",
-       "cusip": "166764100",
-       "value": 9632269301,
-       "shares": 61579525,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "CHEVRON CORP NEW",
-       "klass": "COM",
-       "cusip": "166764100",
-       "value": 303141960,
-       "shares": 1938000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "CITIGROUP INC",
-       "klass": "COM NEW",
-       "cusip": "172967424",
-       "value": 231311700,
-       "shares": 3645000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "CITIGROUP INC",
-       "klass": "COM NEW",
-       "cusip": "172967424",
-       "value": 5647940,
-       "shares": 89000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "CITIGROUP INC",
-       "klass": "COM NEW",
-       "cusip": "172967424",
-       "value": 1802582887,
-       "shares": 28405025,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "CITIGROUP INC",
-       "klass": "COM NEW",
-       "cusip": "172967424",
-       "value": 360785965,
-       "shares": 5685250,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "CITIGROUP INC",
-       "klass": "COM NEW",
-       "cusip": "172967424",
-       "value": 914301346,
-       "shares": 14407522,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "CITIGROUP INC",
-       "klass": "COM NEW",
-       "cusip": "172967424",
-       "value": 191204980,
-       "shares": 3013000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "COCA COLA CO",
-       "klass": "COM",
-       "cusip": "191216100",
-       "value": 50920000,
-       "shares": 800000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "COCA COLA CO",
-       "klass": "COM",
-       "cusip": "191216100",
-       "value": 23644129,
-       "shares": 371471,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "COCA COLA CO",
-       "klass": "COM",
-       "cusip": "191216100",
-       "value": 5410250,
-       "shares": 85000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "COCA COLA CO",
-       "klass": "COM",
-       "cusip": "191216100",
-       "value": 5110025680,
-       "shares": 80283200,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "COCA COLA CO",
-       "klass": "COM",
-       "cusip": "191216100",
-       "value": 116097600,
-       "shares": 1824000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "COCA COLA CO",
-       "klass": "COM",
-       "cusip": "191216100",
-       "value": 917272880,
-       "shares": 14411200,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "COCA COLA CO",
-       "klass": "COM",
-       "cusip": "191216100",
-       "value": 954138960,
-       "shares": 14990400,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "COCA COLA CO",
-       "klass": "COM",
-       "cusip": "191216100",
-       "value": 17995301701,
-       "shares": 282722729,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "COCA COLA CO",
-       "klass": "COM",
-       "cusip": "191216100",
-       "value": 226084800,
-       "shares": 3552000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "COCA COLA CO",
-       "klass": "COM",
-       "cusip": "191216100",
-       "value": 61104000,
-       "shares": 960000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "DAVITA INC",
-       "klass": "COM",
-       "cusip": "23918K108",
-       "value": 2436349934,
-       "shares": 17582088,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "DAVITA INC",
-       "klass": "COM",
-       "cusip": "23918K108",
-       "value": 2565413201,
-       "shares": 18513482,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "DIAGEO P L C",
-       "klass": "SPON ADR NEW",
-       "cusip": "25243Q205",
-       "value": 28714720,
-       "shares": 227750,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "FLOOR & DECOR HLDGS INC",
-       "klass": "CL A",
-       "cusip": "339750101",
-       "value": 129518307,
-       "shares": 1302870,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "FLOOR & DECOR HLDGS INC",
-       "klass": "CL A",
-       "cusip": "339750101",
-       "value": 115902119,
-       "shares": 1165900,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "FLOOR & DECOR HLDGS INC",
-       "klass": "CL A",
-       "cusip": "339750101",
-       "value": 103485810,
-       "shares": 1041000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "FLOOR & DECOR HLDGS INC",
-       "klass": "CL A",
-       "cusip": "339750101",
-       "value": 46533821,
-       "shares": 468100,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "HEICO CORP NEW",
-       "klass": "CL A",
-       "cusip": "422806208",
-       "value": 185373840,
-       "shares": 1044242,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "JEFFERIES FINL GROUP INC",
-       "klass": "COM",
-       "cusip": "47233W109",
-       "value": 21573846,
-       "shares": 433558,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "KRAFT HEINZ CO",
-       "klass": "COM",
-       "cusip": "500754106",
-       "value": 10491953836,
-       "shares": 325634818,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "KROGER CO",
-       "klass": "COM",
-       "cusip": "501044101",
-       "value": 829192004,
-       "shares": 16607090,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "KROGER CO",
-       "klass": "COM",
-       "cusip": "501044101",
-       "value": 38372753,
-       "shares": 768531,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "KROGER CO",
-       "klass": "COM",
-       "cusip": "501044101",
-       "value": 267980252,
-       "shares": 5367119,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "KROGER CO",
-       "klass": "COM",
-       "cusip": "501044101",
-       "value": 1360954992,
-       "shares": 27257260,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "LENNAR CORP",
-       "klass": "CL B",
-       "cusip": "526057302",
-       "value": 21273114,
-       "shares": 152572,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "LIBERTY MEDIA CORP DEL",
-       "klass": "COM LBTY LIV S C",
-       "cusip": "531229722",
-       "value": 139286803,
-       "shares": 3639582,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "LIBERTY MEDIA CORP DEL",
-       "klass": "COM LBTY LIV S C",
-       "cusip": "531229722",
-       "value": 5478618,
-       "shares": 143157,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "LIBERTY MEDIA CORP DEL",
-       "klass": "COM LBTY LIV S C",
-       "cusip": "531229722",
-       "value": 211619552,
-       "shares": 5529646,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "LIBERTY MEDIA CORP DEL",
-       "klass": "COM LBTY LIV S C",
-       "cusip": "531229722",
-       "value": 6223467,
-       "shares": 162620,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "LIBERTY MEDIA CORP DEL",
-       "klass": "COM LBTY LIV S C",
-       "cusip": "531229722",
-       "value": 55210445,
-       "shares": 1442656,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "LIBERTY MEDIA CORP DEL",
-       "klass": "COM LBTY LIV S A",
-       "cusip": "531229748",
-       "value": 37948792,
-       "shares": 1011698,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "LIBERTY MEDIA CORP DEL",
-       "klass": "COM LBTY LIV S A",
-       "cusip": "531229748",
-       "value": 123211910,
-       "shares": 3284775,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "LIBERTY MEDIA CORP DEL",
-       "klass": "COM LBTY LIV S A",
-       "cusip": "531229748",
-       "value": 8752846,
-       "shares": 233347,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "LIBERTY MEDIA CORP DEL",
-       "klass": "COM LBTY LIV S A",
-       "cusip": "531229748",
-       "value": 17133368,
-       "shares": 456768,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "LIBERTY MEDIA CORP DEL",
-       "klass": "COM LBTY SRM S C",
-       "cusip": "531229789",
-       "value": 327487616,
-       "shares": 14778322,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "LIBERTY MEDIA CORP DEL",
-       "klass": "COM LBTY SRM S C",
-       "cusip": "531229789",
-       "value": 1081960648,
-       "shares": 48824939,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "LIBERTY MEDIA CORP DEL",
-       "klass": "COM LBTY SRM S C",
-       "cusip": "531229789",
-       "value": 14414637,
-       "shares": 650480,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "LIBERTY MEDIA CORP DEL",
-       "klass": "COM LBTY SRM S C",
-       "cusip": "531229789",
-       "value": 127401297,
-       "shares": 5749156,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "LIBERTY MEDIA CORP DEL",
-       "klass": "COM LBTY SRM S A",
-       "cusip": "531229813",
-       "value": 95424792,
-       "shares": 4308117,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "LIBERTY MEDIA CORP DEL",
-       "klass": "COM LBTY SRM S A",
-       "cusip": "531229813",
-       "value": 622717104,
-       "shares": 28113639,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "LIBERTY MEDIA CORP DEL",
-       "klass": "COM LBTY SRM S A",
-       "cusip": "531229813",
-       "value": 20674611,
-       "shares": 933391,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "LIBERTY MEDIA CORP DEL",
-       "klass": "COM LBTY SRM S A",
-       "cusip": "531229813",
-       "value": 40469645,
-       "shares": 1827072,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "LIBERTY MEDIA CORP DEL",
-       "klass": "COM SER C FRMLA",
-       "cusip": "531229854",
-       "value": 268446683,
-       "shares": 3736730,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "LIBERTY MEDIA CORP DEL",
-       "klass": "COM SER C FRMLA",
-       "cusip": "531229854",
-       "value": 240290432,
-       "shares": 3344800,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "LIBERTY MEDIA CORP DEL",
-       "klass": "COM SER C FRMLA",
-       "cusip": "531229854",
-       "value": 37033592,
-       "shares": 515501,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "LIBERTY MEDIA CORP DEL",
-       "klass": "COM SER C FRMLA",
-       "cusip": "531229854",
-       "value": 9010173,
-       "shares": 125420,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "LOUISIANA PAC CORP",
-       "klass": "COM",
-       "cusip": "546347105",
-       "value": 133365050,
-       "shares": 1619884,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "LOUISIANA PAC CORP",
-       "klass": "COM",
-       "cusip": "546347105",
-       "value": 357716358,
-       "shares": 4344909,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "MASTERCARD INC",
-       "klass": "CL A",
-       "cusip": "57636Q104",
-       "value": 1758749632,
-       "shares": 3986648,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "MOODYS CORP",
-       "klass": "COM",
-       "cusip": "615369105",
-       "value": 30349053,
-       "shares": 72100,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "MOODYS CORP",
-       "klass": "COM",
-       "cusip": "615369105",
-       "value": 5040185513,
-       "shares": 11973928,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "MOODYS CORP",
-       "klass": "COM",
-       "cusip": "615369105",
-       "value": 5313715088,
-       "shares": 12623750,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "NVR INC",
-       "klass": "COM",
-       "cusip": "62944T105",
-       "value": 84324079,
-       "shares": 11112,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "OCCIDENTAL PETE CORP",
-       "klass": "COM",
-       "cusip": "674599105",
-       "value": 16090394458,
-       "shares": 255281524,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "SPDR S&P 500 ETF TR",
-       "klass": "TR UNIT",
-       "cusip": "78462F103",
-       "value": 21442268,
-       "shares": 39400,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "SIRIUS XM HOLDINGS INC",
-       "klass": "COM",
-       "cusip": "82968B103",
-       "value": 376045343,
-       "shares": 132878213,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "T-MOBILE US INC",
-       "klass": "COM",
-       "cusip": "872590104",
-       "value": 823112960,
-       "shares": 4672000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "ULTA BEAUTY INC",
-       "klass": "COM",
-       "cusip": "90384S303",
-       "value": 217285712,
-       "shares": 563106,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "ULTA BEAUTY INC",
-       "klass": "COM",
-       "cusip": "90384S303",
-       "value": 49005490,
-       "shares": 127000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "VANGUARD INDEX FDS",
-       "klass": "S&P 500 ETF SHS",
-       "cusip": "922908363",
-       "value": 21505590,
-       "shares": 43000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "VERISIGN INC",
-       "klass": "COM",
-       "cusip": "92343E102",
-       "value": 873021470,
-       "shares": 4910132,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "VERISIGN INC",
-       "klass": "COM",
-       "cusip": "92343E102",
-       "value": 1405594522,
-       "shares": 7905481,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "VISA INC",
-       "klass": "COM CL A",
-       "cusip": "92826C839",
-       "value": 2177834326,
-       "shares": 8297460,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "AON PLC",
-       "klass": "SHS CL A",
-       "cusip": "G0403H108",
-       "value": 676408320,
-       "shares": 2304000,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "AON PLC",
-       "klass": "SHS CL A",
-       "cusip": "G0403H108",
-       "value": 12860565,
-       "shares": 43806,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "AON PLC",
-       "klass": "SHS CL A",
-       "cusip": "G0403H108",
-       "value": 514409115,
-       "shares": 1752194,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "NU HLDGS LTD",
-       "klass": "ORD SHS CL A",
-       "cusip": "G6683N103",
-       "value": 1380761126,
-       "shares": 107118784,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "LIBERTY LATIN AMERICA LTD",
-       "klass": "COM CL A",
-       "cusip": "G9001E102",
-       "value": 9663883,
-       "shares": 1005607,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "LIBERTY LATIN AMERICA LTD",
-       "klass": "COM CL A",
-       "cusip": "G9001E102",
-       "value": 15618028,
-       "shares": 1625185,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "LIBERTY LATIN AMERICA LTD",
-       "klass": "COM CL C",
-       "cusip": "G9001E128",
-       "value": 12352272,
-       "shares": 1284020,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      },
-      {
-       "issuer": "CHUBB LIMITED",
-       "klass": "COM",
-       "cusip": "H1467J104",
-       "value": 6895777623,
-       "shares": 27033784,
-       "shareType": "SH",
-       "putCall": "",
-       "discretion": "DFND"
-      }
-     ]
-    },
     {
      "accession": "0000950123-24-011775",
      "form": "13F-HR",
@@ -11580,6 +10336,920 @@
        "cusip": "H1467J104",
        "value": 11670066615,
        "shares": 34249183,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      }
+     ]
+    },
+    {
+     "accession": "0001193125-26-463399",
+     "form": "13F-HR",
+     "filingDate": "2026-11-16",
+     "reportDate": "2026-09-30",
+     "amendments": [],
+     "docs": [
+      {
+       "accession": "0001193125-26-463399",
+       "form": "13F-HR",
+       "filingDate": "2026-11-16",
+       "tableUrl": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526463399/60471.xml",
+       "primaryDocUrl": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526463399/primary_doc.xml",
+       "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526463399/",
+       "rowCount": 89
+      }
+     ],
+     "tableUrl": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526463399/60471.xml",
+     "primaryDocUrl": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526463399/primary_doc.xml",
+     "filingIndexUrl": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526463399/",
+     "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001067983&type=13F&dateb=&owner=include&count=40",
+     "rows": [
+      {
+       "issuer": "ALLY FINL INC",
+       "klass": "COM",
+       "cusip": "02005N100",
+       "value": 472572546,
+       "shares": 12561737,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "ALLY FINL INC",
+       "klass": "COM",
+       "cusip": "02005N100",
+       "value": 105481778,
+       "shares": 2803875,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "ALLY FINL INC",
+       "klass": "COM",
+       "cusip": "02005N100",
+       "value": 159064884,
+       "shares": 4228200,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "ALLY FINL INC",
+       "klass": "COM",
+       "cusip": "02005N100",
+       "value": 64239160,
+       "shares": 1707580,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "ALLY FINL INC",
+       "klass": "COM",
+       "cusip": "02005N100",
+       "value": 166416133,
+       "shares": 4423608,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "ALLY FINL INC",
+       "klass": "COM",
+       "cusip": "02005N100",
+       "value": 47965500,
+       "shares": 1275000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "ALPHABET INC",
+       "klass": "CAP STK CL C",
+       "cusip": "02079K107",
+       "value": 9264186660,
+       "shares": 27188433,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "ALPHABET INC",
+       "klass": "CAP STK CL A",
+       "cusip": "02079K305",
+       "value": 5746136,
+       "shares": 16700,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "ALPHABET INC",
+       "klass": "CAP STK CL A",
+       "cusip": "02079K305",
+       "value": 2305336000,
+       "shares": 6700000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "ALPHABET INC",
+       "klass": "CAP STK CL A",
+       "cusip": "02079K305",
+       "value": 2150500000,
+       "shares": 6250000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "ALPHABET INC",
+       "klass": "CAP STK CL A",
+       "cusip": "02079K305",
+       "value": 22648882605,
+       "shares": 65824467,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "AMERICAN EXPRESS CO",
+       "klass": "COM",
+       "cusip": "025816109",
+       "value": 349697362,
+       "shares": 1149942,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "AMERICAN EXPRESS CO",
+       "klass": "COM",
+       "cusip": "025816109",
+       "value": 45329463785,
+       "shares": 149061045,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "AMERICAN EXPRESS CO",
+       "klass": "COM",
+       "cusip": "025816109",
+       "value": 425652723,
+       "shares": 1399713,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "APPLE INC",
+       "klass": "COM",
+       "cusip": "037833100",
+       "value": 230449840,
+       "shares": 692000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "APPLE INC",
+       "klass": "COM",
+       "cusip": "037833100",
+       "value": 1278796800,
+       "shares": 3840000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "APPLE INC",
+       "klass": "COM",
+       "cusip": "037833100",
+       "value": 11322680,
+       "shares": 34000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "APPLE INC",
+       "klass": "COM",
+       "cusip": "037833100",
+       "value": 11563786480,
+       "shares": 34724000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "APPLE INC",
+       "klass": "COM",
+       "cusip": "037833100",
+       "value": 907146480,
+       "shares": 2724000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "APPLE INC",
+       "klass": "COM",
+       "cusip": "037833100",
+       "value": 5172466640,
+       "shares": 15532000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "APPLE INC",
+       "klass": "COM",
+       "cusip": "037833100",
+       "value": 20495045864,
+       "shares": 61542988,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "APPLE INC",
+       "klass": "COM",
+       "cusip": "037833100",
+       "value": 2399076080,
+       "shares": 7204000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "APPLE INC",
+       "klass": "COM",
+       "cusip": "037833100",
+       "value": 4819465440,
+       "shares": 14472000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "APPLE INC",
+       "klass": "COM",
+       "cusip": "037833100",
+       "value": 26862998356,
+       "shares": 80664820,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "APPLE INC",
+       "klass": "COM",
+       "cusip": "037833100",
+       "value": 903150240,
+       "shares": 2712000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "APPLE INC",
+       "klass": "COM",
+       "cusip": "037833100",
+       "value": 1257483520,
+       "shares": 3776000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "BANK OF AMER CORP",
+       "klass": "COM",
+       "cusip": "060505104",
+       "value": 213365600,
+       "shares": 3920000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "BANK OF AMER CORP",
+       "klass": "COM",
+       "cusip": "060505104",
+       "value": 647717000,
+       "shares": 11900000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "BANK OF AMER CORP",
+       "klass": "COM",
+       "cusip": "060505104",
+       "value": 7919565,
+       "shares": 145500,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "BANK OF AMER CORP",
+       "klass": "COM",
+       "cusip": "060505104",
+       "value": 114303000,
+       "shares": 2100000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "BANK OF AMER CORP",
+       "klass": "COM",
+       "cusip": "060505104",
+       "value": 1143030000,
+       "shares": 21000000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "BANK OF AMER CORP",
+       "klass": "COM",
+       "cusip": "060505104",
+       "value": 15309820457,
+       "shares": 281275408,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "BANK OF AMER CORP",
+       "klass": "COM",
+       "cusip": "060505104",
+       "value": 6842939600,
+       "shares": 125720000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "BANK OF AMER CORP",
+       "klass": "COM",
+       "cusip": "060505104",
+       "value": 533414000,
+       "shares": 9800000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "CAPITAL ONE FINL CORP",
+       "klass": "COM",
+       "cusip": "14040H105",
+       "value": 222030500,
+       "shares": 1150000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "CHEVRON CORPORATION",
+       "klass": "COM",
+       "cusip": "166764100",
+       "value": 705394026,
+       "shares": 3454258,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "CHEVRON CORPORATION",
+       "klass": "COM",
+       "cusip": "166764100",
+       "value": 1877133240,
+       "shares": 9192171,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "CHEVRON CORPORATION",
+       "klass": "COM",
+       "cusip": "166764100",
+       "value": 2752276624,
+       "shares": 13477678,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "CHEVRON CORPORATION",
+       "klass": "COM",
+       "cusip": "166764100",
+       "value": 11895589663,
+       "shares": 58251749,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "COCA COLA CO",
+       "klass": "COM",
+       "cusip": "191216100",
+       "value": 68864000,
+       "shares": 800000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "COCA COLA CO",
+       "klass": "COM",
+       "cusip": "191216100",
+       "value": 31976224,
+       "shares": 371471,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "COCA COLA CO",
+       "klass": "COM",
+       "cusip": "191216100",
+       "value": 7316800,
+       "shares": 85000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "COCA COLA CO",
+       "klass": "COM",
+       "cusip": "191216100",
+       "value": 6910777856,
+       "shares": 80283200,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "COCA COLA CO",
+       "klass": "COM",
+       "cusip": "191216100",
+       "value": 157009920,
+       "shares": 1824000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "COCA COLA CO",
+       "klass": "COM",
+       "cusip": "191216100",
+       "value": 1240516096,
+       "shares": 14411200,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "COCA COLA CO",
+       "klass": "COM",
+       "cusip": "191216100",
+       "value": 1290373632,
+       "shares": 14990400,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "COCA COLA CO",
+       "klass": "COM",
+       "cusip": "191216100",
+       "value": 24336772512,
+       "shares": 282722729,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "COCA COLA CO",
+       "klass": "COM",
+       "cusip": "191216100",
+       "value": 305756160,
+       "shares": 3552000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "COCA COLA CO",
+       "klass": "COM",
+       "cusip": "191216100",
+       "value": 82636800,
+       "shares": 960000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "D R HORTON INC",
+       "klass": "COM",
+       "cusip": "23331A109",
+       "value": 487021,
+       "shares": 3564,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "DAVITA INC",
+       "klass": "COM",
+       "cusip": "23918K108",
+       "value": 2619183511,
+       "shares": 14973608,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "DAVITA INC",
+       "klass": "COM",
+       "cusip": "23918K108",
+       "value": 2400535785,
+       "shares": 13723621,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "DELTA AIR LINES INC",
+       "klass": "COM NEW",
+       "cusip": "247361702",
+       "value": 5378997000,
+       "shares": 64450000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "JEFFERIES FINANCIAL GROUP IN",
+       "klass": "COM",
+       "cusip": "47233W109",
+       "value": 19826607,
+       "shares": 433558,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "KRAFT HEINZ CO",
+       "klass": "COM",
+       "cusip": "500754106",
+       "value": 7398423065,
+       "shares": 325634818,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "KROGER CO",
+       "klass": "COM",
+       "cusip": "501044101",
+       "value": 94207616,
+       "shares": 1607090,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "KROGER CO",
+       "klass": "COM",
+       "cusip": "501044101",
+       "value": 45051287,
+       "shares": 768531,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "KROGER CO",
+       "klass": "COM",
+       "cusip": "501044101",
+       "value": 314620516,
+       "shares": 5367119,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "KROGER CO",
+       "klass": "COM",
+       "cusip": "501044101",
+       "value": 1597820581,
+       "shares": 27257260,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "LENNAR CORP",
+       "klass": "CL A",
+       "cusip": "526057104",
+       "value": 295763750,
+       "shares": 3625000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "LENNAR CORP",
+       "klass": "CL A",
+       "cusip": "526057104",
+       "value": 369772978,
+       "shares": 4532087,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "LENNAR CORP",
+       "klass": "CL A",
+       "cusip": "526057104",
+       "value": 1458612905,
+       "shares": 17877349,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "LENNAR CORP",
+       "klass": "CL B",
+       "cusip": "526057302",
+       "value": 44234470,
+       "shares": 553000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "LIBERTY LIVE HOLDINGS INC",
+       "klass": "COM SER A",
+       "cusip": "530909100",
+       "value": 95747099,
+       "shares": 1011698,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "LIBERTY LIVE HOLDINGS INC",
+       "klass": "COM SER A",
+       "cusip": "530909100",
+       "value": 310871106,
+       "shares": 3284775,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "LIBERTY LIVE HOLDINGS INC",
+       "klass": "COM SER A",
+       "cusip": "530909100",
+       "value": 22083960,
+       "shares": 233347,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "LIBERTY LIVE HOLDINGS INC",
+       "klass": "COM SER A",
+       "cusip": "530909100",
+       "value": 43228524,
+       "shares": 456768,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "LIBERTY LIVE HOLDINGS INC",
+       "klass": "COM SHS SER C",
+       "cusip": "530909308",
+       "value": 338396060,
+       "shares": 3479651,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "LIBERTY LIVE HOLDINGS INC",
+       "klass": "COM SHS SER C",
+       "cusip": "530909308",
+       "value": 535612447,
+       "shares": 5507583,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "LIBERTY LIVE HOLDINGS INC",
+       "klass": "COM SHS SER C",
+       "cusip": "530909308",
+       "value": 15814795,
+       "shares": 162620,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "LIBERTY LIVE HOLDINGS INC",
+       "klass": "COM SHS SER C",
+       "cusip": "530909308",
+       "value": 139776355,
+       "shares": 1437289,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "LOUISIANA PAC CORP",
+       "klass": "COM",
+       "cusip": "546347105",
+       "value": 85198512,
+       "shares": 1319884,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "LOUISIANA PAC CORP",
+       "klass": "COM",
+       "cusip": "546347105",
+       "value": 280463876,
+       "shares": 4344909,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "MACYS INC",
+       "klass": "COM",
+       "cusip": "55616P104",
+       "value": 14462889,
+       "shares": 635173,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "MACYS INC",
+       "klass": "COM",
+       "cusip": "55616P104",
+       "value": 31336666,
+       "shares": 1376226,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "MACYS INC",
+       "klass": "COM",
+       "cusip": "55616P104",
+       "value": 125858921,
+       "shares": 5527401,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "MOODYS CORP",
+       "klass": "COM",
+       "cusip": "615369105",
+       "value": 32742773,
+       "shares": 72100,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "MOODYS CORP",
+       "klass": "COM",
+       "cusip": "615369105",
+       "value": 5437719923,
+       "shares": 11973928,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "MOODYS CORP",
+       "klass": "COM",
+       "cusip": "615369105",
+       "value": 5732823588,
+       "shares": 12623750,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "NVR INC",
+       "klass": "COM",
+       "cusip": "62944T105",
+       "value": 68387582,
+       "shares": 11112,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "NEW YORK TIMES CO MTN BE",
+       "klass": "CL A",
+       "cusip": "650111107",
+       "value": 89180000,
+       "shares": 1400000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "NEW YORK TIMES CO MTN BE",
+       "klass": "CL A",
+       "cusip": "650111107",
+       "value": 910910000,
+       "shares": 14300000,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "NUCOR CORP",
+       "klass": "COM",
+       "cusip": "670346105",
+       "value": 369506390,
+       "shares": 1580776,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "OCCIDENTAL PETE CORP",
+       "klass": "COM",
+       "cusip": "674599105",
+       "value": 14656559963,
+       "shares": 264941431,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "SIRIUSXM HOLDINGS INC",
+       "klass": "COMMON STOCK",
+       "cusip": "829933100",
+       "value": 413688953,
+       "shares": 15984890,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "SIRIUSXM HOLDINGS INC",
+       "klass": "COMMON STOCK",
+       "cusip": "829933100",
+       "value": 2816319235,
+       "shares": 108822227,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "VERISIGN INC",
+       "klass": "COM",
+       "cusip": "92343E102",
+       "value": 1670101573,
+       "shares": 5922136,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "CHUBB LIMITED",
+       "klass": "COM",
+       "cusip": "H1467J104",
+       "value": 11139546771,
+       "shares": 34249183,
+       "shareType": "SH",
+       "putCall": "",
+       "discretion": "DFND"
+      },
+      {
+       "issuer": "BENDING SPOONS SPA",
+       "klass": "COM SHS",
+       "cusip": "T19377109",
+       "value": 689379305,
+       "shares": 20689655,
        "shareType": "SH",
        "putCall": "",
        "discretion": "DFND"
